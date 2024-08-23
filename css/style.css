@@ -2713,7 +2713,7 @@ h3, .h3 {
 /*# sourceMappingURL=style.css.map */
 @media (max-width: 1000px) {
   .container.box_1620 a img {
-    max-width: 300px;
+    max-width: 260px;
   }
   .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
      color: #FFFFFF;
