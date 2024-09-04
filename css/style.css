@@ -2723,3 +2723,7 @@ h3, .h3 {
 .d-none{
   display: block !important;
 }
+#team-img{
+  max-width: 300px !important;
+  border-radius: 50% !important;
+}
