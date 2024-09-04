@@ -1,7 +1,52 @@
 $(function() {
   "use strict";
 
+    const content = {
+        en: {
+            main_page: "Main Page",
+            description: "This is a sample page.",
+        },
+        tr: {
+            main_page: "Anasayfa",
+            description: "Bu bir örnek sayfadır.",
+        },
+        // Diğer diller buraya eklenebilir...
+    };
 
+    const elementsToTranslate = $("[data-translate]"); // Tüm çeviri elementlerini bir kez seç
+
+    // Dil seçimi yapıldığı zaman localStorage'a kaydet ve sayfayı güncelle
+    function setLanguage(lang) {
+        localStorage.setItem('language', lang);
+        updateContent(lang);
+    }
+
+    // Sayfa yüklendiğinde veya dil seçimi değiştiğinde içeriği güncelle
+    function updateContent(lang) {
+        // Tüm metinleri tek bir seferde hazırla
+        let translations = content[lang];
+
+        // Seçilen tüm elementlerde hızlı bir şekilde dön
+        for (let i = 0; i < elementsToTranslate.length; i++) {
+            let element = elementsToTranslate[i];
+            let key = $(element).data("translate");  // jQuery kullanarak data-translate'i al
+            if (translations[key]) {
+                element.textContent = translations[key];  // Metin içeriğini direkt değiştir
+            }
+        }
+    }
+
+    // Sayfa yüklendiğinde dil tercihini kontrol et
+    $(document).ready(function () {
+        const savedLang = localStorage.getItem('language') || 'en'; // Varsayılan dil 'en'
+        updateContent(savedLang);
+    });
+
+    // Dil seçimi butonlarına tıklanma olayı ekleyin
+    $(".lang-select").on("click", function () {
+        const selectedLang = $(this).data("lang");
+        setLanguage(selectedLang);
+    });
 
   // //------- Sticky Header -------//
   // $(".sticky-header").sticky();
