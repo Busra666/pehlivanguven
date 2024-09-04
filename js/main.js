@@ -2,9 +2,13 @@ $(function() {
   "use strict";
 
     const content = {
-        en: {
+        fa: {
             anasayfa: "صفحه اصلی",
-
+            hakkımızda: "درباره ما",
+            çalışmaalanlarımız: "حوزه‌های کاری ما",
+            ekibimiz: "تیم ما",
+            blog: "وبلاگ",
+            iletişim: "تماس",
         },
         tr: {
             tel_no: "0312 231 99 40",
@@ -214,7 +218,7 @@ $(function() {
 
     // Sayfa yüklendiğinde dil tercihini kontrol et
     $(document).ready(function () {
-        const savedLang = localStorage.getItem('language') || 'en'; // Varsayılan dil 'en'
+        const savedLang = localStorage.getItem('language') || 'tr'; // Varsayılan dil 'tr'
         updateContent(savedLang);
     });
 
