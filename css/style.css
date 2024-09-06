@@ -2727,3 +2727,62 @@ h3, .h3 {
   max-width: 300px !important;
   border-radius: 50% !important;
 }
+
+.header-top__info {
+  margin-right: auto; /* Sola yaslamak için */
+}
+
+.header-top__social-lang {
+  display: flex;
+  align-items: center;
+}
+
+.header-top__social,
+.header-top__lang {
+  display: flex;
+  gap: 10px; /* İkonlar arasına boşluk eklemek için */
+}
+
+#lang-selectors {
+  padding-left: 75px;
+  margin-left: auto;
+}
+
+.header-top__social a,
+.header-top__lang a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+#lang-selectors li {
+  content: "|";
+  color: #ff9907;
+  padding-left: 8px;
+  padding-right: 8px;
+  font-weight: 400;
+}
+
+#lang-selectors li::after {
+  content: "|";
+  color: #ff9907;
+  font-weight: 400;
+}
+
+#lang-selectors li:last-child::after {
+  display: none;
+}
+
+
+#lang-selectors li {
+  display: contents;
+}
+
+strong {
+  font-weight: 900; /* 700'den 900'a daha kalın */
+  color:#000;
+}
+
+
