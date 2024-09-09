@@ -309,11 +309,10 @@ $(function() {
             tümçalışmaalanlarımız: "Tüm Çalışma Alanlarımız",
             deneyimlikadrohızlıçözüm: "Deneyimli kadro, hızlı çözüm",
             alanındauzmandeneyimliavukatlarımızlahızlıveetkilihizmetlerPEHLİVANGÜVENHukukBürosunda: "Alanında uzman, deneyimli avukatlarımızla hızlı ve etkili hizmetler PEHLİVAN & GÜVEN Hukuk Bürosu’nda",
-            virgül: ",",
             bizeulaşın: "BİZE ULAŞIN",
-            adres_necatibeycaddesi_no_40_10: "Adres : Necatibey Caddesi No:40/10",
+            adres_necatibeycaddesi_no_40_10: "Adres: Necatibey Caddesi No:40/10",
             tel: "Ofis Tel: 0312 231 99 40",
-            mail_pehlivanguvenhukuk_gmail_com: "Mail: pehlivanguvenhukuk@gmail.com",
+            mail_pehlivanguvenhukuk_gmail_com: "E-mail: pehlivanguvenhukuk@gmail.com",
             menü: "Menü",
             çalışma_alanlarımız_paragraf1_yabancılarhukuku_kısa: "Yabancıların ülkemizde vatandaşlık alması, ülkemizde çalışma ve ikamet izinleri, yabancıların mülk edinimi, yabancıların boşanması gibi bir dizi konu bu kapsamda değerlendirilmektedir. " ,
             çalışma_alanlarımız_paragraf1_yabancılarhukuku_uzun: [

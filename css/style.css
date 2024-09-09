@@ -2785,4 +2785,8 @@ strong {
   color:#000;
 }
 
+.row{
+justify-content: space-between;
+}
+
 
