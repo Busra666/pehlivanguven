@@ -2785,8 +2785,11 @@ strong {
   color:#000;
 }
 
-.row{
-justify-content: space-between;
+.rtl {
+  direction: rtl; /* Sağdan sola yönlendirme */
+  text-align: right; /* Metni sağa hizalama */
 }
+
+
 
 

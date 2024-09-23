@@ -1,6 +1,5 @@
 $(function() {
   "use strict";
-
     const content = {
         fa: {
             ofis_tel_no: "شماره تلفن دفتر : 0312 231 99 40",
@@ -559,6 +558,12 @@ $(function() {
                     $(element).html(ul);
                 } else {
                     $(element).html(processBold(text));
+                }
+                // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
+                if (lang === 'fa') {
+                    $(element).addClass('rtl');
+                } else {
+                    $(element).removeClass('rtl'); // Türkçe için sınıfı kaldır
                 }
             }
         }
