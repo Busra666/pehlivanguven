@@ -171,7 +171,7 @@ $(function() {
             ],
 
             ekibimiz_1: [
-                "<h2><p>AYDIN GÜVEN - وکیل - مترجم قسم خورده </p></h2>",
+                "<h2><p>آیدین گوون - وکیل - مترجم قسم خورده</p></h2>",
                 "</p>  وکیل آیدین گوون وی  در ایران به دنیا آمد و در سال 2006 از دانشگاه آزاد زنجان فارغ التحصیل شد. او دوره کارآموزی وکالت خود را در ایران گذراند و پس از مدتی کار در ایران در سال 2011 به ترکیه آمد. به محض ورود به ترکیه، در سال 2012 مدرک کارشناسی ارشد خود را در رشته حقوق تجارت در دانشکده حقوق دانشگاه غازی آغاز کرد.<p>",
                 "</p> وی پس از گذراندن دوره کارشناسی ارشد در رشته حقوق تجارت در دانشگاه غازی ترکیه در سال 2016، دومین دوره کارشناسی ارشد خود را در رشته بیمه در دانشگاه غازی در سال 2016 آغاز کرد و در سال 2018 با موفقیت از این گروه فارغ التحصیل شد.<p>",
                 "</p> وی در سال 2020 با گذراندن کلیه دروس معادل سازی از دانشگاه Hacettepe ترکیه فارغ التحصیل شد و از سال 2022 به عنوان وکیل در آنکارا وابسته به کانون وکلای آنکارا مشغول به کار است. فارسی و ترکی صحبت می کند.<p>",
@@ -185,10 +185,10 @@ $(function() {
                 "<p></p>",
                 // "✦ ",
             ],
-            ekibimiz_tel_1: "0542 405 60 94",
+            ekibimiz_tel_1: "<li><a href=\"tel:0542 405 60 94\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>0542 405 60 94</a></li>",
 
             ekibimiz_2: [
-                "<h2><p>Abdurrahman PEHLİVAN – وکیل - میانجی </p></h2>" ,
+                "<h2><p>عبدالرحمن پهلوان – وکیل - میانجی</p></h2>",
                 "</p> او در سال 1990 در پایتخت آنکارا به دنیا آمد و در سال 2012 از دانشکده حقوق دانشگاه گازی آنکارا فارغ التحصیل شد. او از سال 2013 به عنوان وکیل در آنکارا و وابسته به کانون وکلای آنکارا مشغول به کار است.<p>",
                 "</p> او در سال 2018 عنوان داور رسمی دادگستری دریافت کرد و به عنوان داور رسمی دادگستری زیر نظر دفتر دادستان عمومی آنکارا کار می کند. وی دوره کارشناسی ارشد خود را در رشته حقوق عمومی در دانشگاه آتلیم در سال 2019 آغاز کرد و همچنان ادامه دارد. وی از سال 2020 با دریافت عنوان میانجی به حرفه خود ادامه می دهد. وی با اخذ گواهینامه در رشته های حقوق کار، تجارت و بیمه به وظیفه خود به عنوان داور رسمی دادگستری خبره ادامه می دهد.<p>",
                 "</p> او از سال 2016 به عنوان یکی از اعضای کانون حقوق پناهندگان کانون وکلای آنکارا فعال بوده است. به غیر از قانون پناهندگی، او همچنین در هیئت هایی مانند هیئت مدیره مرکز حقوق مصرف کننده و هیئت حقوق مالیاتی و اداری در کانون وکلای آنکارا خدمت می کرد.<p>",
@@ -200,10 +200,10 @@ $(function() {
                 "✦ میانجی – 2020 – در حال انجام»",
                 "<p></p>",
             ],
-            ekibimiz_tel_2: "0554 303 98 54",
+            ekibimiz_tel_2: "<li><a href=\"tel:0554 303 98 54\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>0554 303 98 54</a></li>",
 
-            ekibimiz_3:[
-                "<h2><p>Canan Pehlivan - وکیل - شاهد کارشناس - میانجی </p></h2>" ,
+            ekibimiz_3: [
+                "<h2><p>جانان پهلوان - وکیل - شاهد کارشناس - میانجی</p></h2>" ,
                 "</p> او در سال 1990 در بایبورت به دنیا آمد. پس از اتمام تحصیلات دبیرستانی خود در قونیه، در سال 2012 از دانشکده حقوق دانشگاه غازی آنکارا فارغ التحصیل شد. او از سال 2013 به عنوان وکیل در آنکارا و وابسته به کانون وکلای آنکارا مشغول به کار است.<p>",
                 "</p> وی دوره کارشناسی ارشد خود را در رشته حقوق عمومی در دانشگاه آتلیم در سال 2019 آغاز کرد و همچنان ادامه دارد. وی از سال 2020 با دریافت عنوان داور رسمی دادگستری به حرفه خود ادامه می دهد. وی با اخذ گواهینامه در رشته های حقوق کار، تجارت و بیمه به وظیفه خود به عنوان داور رسمی دادگستری ادامه می دهد.<p>",
                 "</p> او در هیئت هایی مانند هیئت مالکیت فکری و رقابت، هیئت مدیره مرکز حقوق مصرف کننده و هیئت حقوقی مالیاتی و اداری در کانون وکلای آنکارا خدمت کرد. وی همچنین به عنوان کارشناس حقوق معنوی و مالکیت - حقوق علائم تجاری فعالیت می کند.<p>",
@@ -215,10 +215,10 @@ $(function() {
                 "✦ کارشناس رسمی دادگستری - 2021 - در حال انجام",
                 "<p></p>",
             ],
-            ekibimiz_tel_3: "0554 303 98 54",
+            ekibimiz_tel_3: "<li><a href=\"tel:0554 303 98 54\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>0554 303 98 54</a></li>",
 
             iran_ekibimiz_1:[
-                "<h2><p>Mehdi Ceferzade</p></h2>",
+                "<h2><p>مهدی جعفرزاده</p></h2>",
                 "</p>وی در حرفه حقوقی خود در زمینه های حقوق پناهندگی، حقوق اتباع خارجی، درخواست تابعیت و پیگیری، پرونده های طلاق، حقوق املاک، حقوق ارث، حقوق جبران خسارت، حقوق اداری، کار و تامین اجتماعی، حقوق بیمه، کیفری فعالیت می کند. قانون، حقوق اجاره و سایر حقوق خصوصی. او به زبان های انگلیسی، فارسی و ترکی صحبت می کند.<p>",
                 "➥[bold]تحصیلات:[/bold] دانشگاه تبریز",
                 "✦ دانشکده حقوق 2000-2004  کارشناسی تبریز/ایران",
@@ -233,10 +233,12 @@ $(function() {
                 "[bold] آدرس: [/bold] تهران-میدان توحید-خیابان اسکندری شمالی-پلاک47-طبقه 3-واحد11",
                 "<p></p>",
             ],
-            iran_ekibimiz_1_tel:"",
+            iran_ekibimiz_1_tel_1:"<li><a href=\"tel:+98 2166126248\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>+98 2166126248</a></li>\n" ,
+            iran_ekibimiz_1_tel_2:"\t\t\t\t\t  <li><a href=\"tel:+98 9125124866\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>+98 9125124866</a></li>\n" ,
+            iran_ekibimiz_1_email:"\t\t\t\t\t  <li><a href=\"mailto:JAFARZADE.M@GMAIL.COM\"><span class=\"align-middle\"><i class=\"ti-email\"></i></span>JAFARZADE.M@GMAIL.COM</a></li>\n",
 
             iran_ekibimiz_2:[
-                "<h2><p>Hamid Valaei</p></h2>",
+                "<h2><p>حمید ولایی</p></h2>",
                 "</p>وی در حرفه حقوقی خود در زمینه های حقوق پناهندگی، حقوق اتباع خارجی، درخواست تابعیت و پیگیری، پرونده های طلاق، حقوق املاک، حقوق ارث، حقوق جبران خسارت، حقوق اداری، کار و تامین اجتماعی، حقوق بیمه، کیفری فعالیت می کند. قانون، حقوق اجاره و سایر حقوق خصوصی. او به زبان های انگلیسی، فارسی و ترکی صحبت می کند.<p>",
                 "➥[bold]تحصیلات:[/bold] دانشگاه تبریز",
                 "✦  دانشکده حقوق 2000-2004  کارشناسی تبریز/ایران",
@@ -267,14 +269,16 @@ $(function() {
                 "دفتر وکالت حمید والایی : آدرس دفتر  ایران (تبریز):  تبریز- چهارراه منصور – برج ابریشم، طبقه  8 غربی – واحد 6",
                 "<p></p>",
             ],
-            iran_ekibimiz_2_tel:"",
+            iran_ekibimiz_2_tel:" <li><a href=\"tel:09144092006\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>09144092006</a></li>\n" ,
+            iran_ekibimiz_2_email:"<li><a href=\"mailto:Hamid.valai@gmail.com\"><span class=\"align-middle\"><i class=\"ti-email\"></i></span>Hamid.valai@gmail.com</a></li>\n",
 
             çözüm_ortaklarımız:"شرکای راه حل ما",
             iletişim_adres:  "آنکارا",
             çalışma_günleri: "دوشنبه – جمعه",
             çalışma_saatleri: "09:00 – 18:00",
             mail_yazı:  "به ما می توانید امیل بفرستن و یا از واتساپ پیام بدین",
-
+            ofis_tel:"0312 231 99 40",
+            email:"pehlivanguvenhukuk@gmail.com",
 
 
 
@@ -446,7 +450,7 @@ $(function() {
                 "✦ Yeminli Tercüman-2021-Devam ediyor",
                 "<p></p>",
             ],
-            ekibimiz_tel_1: "0542 405 60 94",
+            ekibimiz_tel_1: "<li><a href=\"tel:0542 405 60 94\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>0542 405 60 94</a></li>",
             ekibimiz_2: [
                 "<h2><p>Abdurrahman PEHLİVAN – Avukat ve Arabulucu</p></h2>" ,
                 "<p>1990 yılında Başkent Ankara’da doğmuş.2012 yılında Ankara Gazi Üniversitesi Hukuk Fakültesi’nden mezun olmuştur. Ankara Barosu’na bağlı olarak 2013 yılından beri Ankara’da Avukat olarak çalışmaktadır.</p>" ,
@@ -460,7 +464,7 @@ $(function() {
                 "✦ Arabulucu – 2020 – Devam ediyor",
                 "<p></p>",
             ],
-            ekibimiz_tel_2: "0554 303 98 54",
+            ekibimiz_tel_2: "<li><a href=\"tel:0554 303 98 54\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>0554 303 98 54</a></li>",
 
             ekibimiz_3: [
                 "<h2><p>Canan Pehlivan Avukat-Bilirkişi-Arabulucu</p></h2>" ,
@@ -475,7 +479,7 @@ $(function() {
                 "✦ Bilirkişilik- 2021 – Devam ediyor",
                 "<p></p>",
             ],
-            ekibimiz_tel_3: "0554 303 98 54",
+            ekibimiz_tel_3: "<li><a href=\"tel:0554 303 98 54\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>0554 303 98 54</a></li>",
 
             iran_ekibimiz_1:[
                 "<h2><p>Mehdi Ceferzade</p></h2>",
@@ -487,9 +491,9 @@ $(function() {
                 "<p></p>",
                 "<p>➥[bold]ADRES:[/bold] Tohid Mey. Eskenderi Şomali Cad. No:47 Üni:11 Tahran/İran</p>",
             ],
-            iran_ekibimiz_1_tel:"<li><a href=\"tel:+98 2166126248\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>+98 2166126248</a></li>\n" +
-                "\t\t\t\t\t  <li><a href=\"tel:+98 9125124866\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>+98 9125124866</a></li>\n" +
-                "\t\t\t\t\t  <li><a href=\"mailto:JAFARZADE.M@GMAIL.COM\"><span class=\"align-middle\"><i class=\"ti-email\"></i></span>JAFARZADE.M@GMAIL.COM</a></li>\n",
+            iran_ekibimiz_1_tel_1:"<li><a href=\"tel:+98 2166126248\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>+98 2166126248</a></li>\n" ,
+            iran_ekibimiz_1_tel_2:    "\t\t\t\t\t  <li><a href=\"tel:+98 9125124866\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>+98 9125124866</a></li>\n" ,
+            iran_ekibimiz_1_email:"\t\t\t\t\t  <li><a href=\"mailto:JAFARZADE.M@GMAIL.COM\"><span class=\"align-middle\"><i class=\"ti-email\"></i></span>JAFARZADE.M@GMAIL.COM</a></li>\n",
 
             iran_ekibimiz_2:[
                 "<h2><p>Hamid Valaei</p></h2>",
@@ -521,14 +525,16 @@ $(function() {
                 "Ceza Kanunu, Aile Koruma kânunun ve Çek Kanununlar ile İlgili bastırdığım Kanun kitapçılığı",
                 "<p></p>",
                ],
-            iran_ekibimiz_2_tel:" <li><a href=\"tel:09144092006\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>09144092006</a></li>\n" +
-                "\t\t\t\t\t\t  <li><a href=\"mailto:Hamid.valai@gmail.com\"><span class=\"align-middle\"><i class=\"ti-email\"></i></span>Hamid.valai@gmail.com</a></li>\n",
+            iran_ekibimiz_2_tel:" <li><a href=\"tel:09144092006\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>09144092006</a></li>\n" ,
+            iran_ekibimiz_2_email: "\t\t\t\t\t\t  <li><a href=\"mailto:Hamid.valai@gmail.com\"><span class=\"align-middle\"><i class=\"ti-email\"></i></span>Hamid.valai@gmail.com</a></li>\n",
 
             çözüm_ortaklarımız:"ÇÖZÜM ORTAKLARIMIZ",
             iletişim_adres: "Sıhhıye/ANKARA",
             çalışma_günleri: "Pazartesi - Cuma",
             çalışma_saatleri: "09.00 - 18.00",
             mail_yazı: "Bize mesaj atabilirsiniz!",
+            ofis_tel:"0312 231 99 40",
+            email:"pehlivanguvenhukuk@gmail.com",
         },
         // Diğer diller buraya eklenebilir...
     };
@@ -562,8 +568,10 @@ $(function() {
                 // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
                 if (lang === 'fa') {
                     $(element).addClass('rtl');
+                    // $('#team-img').css('float', 'right'); // Resmi sağa yasla
                 } else {
                     $(element).removeClass('rtl'); // Türkçe için sınıfı kaldır
+                    // $('#team-img').css('float', 'left'); // Resmi sola yasla
                 }
             }
         }

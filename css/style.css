@@ -139,7 +139,7 @@ h3, .h3 {
 /* header style start
   ============================================================================================ */
 .header-top {
-  background: #0f0f16;
+  background: #777;
   color: #fff;
   padding: 20px 0;
 }
@@ -349,7 +349,7 @@ h3, .h3 {
   top: -70px;
   left: 0;
   right: 0;
-  background: #c2581e;
+  background: #ffffff;
   z-index: 99;
   transform: translateY(70px);
   transition: transform 500ms ease, background 500ms ease;
@@ -360,7 +360,7 @@ h3, .h3 {
   line-height: 20px;
 }
 .header_area.navbar_fixed .main_menu .navbar .nav .nav-item:hover .nav-link, .header_area.navbar_fixed .main_menu .navbar .nav .nav-item.active .nav-link {
-  color: #fff;
+  color: #de6320;
 }
 @media (min-width: 992px) {
   .header_area.white_menu .navbar .navbar-brand img {
@@ -468,7 +468,7 @@ h3, .h3 {
     margin-bottom: 23px;
   }
   .header_area .navbar {
-    background: #c2581e;
+    background: #ffffff;
   }
   .navbar-toggler[aria-expanded=false] span:nth-child(2) {
     opacity: 1;
@@ -490,7 +490,7 @@ h3, .h3 {
     display: block;
     width: 25px;
     height: 3px;
-    background: #fff;
+    background: #040303;
     margin: auto;
     margin-bottom: 4px;
     transition: all 400ms linear;
@@ -1224,7 +1224,7 @@ h3, .h3 {
 }
 @media (min-width: 1200px) {
   .about__content {
-    max-width: 470px;
+    max-width: 650px;
   }
 }
 @media (min-width: 1450px) {
@@ -2788,8 +2788,14 @@ strong {
 .rtl {
   direction: rtl; /* Sağdan sola yönlendirme */
   text-align: right; /* Metni sağa hizalama */
+  margin-right: 20px; /* Sağdan boşluk ekleyin */
+  unicode-bidi: bidi-override;
 }
 
-
-
+.divider-spectrum-gray {
+  width: 100%;
+  height: 2px;
+  background-color: #b0b0b0; /* Gri renk */
+  margin: 0; /* Sağdan ve soldan boşluk bırakmaması için */
+}
 
