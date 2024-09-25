@@ -2746,6 +2746,7 @@ h3, .h3 {
 #lang-selectors {
   padding-left: 75px;
   margin-left: auto;
+  margin-right: 10px; /* Sağdan 10px boşluk ekler */
 }
 
 .header-top__social a,
@@ -2806,3 +2807,30 @@ strong {
 #phone:hover, #email:hover {
   color: #de6320; /* Üzerine gelindiğinde rengi değiştirir, isteğe bağlı */
 }
+
+@media (min-width: 992px) {
+  .custom-col {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+.container {
+  margin-top: 13px;
+}
+
+/* Sağdan sola yazı yönlendirme */
+.rtl {
+  direction: rtl;
+  text-align: right;
+  margin-right: 10px;
+  margin-left: 5px;
+}
+
+/* Soldan sağa yazı yönlendirme (varsayılan) */
+.ltr {
+  direction: ltr;
+  text-align: left;
+}
+
+

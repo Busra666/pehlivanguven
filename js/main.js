@@ -578,6 +578,49 @@ $(function() {
         }
     }
 
+    function updateContent(lang) {
+        let translations = content[lang];
+
+        for (let i = 0; i < elementsToTranslate.length; i++) {
+            let element = elementsToTranslate[i];
+            let key = $(element).data("translate");
+
+            if (translations[key]) {
+                let text = translations[key];
+                if (Array.isArray(text)) {
+                    let ul = $("<ul></ul>");
+                    text.forEach(function (item) {
+                        ul.append($("<li></li>").html(processBold(item)));
+                    });
+                    $(element).html(ul);
+                } else {
+                    $(element).html(processBold(text));
+                }
+                // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
+                if (lang === 'fa') {
+                    $(element).addClass('rtl');
+                    // Navbar'ı sağdan sola yönlendirin
+                    switchToPersian();
+                } else {
+                    $(element).removeClass('rtl');
+                    // Navbar'ı soldan sağa yönlendirin
+                    switchToTurkish();
+                }
+            }
+        }
+    }
+
+// Farsça dil seçildiğinde
+    function switchToPersian() {
+        document.getElementById('navbar').classList.add('rtl'); // RTL sınıfını ekler
+    }
+
+// Türkçe dil seçildiğinde
+    function switchToTurkish() {
+        document.getElementById('navbar').classList.remove('rtl'); // RTL sınıfını kaldırır
+    }
+
+
     function processBold(text) {
         // [bold] işaretçilerini <strong> etiketleri ile değiştir
         return text.replace(/\[bold\](.*?)\[\/bold\]/g, "<strong>$1</strong>");
