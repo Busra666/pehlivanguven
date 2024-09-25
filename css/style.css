@@ -20,7 +20,7 @@ body {
   color: #777777;
   font-family: "Roboto", sans-serif;
   font-size: 15px;
-  font-weight: 450;
+  font-weight: 400;
   line-height: 2;
 }
 
@@ -145,7 +145,7 @@ h3, .h3 {
 }
 @media (min-width: 600px) {
   .header-top {
-    padding: 8px 0;
+    padding: 1px 0;
   }
 }
 .header-top__info li {
@@ -817,7 +817,7 @@ h3, .h3 {
   transform: translate(-50%, -50%);
   color: #fff;
   width: 100%;
-  max-width: 620px;
+  max-width: 750px;
 }
 .hero-banner__content h1 {
   color: #fff;
@@ -2716,7 +2716,7 @@ h3, .h3 {
     max-width: 260px;
   }
   .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
-     color: #FFFFFF;
+     color: #de6320;
      opacity: 1;
    }
 }
@@ -2789,7 +2789,6 @@ strong {
   direction: rtl; /* Sağdan sola yönlendirme */
   text-align: right; /* Metni sağa hizalama */
   margin-right: 20px; /* Sağdan boşluk ekleyin */
-  unicode-bidi: bidi-override;
 }
 
 .divider-spectrum-gray {
@@ -2799,3 +2798,11 @@ strong {
   margin: 0; /* Sağdan ve soldan boşluk bırakmaması için */
 }
 
+#phone, #email {
+  color: #666666; /* Yazı rengini beyaz yapar */
+  cursor: pointer; /* Fareyi üzerine getirdiğinde imleci değiştirir */
+}
+
+#phone:hover, #email:hover {
+  color: #de6320; /* Üzerine gelindiğinde rengi değiştirir, isteğe bağlı */
+}
