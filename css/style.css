@@ -2786,12 +2786,6 @@ strong {
   color:#000;
 }
 
-.rtl {
-  direction: rtl; /* Sağdan sola yönlendirme */
-  text-align: right; /* Metni sağa hizalama */
-  margin-right: 20px; /* Sağdan boşluk ekleyin */
-}
-
 .divider-spectrum-gray {
   width: 100%;
   height: 2px;
