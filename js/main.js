@@ -14,6 +14,8 @@ $(function() {
             blog: " وبلاگ",
             iletişim: " ارتباط با ما",
             hızlıveetkilihukukidanışmanlıkhizmeti: "خدمات مشاوره حقوقی سریع و موثر",
+            hakkımızda_paragraf_1:"ما به عنوان موسسه حقوقی پهلوان گوون متشکل از وکلای مجرب ترکیه و ایران با بیش از 20 سال سابقه فعالیتهای حقوقی و با تسلط لازم بر قوانین جاری هر دو کشور، آمادگی قبول مشاوره حقوقی، تنظیم قرارداد و قبول وکالت در محاکم هر دو کشور ایران و ترکیه را داریم. ",
+            hakkımızda_paragraf0:"ما آماده هستیم در همه زمینه های حقوقی و جزایی و همچنین با موضوعاتی : وکیل حقوقی در ترکیه، وکیل جزای در ترکیه، وکیل، گرفتن شهروندی در ترکیه، وکیل در آنکار، استانبول و کلیه شهرهای ترکیه از جمله در کارهای تجاری و تنظیم قراردادهای تجاری با استفاده از وکلای مجرب ترکیه و ایران آمادگی قبول مشاوره حقوقی، تنظیم قرارداد و قبول وکالت در محاکم هر دو کشور ایران و ترکیه را داریم. ",
             hakkımızda_paragraf1: "  ما به عنوان موسسه حقوقی پهلوان گوون مفتخریم که با بالاترین کیفیت خدمات مشاوره حقوقی و وکالت را به مشتریان خود ارائه دهیم. " +
                 "دفتر ما دارای بینش حقوقی عمیقی است، که با گردآوری سیستم حقوقی مختلف به ویژه در زمینه های حقوق خارجی ها، قانون تجارت، قانون بیمه و حقوق پناهندگان که تجربه بالای دارند.\n",
             hakkımızda_paragraf2: "وکیل آیدن گوون ( خویینی)  عضو کانون وکلای آنکارا حرفه حقوقی خود را از ایران شروع کرده و در ترکیه ادامه داده، حقوق اتباع خارجی به ویژه ایرانیان تخصص دارد. او به زبان های فارسی و ترکی صحبت می کند و در زمینه های حقوقی، کیفری، اداری، پناهندگی و حقوق شهروندی  به موکلین خود بصورت تخصصی و حرفه ای مشاوره میدهد.",
@@ -281,7 +283,58 @@ $(function() {
             email: "pehlivanguvenhukuk@gmail.com",
             turkce_tel: "<li><a href=\"tel:+90 0542 405 60 94\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>+90 0542 405 60 94</a></li>\n",
 
+            TÜRKİYEDE_YABANCILARIN_BOŞANMA_DAVALARI: "طلاق اتباع خارجی در ترکیه",
+            TÜRKİYEDE_YABANCILARIN_BOŞANMA_DAVALARI_kısa: "طلاق یک روش قانونی است که برای پایان دادن به ازدواج انجام می شود.. ",
+            TÜRKİYEDE_YABANCILARIN_BOŞANMA_DAVALARI_uzun: [
+                "<h3>دادگاه صالح در دعاوی طلاق اتباع خارجی</h3>",
+                "<p>طلاق یک روش قانونی است که برای پایان دادن به ازدواج انجام می شود. طلاق را هم می توان به صورت طلاق توافقی بین زوجین انجام داد و هم می توان به صورت  طلاق اعتراضی بین زن و شوهر انجام داد.</p>",
+                "<p>شکی نیست که شهروندان ترکیه می توانند در ترکیه درخواست طلاق بدهند. برای این کار لازم نیست در ترکیه اقامت داشته باشند. به عبارت دیگر شهروندان ترکیه ای که در خارج از کشور زندگی می کنند می توانند در ترکیه درخواست طلاق دهند.</p>",
+                "<p>دادگاه صالح در پرونده های طلاق که توسط اتباع ترک مقیم خارج از کشور انجام می شود، در قانون حقوق بین الملل خصوصی و قانون آیین دادرسی  تنظیم شده است.  بر اساس این آیین نامه؛</p>",
+                "•\tدر صورتی که یکی از زوجین دارای اقامتگاه در ترکیه باشد دادگاه محل اقامت یکی از آنها،",
+                "•\tدر صورتی که زوجین در ترکیه اقامت نداشته باشند، آخرین اقامتگاه همسر شاکی در ترکیه،",
+                "•\tگر شخص هرگز در ترکیه اقامت نداشته باشد، دادگاه های آنکارا، استانبول یا ازمیر به عنوان دادگاه صالح تعیین می شوند.",
+                "<p></p>",
+                "<p>خارجی ها می توانند در ترکیه درخواست طلاق بدهند. در این صورت دادگاه صالح دادگاه خانواده محل سکونت خواهان یا همسر خوانده می باشد. در صورتی که زوجین در ترکیه اقامت نداشته باشند، دادگاه صالح مطابق توضیحات بالا تعیین می شود. ضمناً مطابق قانون مدنی، دادگاه محل زندگی مشترک زوجین در شش ماه قبل از طرح دعوی نیز صالح می باشد.</p>",
+                "<h3>قانون قابل اجرا در پرونده های طلاق اتباع خارجی</h3>",
+                "<p>اگر هر دو همسر خارجی باشند، در ترکیه  امکان درخواست طلاق وجود دارد. ماده 14 قانون حقوق خصوصی بین لملل قوانین لازم برای طلاق را تنظیم می کند. بر این اساس در موارد طلاق;</p>",
+                "•\tقانون ملی مشترک زوجین،",
+                "•\tاگر زوجین تابعیت متفاوتی داشته باشند، قانون کشوری که با هم زندگی می کنند،",
+                "•\tاگر آنها با هم زندگی نمی کنند، قوانین ترکیه در پرونده های تشکیل شده در ترکیه اعمال می شود.",
+                "<p>موسسه حقوقی ما سال هاست که راه حل هایی برای طلاق اتباع خارجی به ویژه اتباع ایرانی پیدا کرده و حکم دادگاهای مختلیف و رویه قضایی  زیادی در این زمینه دارد.</p>",
+                "<h3>دلایل طلاق در ترکیه</h3>",
+                "<p>طلاق یک روش قانونی است که برای پایان دادن به ازدواج انجام می شود. طلاق را هم می توان به صورت طلاق توافقی بین زوجین انجام داد و هم می توان به صورت  طلاق اعتراضی بین زن و شوهر انجام داد.</p>",
+                "<p>طلاق ممکن است بین طرفین به دلایلی مانند مشکلات ارتباطی، کاهش احترام، ناسازگاری های فرهنگی، عادات بد، اختلاف نظر در مسائل مالی و نقض تعهد وفاداری که ازدواج برای طرفین ایجاد می کند رخ دهد. شرایطی که این دلایل را پوشش می دهد در موادی در قانون تنظیم می شود.</p>",
+                "<strong>دلایل طلاق؛</strong>",
+                "1. طلاق به علت زنا (TMK ماده 161)",
+                "2. طلاق به دلیل تلاش علیه زندگی مشترک، بدرفتاری، رفتار تحقیرآمیز(TMK ماده 162)",
+                "3. طلاق به دلیل زندگی ناپسند و ارتکاب جرم (TMK ماده 163)",
+                "4. طلاق به علت ترک خانه (TMK ماده 164)",
+                "5. طلاق به دلیل بیماری روانی (TMK 165)",
+                "6. طلاق به دلیل به هم خوردن پیوند زناشویی (اختلاف شدید) (TMK 166/1.)",
+                "7. طلاق توافقی (TMK 166/3 ماده)",
+                "8. طلاق به دلیل جدایی واقعی (TMK 166/4 ماده)",
+                "",
+                "<p><h3>شناسایی و اجرای حکم طلاق اتباع خارجی</h3></p>",
+                "<p>اتباع ترک یا شهروندان سایر کشورها که در خارج از کشور طلاق گرفته اند باید برای شناسایی و اجرای این تصمیمات به دادگاه مراجعه کنند تا این تصمیمات در ترکیه معتبر باشد. دادگاه های ترکیه حکم «شناسایی و اجرا» را در مورد حکم دادگاه های خارجی اتخاذ می کنند و اطمینان حاصل می کنند که احکام صادر شده در خارج از کشور می تواند در ترکیه اجرا شود.</p>",
+                "<p>در حالی که تنها راه برای اجرای حکم دادگاه های خارج از کشور قبل از سال 2018 در ترکیه، طرح دعوی قضایی برای اطمینان از شناسایی و اجرای حکم دادگاها بود، با \"آیین نامه جدید منتشر شده در روزنامه رسمی در تاریخ 7 فوریه 2018،  حکم صادر شده توسط مقامات قضایی یا اداری کشورهای خارجی بدون مراجعه به دادگاه می توان در اداره \". ثبت احوال \" ثبت کرد . حکم طلاق صادر شده توسط دادگاه یا مقام اداری را می توان بدون نیاز به تشکیل پرونده شناسایی در دادگاه های ترکیه در دفتر ثبت خانواده افراد ثبت کرد.</p>",
+                "<p>با این حال؛ برای اجرای حکم  حاوی مقررات اجرایی (نفقه، حضانت و غیره) باید به دادگاه های ترکیه مراجعه کرد.</p>",
+                "<p>هر دو طرف باید برای ثبت حکم صادر اقدام کنند. این درخواست می تواند توسط خود طرفین یا از طریق نمایندگان قانونی و وکلای آنها انجام شود. اگرچه هیچ الزامی برای درخواست هر دو طرف در یک زمان و در یک مکان وجود ندارد. حداکثر زمان بین دو درخواست 90 روز بیشتر نباید باشد.</p>",
+                "<h3>حضانت کودکان اتباع خارجی</h3>",
+                "<p>در حقوق ترکیه، زمانی که زوجین نمی توانند در مورد حضانت توافق کنند، دادگاه تصمیم می گیرد. دادگاه حضانت طفل را با در نظر گرفتن وضعیت مالی و اخلاقی زوجین و در نظر گرفتن مصلحت طفل به یکی از زوجین می دهد. همسر خارجی می تواند طفل را تحت حضانت خود به خارج از کشور ببرد. اما در این صورت همسر دیگر باید تاریخ ملاقات را رعایت کند.</p>",
+                "<h3>قانون صالح برای اموال مشترک زوجین اتباع خارجی</h3>",
+                "<p>در حقوق ترکیه، در حکم طلاق، دادگاه در مورد  اموال بین زوجین  تصمیم  نمی گیرد. بنابراین در مورد اموال مشترک پس از طلاق، با طرح  دعویدیگری برای تقسیم اموال بین  زوجین در دادگاه خانواده مطرح  می شود و دادگاه حکم به تقسیم اموال مشترک می دهد.</p>",
+                "<p>طبق ماده 15، قانون حقوق خصوصی بین لملل اموال زوجیت تابع قوانین ملی مشترک زوجین می باشد. در صورتی که زوجین تابعیت متفاوتی داشته باشند، قانون محل اقامت مشترک اعمال می شود. بر این اساس قانون کشور محل سکونت زوجین  اعمال خواهد شد." +
+                "اگر زوجین در یک کشور با هم زندگی نکنند، یعنی محل سکونت معمولی مشترک نداشته باشند، قانون ترکیه اعمال می شود.</p>",
+                "<p>در مورد املاک و مستغلات، قانون کشوری که ملک در آن واقع شده است، بسته به محل واقع شدن آن اعمال می شود. بر این اساس، حتی اگر قوانین ملی متفاوت باشد، مقررات مربوط به تقسیم اموال غیرمنقول در ترکیه در طلاق مطابق با قوانین ترکیه اعمال خواهد شد.</p>",
+                "<p>امکان طرح دعوای تقسیم  املاک  واقع در خارج از ترکیه در کشور وجود ندارد. برای اموال خارج از کشور باید پرونده طلاق در ترکیه تشکیل شود و پس از صادر شدن حکم طلاق در ترکیه  پرونده تقسیم اموال در کشور مربوطه  باید تشکیل شود.</p>",
+                "<h3>آیا یک شهروند خارجی در ترکیه می تواند نفقه دریافت کند؟</h3>",
+                "<p>صرف نظر از اینکه در قوانین خارجی تنظیم شده باشد، در پرونده طلاق در ترکیه در صورت احراز شرایط، نفقه تعلق می گیرد.</p>",
+                "<h3>آیا سند مهر در ترکیه معتبر است؟</h3>",
+                "<p>مهریه حقی است که زن از طریق ازدواج به دست می آورد. مهریه; می توان آن را به اختصار این گونه تعریف کرد: «انواع اموال منقول/غیرمنقول یا مال با ارزش اقتصادی مانند پول یا طلا که مرد مسلمان در مقابل ازدواج به زن می دهد یا قول می دهد که آن را در آینده بدهد».</p>",
+                "<p>در قانون مدنی ما مقرراتی برای « مهریه » وجود ندارد. اما اگر با وجود سند مهریه صادر شود، این سند مهریه معتبر می باشد. مطالبه مال مندرج در سند مهریه با طرح دعوی قابل اخذ است. اما برای این کار باید نوشته کتبی به پرداخت  مهریه داده شود و در صورت اعطای مال غیر منقول، شرایط شکلی لازم برای مال غیر منقول باید فراهم باشد.</p>",
+                "<p>به طور خلاصه، در مورد اموال غیر منقول به عنوان مهریه، لزوم وجود سند رسمی را نباید فراموش کرد. شرط صحت عقد این است که سند مهریه بسته به اموال مورد درخواست شخص سند کتبی یا رسمی باشد.</p>",
 
+            ],
         },
         tr: {
             ofis_tel_no: "Ofis Tel: 0312 231 99 40",
@@ -296,6 +349,8 @@ $(function() {
             blog: "Blog",
             iletişim: "İletişim",
             hızlıveetkilihukukidanışmanlıkhizmeti: "HIZLI VE ETKİLİ HUKUKİ DANIŞMANLIK HİZMETİ",
+            hakkımızda_paragraf_1:"Hukuki faaliyetlerde 20 yılı aşkın tecrübeye sahip, her iki ülkenin mevcut yasalarına gerekli hakimiyete sahip, Türkiye ve İran'ın deneyimli avukatlarından oluşan Pehlivan&Güven Hukuk Bürosu olarak, hukuki danışmanlık almaya, sözleşmeler hazırlamaya ve kabul etmeye hazırız. Hem İran'ın hem de Türkiye'nin mahkemelerinde temsilimiz var.",
+            hakkımızda_paragraf0:"Tüm hukuki ve cezai alanlarda ve konu başlıklarında hazırız: Türkiye'de hukuk avukatları, Türkiye'de ceza avukatları, avukatlar, Türkiye'de vatandaşlık alma, Ankara, İstanbul ve Türkiye'nin tüm şehirlerinde avukatlar, ticari işler ve taslak işlerde dahil Sözleşmeler Deneyimli Türk ve İranlı avukatların yardımıyla hukuki danışmanlık almaya, sözleşmeler hazırlamaya ve hem İran hem de Türkiye mahkemelerinde temsil edilmeye hazırız.",
             hakkımızda_paragraf1: "Pehlivan & Güven Hukuk Bürosu olarak, müvekkillerimize en yüksek kalitede hukuki danışmanlık ve temsil hizmetleri sunmaktan gurur duyuyoruz. Büromuz, farklı kültürleri ve hukuk sistemlerini bir araya getiren bir uzmanlıkla, özellikle yabancılar hukuku, ticaret hukuku, sigorta hukuku ve mülteci hakları alanlarında derin bilgi birikimine sahiptir.",
             hakkımızda_paragraf2: "Av. Aydın Güven, İran'da başladığı hukuk kariyerini Türkiye'de geliştirmiş, İranlılar başta olmak üzere yabancılar hukukunda uzmanlaşmıştır. Farsça ve Türkçe bilmektedir ve müvekkillerine hukuki, cezai, idari, mülteci ve vatandaşlık hukuku alanlarında profesyonel destek sunmaktadır.",
             hakkımızda_paragraf3: "Av. Abdurrahman Pehlivan, Ankara Barosu’na bağlı olarak mülteci hukuku, taşınmaz hukuku, miras hukuku ve tazminat hukuku gibi çeşitli alanlarda çalışmakta olup, aynı zamanda uzlaştırmacı ve uzman arabulucudur. İngilizce bilmektedir ve müvekkillerine kapsamlı hukuki hizmetler sunmaktadır.",
@@ -536,215 +591,482 @@ $(function() {
             ofis_tel: "0312 231 99 40",
             email: "pehlivanguvenhukuk@gmail.com",
             turkce_tel: "<li><a href=\"tel:0554 303 98 54\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>0554 303 98 54</a></li>\n",
+
+            TÜRKİYEDE_YABANCILARIN_BOŞANMA_DAVALARI: "TÜRKİYE'DE YABANCILARIN BOŞANMA DAVALARI",
+            TÜRKİYEDE_YABANCILARIN_BOŞANMA_DAVALARI_kısa: "Boşanma, evlilik birliğinin sonlandırılması için gerekli hukuki bir işlemdir..",
+            TÜRKİYEDE_YABANCILARIN_BOŞANMA_DAVALARI_uzun: [
+                "<h3>Yabancıların Boşanma Davalarında Yetkili Mahkeme</h3>",
+                "<p>Boşanma, evlilik birliğinin sonlandırılması için gerekli hukuki bir işlemdir. Evlilik eşler arasında anlaşmalı boşanma şeklinde sonlandırılabileceği gibi, eşlerin anlaşamaması halinde çekişmeli boşanma yolu ile de sonlandırılabilmektedir.</p>",
+                "<p>Türk vatandaşlarının, Türkiye’de boşanma davası açabilecekleri tartışmasızdır. Bunun için Türkiye’de ikamet etmeleri de şart değildir. Diğer bir deyişle, yurtdışında yaşayan Türk vatandaşları, Türkiye’de boşanma davası açabilirler.</p>",
+                "<p>Yurtdışında yaşayan Türk vatandaşlarının açacağı boşanma davasında yetkili mahkeme Milletlerarası Özel Hukuk Ve Usul Hukuku Hakkında Kanunu (MÖHUK)’nda düzenlenmiştir. Bu düzenlemeye göre;</p>",
+                "  • Türkiye’de eşlerden birisinin yerleşim yerinin bulunması halinde bu yer mahkemelerinden birisi,",
+                "  • Eşlerin Türkiye’de yerleşimi yoksa, davacı eşin Türkiye’deki son yerleşim yeri,",
+                "  • Türkiye’de hiç ikametgahı olmamışsa Ankara, İstanbul veya İzmir mahkemeleri yetkili olarak belirlenmiştir.",
+                "<p></p>",
+                "<p>Yabancılar Türkiye’de boşanma davası açabilir. Bu durumda yetkili mahkeme davacı veya davalı eşin yerleşim yeri aile mahkemeleri olur. Eşlerin Türkiye’de yerleşiminin bulunmaması halinde yetkili mahkeme, yukarıdaki açıklamamızda belirttiğimiz şekilde tespit edilir. Buna ek olarak, HMK gereğince, eşlerin dava öncesi son altı aydır birlikte yaşadıkları yer mahkemesi de yetkilidir.</p>",
+                "<h3>Yabancıların Boşanma Davalarında Uygulanacak Hukuk</h3>",
+                "<p>Eşlerin her ikisi de yabancı ise, Türkiye’de boşanma davası açmak yine mümkün olabilmektedir. MÖHUK 14. maddesinde, boşanma halinde uygulanacak hukuk düzenlenmiştir. Buna göre boşanma davalarında;</p>",
+                "• Eşlerin müşterek milli hukuku,",
+                "• Eşler farklı vatandaşlıktaysa birlikte yaşadıkları yer hukuku,",
+                "• Birlikte yaşamıyorlarsa, Türkiye’de açılan davalarda Türk hukuku uygulanır.",
+                "<p>Hukuk Büromuz yıllardır  yabancı uyruklu vatandaşların özellikle İran vatandaşlarının boşanma davalarına çözüm bulmuş ve bu konuda bir çok emsal karar almıştır.</p>",
+                "<h3>Türkiye'de Boşanma Sebepleri</h3>",
+                "<p>Boşanma, evlilik birliğinin sonlandırılması için gerekli hukuki bir işlemdir. Evlilik eşler arasında anlaşmalı boşanma şeklinde sonlandırılabileceği gibi, eşlerin anlaşamaması halinde çekişmeli boşanma yolu ile de sonlandırılabilmektedir.</p>",
+                "<p>Boşanma taraflar arasında, iletişim problemleri, saygının azalması, kültürel uyuşmazlıklar, kötü alışkanlıklar, maddi konularda yaşanan anlaşmazlıklar, evliliğin taraflara getirdiği sadakat yükümlülüğüne aykırılık gibi sebeplerle olabilir. Bu sebepleri kapsayan durumlar kanunda maddeler hâlinde düzenlemiştir.</p>",
+                "<strong>Boşanma sebepleri;</strong>",
+                "1. Zina Nedeniyle Boşanma (TMK 161. mad.)",
+                "2. Hayata Kast, Pek Kötü Muamele, Onur Kırıcı Davranış Nedeniyle Boşanma" +
+                "(TMK 162. mad.)",
+                "3. Haysiyetsiz Hayat Sürme ve  Suç İşleme Nedeniyle Boşanma (TMK 163. mad.)",
+                "4. Terk Nedeniyle Boşanma (TMK 164. mad.)",
+                "5. Akıl Hastalığı Nedeniyle Boşanma (TMK 165)",
+                "6. Evlilik Birliğinin Sarsılması (Şiddetli Geçimsizlik) Nedeniyle Boşanma (TMK 166/1. mad.)",
+                "7. Anlaşmalı Boşanma (TMK 166/3. mad.)",
+                "8. Fiili (Eylemli) Ayrılık Nedeniyle Boşanma (TMK 166/4. mad.)",
+                "<p><h3>Yabancıların Boşanma Kararlarının Tanınması ve Tenfizi</h3></p>",
+                "<p>Yurtdışında boşanan Türk vatandaşları ya da diğer ülke vatandaşları, bu kararların Türkiye de geçerli olabilmesi için kararların tanınması ve tenfizi için mahkemelere başvurmalıdır. Türk mahkemeleri yabancı mahkeme kararları hakında ‘’tanıma ve tenfiz’’ kararı vererek yurt dışında verilen kararların Türkiye’de de uygulanabilmesini sağlamaktadır.</p>",
+                "<p>2018 yılı öncesi yurt dışından alınan mahkeme kararlarının Türkiye de uygulanması için tek yol dava açarak kararların tanınması ve tenfizini sağlamak iken, Resmi Gazete’de 7 Şubat 2018 tarihinde yayımlanan “Yabancı Ülke Adlî Veya İdarî Makamlarınca Verilen Kararların Nüfus Kütüğüne Tescili Hakkında Yönetmelik” ile yabancı bir mahkemenin veya idari makamın verdiği boşanma kararı, Türkiye’de mahkemelerde tanıma davası açılmasına gerek kalmaksızın, kişilerin aile kütüklerine tescil edilebilmektedir.</p>",
+                "<p>Ancak; tenfiz hükümleri (nafaka, velayet vb.) içeren kararlar için, yine Türk Mahkemeleri’ne başvurmak gerekecektir.</p>",
+                "<p>Tanıma işleminin tescili için iki tarafın da başvuru yapması gereklidir. Bu başvuru taraflarca bizzat yapılabileceği gibi yasal temsilcileri ve vekilleri aracığı ile yapılabilecektir. İki tarafın aynı anda, aynı yerde başvuru yapması şartı aranmamakla birlikte; iki başvurunun arasında en fazla 90 gün olabilecektir.</p>",
+                "<h3>Yabancıların veleyeti altındaki çocuklar</h3>",
+                "<p>Türk Hukukunda velayet konusunda eşler anlaşamadığı durumda mahkeme karar vermektedir. Mahkeme eşlerin maddi ve manevi durumunu dikkate alarak,  çocuğun üstün yararını gözeterek çocuğun velayetini eşlerden birine vermektedir. Yabancı eş velayeti altındaki çocuğu yurt dışına götürebilmektedir. Ancak bu durumda diğer eşin görüşme günlerine riayet etmesi gerekmektedir.</p>",
+                "<h3>Yabancıların  Evlilik Malları İçin Yetkili Hukuk</h3>",
+                "<p>Türk hukukunda boşanma davasında eşler arasındaki mallar hakkında karar verilmemekte bunun için ayrı bir dava açmak gerekmektedir.Evlilik malları boşanmadan sonra mal paylaşımı davası ile taraflar arasında paylaştırılır.</p>",
+                "<p>MÖHUK m. 15 uyarınca evlilik malları eşlerin ortak milli hukukuna tabidir. Eğer eşler farklı vatandaşlıkta iseler, müşterek mutad mesken hukuku uygulanır. Buna göre eşlerin birlikte ikamet ettikleri ülkenin hukuku uygulancaktır." +
+                "Eğer eşler birlikte bir ülkede oturmuyor, yani müşterek mutad meskenleri bulunmuyor ise, Türk hukuku uygulanır.</p>",
+                "<p>Taşınmazlar ile ilgili olarak taşınmazın nerede bulunduğuna göre, bulunduğu ülke hukuku uygulanır. Buna göre, milli hukuk farklı olsa bile Türkiye’de bulunan taşınmazların boşanmada tasfiye edilmesine uygulanacak hükümler Türk hukukuna göre uygulanacaktır.</p>",
+                "<p>Yurtdışındaki taşınmazlar için Türkiye'de mal paylaşımı davası açmak mümkün değildir. Yurtdışındaki mallar için Türkiye'de boşanma davası açılarak, boşanma kararının alınmasından sonra ilgili ülkede malpaylaşımı davası açılması gerekir.</p>",
+                "<h3>Yabancı vatandaş Türkiyede nafaka alabilir mi?</h3>",
+                "<p>Yabancı hukukta düzenlensin düzenlenmesin, Türkiye’de görülen bir boşanma davasında şartlar oluştuğu taktirde yoksulluk nafakasına hükmedilecektir.</p>",
+                "<h3>Türkiye de Mehir Senedi Geçerli Midir?</h3>",
+                "<p>Mehir kadının nikâh ile kazandığı bir haktır. Mehir; “Müslüman bir erkeğin, evlenme karşılığı olarak kadına verdiği ya da vermeyi vadettiği para, altın gibi ekonomik değeri olan her türlü menkul/gayrimenkul mal veya menfaatler”, şeklinde kısaca tanımlanabilir.</p>",
+                "<p>Medeni hukukumuzda “mehir” için bir düzenleme bulunmamaktadır. Ancak buna rağmen mehir senedi düzenlenmişse, bu mehir senedi geçerlidir. Mehir senedindeki alacak davası ikame edilerek  alınabilmektedir. Ancak bunun için mehirin yazılı olarak vaad edilmiş olması, taşınmaz mehir olarak vrildi ise taşınmaz için gerekli şekli şartların sağlanmış olması gerelidir.</p>",
+                "<p>Kısaca mehir olarak taşınmaz veya taşınmaz üzerindeki ayni hak söz konusu olduğunda resmi şekil şartının gerekliliği unutmamalıdır. Mehir senedinin kişinin talep ettiği mala göre yazılı ya da resmi yapılması sözleşmenin geçerlilik şartıdır. Aksi takdirde bu şarta uyulmadan açılan davanız usule uygun olmadığı gerekçesiyle reddedilecektir.</p>",
+
+            ],
+            // Diğer diller buraya eklenebilir...
         },
-        // Diğer diller buraya eklenebilir...
-    };
-
-    const elementsToTranslate = $("[data-translate]"); // Tüm çeviri elementlerini bir kez seç
-
-    // Dil seçimi yapıldığı zaman localStorage'a kaydet ve sayfayı güncelle
-    function setLanguage(lang) {
-        localStorage.setItem('language', lang);
-        updateContent(lang);
     }
 
-    function updateContent(lang) {
-        let translations = content[lang];
+//     // Butonu seç
+//     const scrollToTopButton = document.getElementById('scrollToTop');
+//
+// // Sayfa aşağı kaydırıldığında butonu göster
+//     window.onscroll = function() {
+//         if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+//             scrollToTopButton.style.display = 'block';
+//         } else {
+//             scrollToTopButton.style.display = 'none';
+//         }
+//     };
+//
+// // Butona tıklandığında sayfayı yukarı kaydır
+//     scrollToTopButton.onclick = function() {
+//         window.scrollTo({ top: 0, behavior: 'smooth' });
+//     };
+//
+//
+//     const elementsToTranslate = $("[data-translate]"); // Tüm çeviri elementlerini bir kez seç
+//
+//     // Dil seçimi yapıldığı zaman localStorage'a kaydet ve sayfayı güncelle
+//     function setLanguage(lang) {
+//         localStorage.setItem('language', lang);
+//         updateContent(lang);
+//     }
+//
+//     function updateContent(lang) {
+//         let translations = content[lang];
+//
+//         for (let i = 0; i < elementsToTranslate.length; i++) {
+//             let element = elementsToTranslate[i];
+//             let key = $(element).data("translate");
+//
+//             if (translations[key]) {
+//                 let text = translations[key];
+//                 if (Array.isArray(text)) {
+//                     let ul = $("<ul></ul>");
+//                     text.forEach(function (item) {
+//                         ul.append($("<li></li>").html(processBold(item)));
+//                     });
+//                     $(element).html(ul);
+//                 } else {
+//                     $(element).html(processBold(text));
+//                 }
+//                 // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
+//                 if (lang === 'fa') {
+//                     $(element).addClass('rtl');
+//                     // $('#team-img').css('float', 'right'); // Resmi sağa yasla
+//                 } else {
+//                     $(element).removeClass('rtl'); // Türkçe için sınıfı kaldır
+//                     // $('#team-img').css('float', 'left'); // Resmi sola yasla
+//                 }
+//             }
+//         }
+//     }
+//
+//     function updateContent(lang) {
+//         let translations = content[lang];
+//
+//         for (let i = 0; i < elementsToTranslate.length; i++) {
+//             let element = elementsToTranslate[i];
+//             let key = $(element).data("translate");
+//
+//             if (translations[key]) {
+//                 let text = translations[key];
+//                 if (Array.isArray(text)) {
+//                     let ul = $("<ul></ul>");
+//                     text.forEach(function (item) {
+//                         ul.append($("<li></li>").html(processBold(item)));
+//                     });
+//                     $(element).html(ul);
+//                 } else {
+//                     $(element).html(processBold(text));
+//                 }
+//                 // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
+//                 if (lang === 'fa') {
+//                     $(element).addClass('rtl');
+//                     // Navbar'ı sağdan sola yönlendirin
+//                     switchToPersian();
+//                 } else {
+//                     $(element).removeClass('rtl');
+//                     // Navbar'ı soldan sağa yönlendirin
+//                     switchToTurkish();
+//                 }
+//             }
+//         }
+//     }
+//
+// // Farsça dil seçildiğinde
+//     function switchToPersian() {
+//         document.getElementById('navbar').classList.add('rtl'); // RTL sınıfını ekler
+//     }
+//
+// // Türkçe dil seçildiğinde
+//     function switchToTurkish() {
+//         document.getElementById('navbar').classList.remove('rtl'); // RTL sınıfını kaldırır
+//     }
+//
+//
+//     function processBold(text) {
+//         // [bold] işaretçilerini <strong> etiketleri ile değiştir
+//         return text.replace(/\[bold\](.*?)\[\/bold\]/g, "<strong>$1</strong>");
+//     }
+//
+//
+//     // Sayfa yüklendiğinde dil tercihini kontrol et
+//     $(document).ready(function () {
+//         const savedLang = localStorage.getItem('language') || 'tr'; // Varsayılan dil 'tr'
+//         updateContent(savedLang);
+//     });
+//
+//     // Dil seçimi butonlarına tıklanma olayı ekleyin
+//     $(".lang-select").on("click", function () {
+//         const selectedLang = $(this).data("lang");
+//         setLanguage(selectedLang);
+//     });
+//
+//     // //------- Sticky Header -------//
+//     // $(".sticky-header").sticky();
+//
+//     //------- video popup -------//
+//     $(".hero-banner__video, .video-play-button").magnificPopup({
+//         disableOn: 700,
+//         type: "iframe",
+//         mainClass: "mfp-fade",
+//         removalDelay: 160,
+//         preloader: false,
+//         fixedContentPos: false
+//     });
+//
+//     // //------- mailchimp --------//
+//     // function mailChimp() {
+//     // 	$('#mc_embed_signup').find('form').ajaxChimp();
+//     // }
+//     // mailChimp();
+//
+//     var nav_offset_top = $('header').height() + 50;
+//     /*-------------------------------------------------------------------------------
+// 	  Navbar
+// 	-------------------------------------------------------------------------------*/
+//
+//     //* Navbar Fixed
+//     function navbarFixed() {
+//         if ($('.header_area').length) {
+//             $(window).scroll(function () {
+//                 var scroll = $(window).scrollTop();
+//                 if (scroll >= nav_offset_top) {
+//                     $(".header_area").addClass("navbar_fixed");
+//                 } else {
+//                     $(".header_area").removeClass("navbar_fixed");
+//                 }
+//             });
+//         }
+//         ;
+//     };
+//     navbarFixed();
+//
+//
+//     if ($('.blog-slider').length) {
+//         $('.blog-slider').owlCarousel({
+//             loop: true,
+//             margin: 30,
+//             items: 1,
+//             nav: true,
+//             autoplay: 2500,
+//             smartSpeed: 1500,
+//             dots: false,
+//             responsiveClass: true,
+//             navText: ["<div class='blog-slider__leftArrow'><img src='img/home/left-arrow.png'></div>", "<div class='blog-slider__rightArrow'><img src='img/home/right-arrow.png'></div>"],
+//             responsive: {
+//                 0: {
+//                     items: 1
+//                 },
+//                 600: {
+//                     items: 2
+//                 },
+//                 1000: {
+//                     items: 3
+//                 }
+//             }
+//         })
+//     }
+//
+//
+//         // Telefon numarasına tıklanabilirlik eklemek
+//         document.getElementById("phone").onclick = function() {
+//         window.location.href = "tel:0312 231 99 40";
+//     };
+//
+//         // E-posta adresine tıklanabilirlik eklemek
+//         document.getElementById("email").onclick = function() {
+//         window.location.href = "mailto:pehlivanguvenhukuk@gmail.com";
+//     };
+//
+//
+//     /*-------------------------------------------------------------------------------
+//         testimonial slider
+//       -------------------------------------------------------------------------------*/
+//     if ($('.testimonial').length) {
+//         $('.testimonial').owlCarousel({
+//             loop: true,
+//             margin: 30,
+//             items: 5,
+//             nav: false,
+//             dots: true,
+//             responsiveClass: true,
+//             slideSpeed: 300,
+//             paginationSpeed: 500,
+//             responsive: {
+//                 0: {
+//                     items: 1
+//                 }
+//             }
+//         })
+//     }
+//
+//     //------- mailchimp --------//
+//     function mailChimp() {
+//         $('#mc_embed_signup').find('form').ajaxChimp();
+//     }
+//
+//     mailChimp();
+// });
 
-        for (let i = 0; i < elementsToTranslate.length; i++) {
-            let element = elementsToTranslate[i];
-            let key = $(element).data("translate");
-
-            if (translations[key]) {
-                let text = translations[key];
-                if (Array.isArray(text)) {
-                    let ul = $("<ul></ul>");
-                    text.forEach(function (item) {
-                        ul.append($("<li></li>").html(processBold(item)));
-                    });
-                    $(element).html(ul);
-                } else {
-                    $(element).html(processBold(text));
-                }
-                // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
-                if (lang === 'fa') {
-                    $(element).addClass('rtl');
-                    // $('#team-img').css('float', 'right'); // Resmi sağa yasla
-                } else {
-                    $(element).removeClass('rtl'); // Türkçe için sınıfı kaldır
-                    // $('#team-img').css('float', 'left'); // Resmi sola yasla
-                }
-            }
-        }
-    }
-
-    function updateContent(lang) {
-        let translations = content[lang];
-
-        for (let i = 0; i < elementsToTranslate.length; i++) {
-            let element = elementsToTranslate[i];
-            let key = $(element).data("translate");
-
-            if (translations[key]) {
-                let text = translations[key];
-                if (Array.isArray(text)) {
-                    let ul = $("<ul></ul>");
-                    text.forEach(function (item) {
-                        ul.append($("<li></li>").html(processBold(item)));
-                    });
-                    $(element).html(ul);
-                } else {
-                    $(element).html(processBold(text));
-                }
-                // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
-                if (lang === 'fa') {
-                    $(element).addClass('rtl');
-                    // Navbar'ı sağdan sola yönlendirin
-                    switchToPersian();
-                } else {
-                    $(element).removeClass('rtl');
-                    // Navbar'ı soldan sağa yönlendirin
-                    switchToTurkish();
-                }
-            }
-        }
-    }
-
-// Farsça dil seçildiğinde
-    function switchToPersian() {
-        document.getElementById('navbar').classList.add('rtl'); // RTL sınıfını ekler
-    }
-
-// Türkçe dil seçildiğinde
-    function switchToTurkish() {
-        document.getElementById('navbar').classList.remove('rtl'); // RTL sınıfını kaldırır
-    }
-
-
-    function processBold(text) {
-        // [bold] işaretçilerini <strong> etiketleri ile değiştir
-        return text.replace(/\[bold\](.*?)\[\/bold\]/g, "<strong>$1</strong>");
-    }
-
-
-    // Sayfa yüklendiğinde dil tercihini kontrol et
     $(document).ready(function () {
-        const savedLang = localStorage.getItem('language') || 'tr'; // Varsayılan dil 'tr'
-        updateContent(savedLang);
-    });
 
-    // Dil seçimi butonlarına tıklanma olayı ekleyin
-    $(".lang-select").on("click", function () {
-        const selectedLang = $(this).data("lang");
-        setLanguage(selectedLang);
-    });
+        // Butonu seç
+        const scrollToTopButton = document.getElementById('scrollToTop');
 
-    // //------- Sticky Header -------//
-    // $(".sticky-header").sticky();
+        // Sayfa aşağı kaydırıldığında butonu göster
+        window.onscroll = function() {
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                scrollToTopButton.style.display = 'block';
+            } else {
+                scrollToTopButton.style.display = 'none';
+            }
+        };
 
-    //------- video popup -------//
-    $(".hero-banner__video, .video-play-button").magnificPopup({
-        disableOn: 700,
-        type: "iframe",
-        mainClass: "mfp-fade",
-        removalDelay: 160,
-        preloader: false,
-        fixedContentPos: false
-    });
+        // Butona tıklandığında sayfayı yukarı kaydır
+        scrollToTopButton.onclick = function() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        };
 
-    // //------- mailchimp --------//
-    // function mailChimp() {
-    // 	$('#mc_embed_signup').find('form').ajaxChimp();
-    // }
-    // mailChimp();
+        const elementsToTranslate = $("[data-translate]"); // Tüm çeviri elementlerini bir kez seç
 
-    var nav_offset_top = $('header').height() + 50;
-    /*-------------------------------------------------------------------------------
-	  Navbar 
-	-------------------------------------------------------------------------------*/
+        // Dil seçimi yapıldığı zaman localStorage'a kaydet ve sayfayı güncelle
+        function setLanguage(lang) {
+            localStorage.setItem('language', lang);
+            updateContent(lang);
 
-    //* Navbar Fixed
-    function navbarFixed() {
-        if ($('.header_area').length) {
-            $(window).scroll(function () {
-                var scroll = $(window).scrollTop();
-                if (scroll >= nav_offset_top) {
-                    $(".header_area").addClass("navbar_fixed");
-                } else {
-                    $(".header_area").removeClass("navbar_fixed");
-                }
-            });
+            // Dil Farsça ise buton sola taşınsın
+            if (lang === 'fa') {
+                switchToPersian(); // Farsça dil seçildiyse buton sola taşınacak
+            } else {
+                switchToTurkish(); // Türkçe dil seçildiyse buton sağa taşınacak
+            }
         }
-        ;
-    };
-    navbarFixed();
 
+        function updateContent(lang) {
+            let translations = content[lang];
 
-    if ($('.blog-slider').length) {
-        $('.blog-slider').owlCarousel({
-            loop: true,
-            margin: 30,
-            items: 1,
-            nav: true,
-            autoplay: 2500,
-            smartSpeed: 1500,
-            dots: false,
-            responsiveClass: true,
-            navText: ["<div class='blog-slider__leftArrow'><img src='img/home/left-arrow.png'></div>", "<div class='blog-slider__rightArrow'><img src='img/home/right-arrow.png'></div>"],
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 2
-                },
-                1000: {
-                    items: 3
+            for (let i = 0; i < elementsToTranslate.length; i++) {
+                let element = elementsToTranslate[i];
+                let key = $(element).data("translate");
+
+                if (translations[key]) {
+                    let text = translations[key];
+                    if (Array.isArray(text)) {
+                        let ul = $("<ul></ul>");
+                        text.forEach(function (item) {
+                            ul.append($("<li></li>").html(processBold(item)));
+                        });
+                        $(element).html(ul);
+                    } else {
+                        $(element).html(processBold(text));
+                    }
+                    // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
+                    if (lang === 'fa') {
+                        $(element).addClass('rtl');
+                        switchToPersian(); // Navbar'ı ve butonu sağdan sola yönlendirin
+                    } else {
+                        $(element).removeClass('rtl');
+                        switchToTurkish(); // Navbar'ı soldan sağa yönlendirin
+                    }
                 }
             }
-        })
-    }
+        }
 
+        // Farsça dil seçildiğinde butonu sola taşı
+        function switchToPersian() {
+            scrollToTopButton.style.left = '10px'; // Butonu sola taşır
+            scrollToTopButton.style.right = ''; // Sağ konumu sıfırlar
+        }
+
+       // Türkçe dil seçildiğinde butonu sağa taşı
+        function switchToTurkish() {
+            scrollToTopButton.style.right = '25px'; // Butonu sağa taşır
+            scrollToTopButton.style.left = ''; // Sol konumu sıfırlar
+        }
+
+        function processBold(text) {
+            // [bold] işaretçilerini <strong> etiketleri ile değiştir
+            return text.replace(/\[bold\](.*?)\[\/bold\]/g, "<strong>$1</strong>");
+        }
+
+        // Sayfa yüklendiğinde dil tercihini kontrol et
+        const savedLang = localStorage.getItem('language') || 'tr'; // Varsayılan dil 'tr'
+        setLanguage(savedLang); // Dil ayarını uygula
+
+        // Dil seçimi butonlarına tıklanma olayı ekleyin
+        $(".lang-select").on("click", function () {
+            const selectedLang = $(this).data("lang");
+            setLanguage(selectedLang);
+        });
+
+        // //------- Sticky Header -------//
+        // $(".sticky-header").sticky();
+
+        //------- video popup -------//
+        $(".hero-banner__video, .video-play-button").magnificPopup({
+            disableOn: 700,
+            type: "iframe",
+            mainClass: "mfp-fade",
+            removalDelay: 160,
+            preloader: false,
+            fixedContentPos: false
+        });
+
+        // //------- mailchimp --------//
+        // function mailChimp() {
+        // 	$('#mc_embed_signup').find('form').ajaxChimp();
+        // }
+        // mailChimp();
+
+        var nav_offset_top = $('header').height() + 50;
+        /*-------------------------------------------------------------------------------
+          Navbar
+        -------------------------------------------------------------------------------*/
+
+        //* Navbar Fixed
+        function navbarFixed() {
+            if ($('.header_area').length) {
+                $(window).scroll(function () {
+                    var scroll = $(window).scrollTop();
+                    if (scroll >= nav_offset_top) {
+                        $(".header_area").addClass("navbar_fixed");
+                    } else {
+                        $(".header_area").removeClass("navbar_fixed");
+                    }
+                });
+            }
+            ;
+        };
+        navbarFixed();
+
+        if ($('.blog-slider').length) {
+            $('.blog-slider').owlCarousel({
+                loop: true,
+                margin: 30,
+                items: 1,
+                nav: true,
+                autoplay: 2500,
+                smartSpeed: 1500,
+                dots: false,
+                responsiveClass: true,
+                navText: ["<div class='blog-slider__leftArrow'><img src='img/home/left-arrow.png'></div>", "<div class='blog-slider__rightArrow'><img src='img/home/right-arrow.png'></div>"],
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 2
+                    },
+                    1000: {
+                        items: 3
+                    }
+                }
+            })
+        }
 
         // Telefon numarasına tıklanabilirlik eklemek
         document.getElementById("phone").onclick = function() {
-        window.location.href = "tel:0312 231 99 40";
-    };
+            window.location.href = "tel:0312 231 99 40";
+        };
 
         // E-posta adresine tıklanabilirlik eklemek
         document.getElementById("email").onclick = function() {
-        window.location.href = "mailto:pehlivanguvenhukuk@gmail.com";
-    };
+            window.location.href = "mailto:pehlivanguvenhukuk@gmail.com";
+        };
 
-
-    /*-------------------------------------------------------------------------------
-        testimonial slider
-      -------------------------------------------------------------------------------*/
-    if ($('.testimonial').length) {
-        $('.testimonial').owlCarousel({
-            loop: true,
-            margin: 30,
-            items: 5,
-            nav: false,
-            dots: true,
-            responsiveClass: true,
-            slideSpeed: 300,
-            paginationSpeed: 500,
-            responsive: {
-                0: {
-                    items: 1
+        /*-------------------------------------------------------------------------------
+            testimonial slider
+        -------------------------------------------------------------------------------*/
+        if ($('.testimonial').length) {
+            $('.testimonial').owlCarousel({
+                loop: true,
+                margin: 30,
+                items: 5,
+                nav: false,
+                dots: true,
+                responsiveClass: true,
+                slideSpeed: 300,
+                paginationSpeed: 500,
+                responsive: {
+                    0: {
+                        items: 1
+                    }
                 }
-            }
-        })
-    }
+            })
+        }
 
-    //------- mailchimp --------//
-    function mailChimp() {
-        $('#mc_embed_signup').find('form').ajaxChimp();
-    }
+        //------- mailchimp --------//
+        function mailChimp() {
+            $('#mc_embed_signup').find('form').ajaxChimp();
+        }
 
-    mailChimp();
+        mailChimp();
 
+    });
 });
 
 

@@ -1742,13 +1742,6 @@ h3, .h3 {
   color: #de6320;
 }
 
-.blog_post {
-  margin-top: 100px !important;
-}
-.blog_post img {
-  max-width: 100%;
-}
-
 .blog_details {
   padding-top: 20px;
 }
@@ -2335,7 +2328,7 @@ h3, .h3 {
   }
 }
 .button:hover {
-  background: green;
+  background: #1e2b6e;
   color: #fff;
 }
 .button-blog {
@@ -2729,7 +2722,7 @@ h3, .h3 {
 }
 
 .header-top__info {
-  margin-right: auto; /* Sola yaslamak için */
+  margin-right: 1px; /* Sola yaslamak için */
 }
 
 .header-top__social-lang {
@@ -2827,4 +2820,96 @@ strong {
   text-align: left;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.blog_left_sidebar {
+  display: flex;
+  flex-wrap: wrap; /* İçeriklerin satır satır devam etmesini sağlar */
+  gap: 20px; /* Kartlar arasında boşluk bırakır */
+}
+
+.blog_left_sidebar .col-md-6 {
+  flex: 1 1 calc(50% - 20px); /* İki sütun yapar, arada boşluk bırakır */
+}
+
+.blog_post {
+  margin-top: 40px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  padding: 15px;
+  transition: transform 0.2s;
+  border-radius: 10px;
+}
+
+.blog_post img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Resmi alanın içine sığdırır, orantıyı korur */
+  border-radius: 10px;
+}
+
+.blog_details h2 {
+  font-size: 1.8rem;
+  margin-top: 15px;
+}
+
+.blog_details p {
+  margin: 15px 0;
+  font-size: 1rem;
+}
+
+.button-blog {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #de6320;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* Mobil düzenleme */
+@media (max-width: 768px) {
+  .blog_left_sidebar .col-md-6 {
+    flex: 1 1 100%; /* Küçük ekranlarda kartlar alt alta gelir */
+  }
+
+  #scrollToTop {
+    bottom: 15px; /* Mobilde daha az alanda daha yakın konum */
+    right: 15px; /* Mobilde daha az alanda daha yakın konum */
+    padding: 8px; /* Mobilde daha az iç boşluk */
+  }
+}
+
+#scrollToTop {
+  width: 40px;
+  position: fixed; /* Sayfanın her zaman görünür olmasını sağlar */
+  bottom: 20px; /* Aşağıdan 20 piksel mesafede */
+  right: 20px; /* Sağdan 20 piksel mesafede */
+  background-color: #de6320; /* Mavi arka plan */
+  color: white; /* Beyaz yazı rengi */
+  border: none; /* Kenarlık yok */
+  border-radius: 5px; /* Yuvarlak köşeler */
+  padding: 10px; /* İç boşluk */
+  cursor: pointer; /* Fare ile üzerine gelindiğinde gösterilen imleç */
+  z-index: 1000; /* Diğer öğelerin üstünde görünür */
+  transition: opacity 0.3s; /* Yavaşça görünür hale gelmesi için geçiş efekti */
+}
+
+#scrollToTop:hover {
+  background-color: #1e2b6e; /* Hover efekti */
+}
+
+.rtl #scrollToTop {
+  right: auto; /* Sağdaki konumu iptal et */
+  left: 20px;  /* Solda göster */
+}
 
