@@ -335,6 +335,44 @@ $(function() {
                 "<p>به طور خلاصه، در مورد اموال غیر منقول به عنوان مهریه، لزوم وجود سند رسمی را نباید فراموش کرد. شرط صحت عقد این است که سند مهریه بسته به اموال مورد درخواست شخص سند کتبی یا رسمی باشد.</p>",
 
             ],
+
+            YABANCILARIN_ÇALIŞMA_İZNİ_MUAFİYETİ: "معافیت مجوز کار برای اتباع خارجی",
+            YABANCILARIN_ÇALIŞMA_İZNİ_MUAFİYETİ_KISA:"با آئین نامه اصلاحات آیین نامه اجرای قانون بین المللی کار به شماره 32693 که در روزنامه رسمی در 15 اکتبر 2024 منتشر شد، معافیت پناهجویان از مجوزهای کار مجدداً تنظیم شد.",
+            YABANCILARIN_ÇALIŞMA_İZNİ_MUAFİYETİ_UZUN: [
+        "<p><h6>1. معافیت برای برخی از اتباع خارجی از شش ماه به سه سال افزایش یافته است.</h6></p>",
+        "<p>با اصلاحات آیین نامه اجرای قانون بین المللی کار به شماره 32693 که در روزنامه رسمی در 15 اکتبر 2024 منتشر شد، معافیت پناهجویان از گرفتن مجوز کار، در آیین نامه مجدداً تنظیم شد.</p>",
+        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2024 در روزنامه رسمی انجام شد، معافیت کار خارجی ها از «شش ماه» در بند (ح) ماده 48 آیین نامه به «سه سال » تغییر یافت. در نتیجه مهلت شش ماهه برای اتباع خارجی در ماده ه که از مجوز کار معاف می شوند به سه سال افزایش یافت.</p>",
+        "<p><strong>ح) اتباع خارجی که در زمینه های اقتصادی، اجتماعی-فرهنگی و فناوری و آموزشی که می توانند خدمات و کمک قابل توجهی به ترکیه داشته باشند، که توسط مؤسسات و سازمان های دولتی ذیربط اعلام می شود می توانند تا سه سال از اجازه کار معاف باشند.</strong></p>",
+
+        "<p><h6>2. ویزای برای ورزشکاران خارجی حذف شده است.</h6></p>",
+        "<p>با اصلاحات آیین نامه اجرای قانون بین المللی کار به شماره 32693 که در روزنامه رسمی در 15 اکتبر 2024 منتشر شد، در بخش معاف از مجوز کار آیین نامه آمده است. روادید برای ورزشکاران مشمول بند اول ک ماده 48 آیین نامه با عنوان اتباع خارجی لغو شد.</p>",
+        "<p>در نتیجه ورزشکارانی از مجوز کار معاف می شوند که در صورت تایید وزارتخانه یا فدراسیون فوتبال ترکیه برای مدت قراردادشان از اجازه کار معاف خواهند بود.</p>",
+        "<p><strong>ک) در صورت که وزارت ورزش و جوانان یا فدراسیون فوتبال ترکیه تایید کنند، ورزشکاران و مربیان حرفه ای خارجی که به ترکیه می آیند از جمله پزشک ورزشی، فیزیوتراپ ورزشی، مکانیک ورزشی، ماساژور ورزشی یا ماساژور و پرسنل ورزشی مشابه تا پایان قراردادهای خود با فدراسیون‌های ورزشی و باشگاه‌های ورزشی، از مجوز کار معاف خواهند شد.</strong></p>",
+
+        "<p><h6>3. پناهندگان موقت و دارندگان اقامت انسانی</h6></p>",
+        "<p>در اصلاحیه‌های آیین‌نامه اجرای قانون بین‌المللی کار به شماره 32693 در روزنامه رسمی در 15 اکتبر 2024 منتشر شد و در آیین‌نامه با عنوان اتباع خارجی که از مجوز کار معاف می‌شوند. در بند 1 و قسمت ش ماده 48 اضافه شد. دارندگان اقامت بشردوستانه مندرج در ماده 46 قانون حمایت از خارجیان شماره 6458 و دارندگان پناهندگان موقت تحت مقررات ماده 91 از اجازه کار مستثنی خواهند بود.</p>",
+        "<p>در نتیجه، اقامت بشردوستانه و دارندگان پناهندگان موقت در مدت و محدوده اعلام شده توسط وزارت کشور از اجازه کارمعاف خواهند بود.</p>",
+        "<p><strong>ش) از جمله مشمولان مواد 46 و 91 قانون شماره 6458 ابلاغ شده از طریق سامانه وزارت کشور در حدود و مهلت های مندرج در ابلاغیه.</strong></p>",
+
+        "<p><h6>4. دارندگان کارت مطبوعاتی دائم در طول انجام وظایف خود از معافیت برخوردار خواهند شد.</h6></p>",
+        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2024 در روزنامه رسمی صورت گرفت، بند ت بند اول ماده ۴۸ آیین نامه با عنوان اتباع خارجی که از پروانه کار معاف می شوند اضافه شد. بر اساس بند ت، اتباع خارجی که دارای کارت مطبوعاتی دائم هستند در حین انجام وظیفه مشروط به تایید اداره کل ارتباطات ریاست جمهوری از معافیت پروانه کار برخوردار خواهند بود. بند زیر با عنوان اتباع خارجی که از پروانه کار معاف می شوند به بند اول ماده 48 آیین نامه اضافه شده است.</p>",
+        "<p><strong>ت) مطبوعات خارجی که در حین انجام وظایف خود مشمول کارت مطبوعاتی دایمی می شوند، مشروط بر اینکه اداره ارتباطات ریاست جمهوری دارای تأییدیه باشد.</strong></p>",
+
+        "<p><h6>5. کسانی که به طور قانونی به ترکیه وارد نشدن به این معافیت نمی تواند درخواست بدهند.</h6></p>",
+        "<p>در نتیجه اصلاحیه ای که در روزنامه رسمی در تاریخ 15 اکتبر 2024 منتشر شد، خارجی که نمی تواند ثابت کند که به طور قانونی در ترکیه اقامت داشتن، نمی تواند برای معافیت از مجوز کار اقدام کند.</p>",
+        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2004 در روزنامه رسمی منتشر شد، بند سوم ماده 49 آیین نامه با عنوان اتباع خارجی که از پروانه کار معاف می شوند اصلاح شد.</p>",
+        "<p><strong>(3) درخواست‌های معافیت از مجوز کار که در داخل کشور ارائه می‌شوند، در صورتی انجام می‌شوند که طی آن شخص خارجی به طور قانونی در ترکیه حضور داشته باشد.</strong></p>",
+
+        "<p><h6>6. در دورهای که معافیت تغییر کرده است  نمی توان آن را در طول دوره های معین دوباره اعمال کرد.</h6></p>",
+        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2004 در روزنامه رسمی منتشر شد، در موارد دیگردر ماده 53 آیین نامه با عنوان سایر موارد در خصوص معافیت پروانه کار تغییراتی ایجاد شده است.</p>",
+        "<p>کالاهای صادر شده یا وارد شده به ترکیه که در بند ب بند اول ماده 48 مقررات تنظیم شده است. و پرسنل فنی که به منظور آموزش استفاده از خدمات یا مونتاژ، تعمیر و نگهداری و تعمیر ماشین آلات و تجهیزات وارداتی به ترکیه کار می کنند و خارجیانی که ارائه دهندگان خدمات فرامرزی مندرج در بند ج هستند دارای یک دوره سه ماهه از اجازه کار معافیت هستند. مقرر شده است که این اتباع خارجی ظرف مدت شش ماه از تاریخ صدور معافیت پروانه کار نمی توانند مجددا درخواست معافیت کنند.</p>",
+        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2004 در روزنامه رسمی منتشر شد ، با تغییر مواردی از ماده 53 آیین نامه با عنوان سایر موارد معافیت پروانه کار، مقرر شد که در کلیه موارد معافیت غیر از بندهای ب و ج بند اول ماده 48 در محدوده همان معافیت نمی توان تقاضای جدید کرد مگر اینکه مدت دوازده ماه گذشته باشد. به این ترتیب از درخواست مجدد اتباع خارجی با همان معافیت جلوگیری می شود.</p>",
+
+        "<p><h6>7. استثنائات برای درخواست معافیت برای پناهندگان موقت و دارندگان اقامت بشردوستانه ارائه شده است.</h6></p>",
+        "<p>با اصلاحیه ای که در تاریخ 15 اکتبر 2024 در روزنامه رسمی منتشر شد، اصلاحیه بند ششم ماده 53 آیین نامه با عنوان سایر موارد در خصوص معافیت مجوز کار، مستثنی شدن کسانی که اقامت بشردوستانه و همچنین پناهندگان موقت در مادهای 49، 50 و ماده 51 همین آیین نامه در مورد معافیت های جواز کار آنها تصمیم گیری شده است.</p>"
+
+],
+
         },
         tr: {
             ofis_tel_no: "Ofis Tel: 0312 231 99 40",
@@ -595,7 +633,7 @@ $(function() {
             TÜRKİYEDE_YABANCILARIN_BOŞANMA_DAVALARI: "TÜRKİYE'DE YABANCILARIN BOŞANMA DAVALARI",
             TÜRKİYEDE_YABANCILARIN_BOŞANMA_DAVALARI_kısa: "Boşanma, evlilik birliğinin sonlandırılması için gerekli hukuki bir işlemdir..",
             TÜRKİYEDE_YABANCILARIN_BOŞANMA_DAVALARI_uzun: [
-                "<h3>Yabancıların Boşanma Davalarında Yetkili Mahkeme</h3>",
+                "<h6>Yabancıların Boşanma Davalarında Yetkili Mahkeme</h6>",
                 "<p>Boşanma, evlilik birliğinin sonlandırılması için gerekli hukuki bir işlemdir. Evlilik eşler arasında anlaşmalı boşanma şeklinde sonlandırılabileceği gibi, eşlerin anlaşamaması halinde çekişmeli boşanma yolu ile de sonlandırılabilmektedir.</p>",
                 "<p>Türk vatandaşlarının, Türkiye’de boşanma davası açabilecekleri tartışmasızdır. Bunun için Türkiye’de ikamet etmeleri de şart değildir. Diğer bir deyişle, yurtdışında yaşayan Türk vatandaşları, Türkiye’de boşanma davası açabilirler.</p>",
                 "<p>Yurtdışında yaşayan Türk vatandaşlarının açacağı boşanma davasında yetkili mahkeme Milletlerarası Özel Hukuk Ve Usul Hukuku Hakkında Kanunu (MÖHUK)’nda düzenlenmiştir. Bu düzenlemeye göre;</p>",
@@ -604,13 +642,13 @@ $(function() {
                 "  • Türkiye’de hiç ikametgahı olmamışsa Ankara, İstanbul veya İzmir mahkemeleri yetkili olarak belirlenmiştir.",
                 "<p></p>",
                 "<p>Yabancılar Türkiye’de boşanma davası açabilir. Bu durumda yetkili mahkeme davacı veya davalı eşin yerleşim yeri aile mahkemeleri olur. Eşlerin Türkiye’de yerleşiminin bulunmaması halinde yetkili mahkeme, yukarıdaki açıklamamızda belirttiğimiz şekilde tespit edilir. Buna ek olarak, HMK gereğince, eşlerin dava öncesi son altı aydır birlikte yaşadıkları yer mahkemesi de yetkilidir.</p>",
-                "<h3>Yabancıların Boşanma Davalarında Uygulanacak Hukuk</h3>",
+                "<h6>Yabancıların Boşanma Davalarında Uygulanacak Hukuk</h6>",
                 "<p>Eşlerin her ikisi de yabancı ise, Türkiye’de boşanma davası açmak yine mümkün olabilmektedir. MÖHUK 14. maddesinde, boşanma halinde uygulanacak hukuk düzenlenmiştir. Buna göre boşanma davalarında;</p>",
                 "• Eşlerin müşterek milli hukuku,",
                 "• Eşler farklı vatandaşlıktaysa birlikte yaşadıkları yer hukuku,",
                 "• Birlikte yaşamıyorlarsa, Türkiye’de açılan davalarda Türk hukuku uygulanır.",
                 "<p>Hukuk Büromuz yıllardır  yabancı uyruklu vatandaşların özellikle İran vatandaşlarının boşanma davalarına çözüm bulmuş ve bu konuda bir çok emsal karar almıştır.</p>",
-                "<h3>Türkiye'de Boşanma Sebepleri</h3>",
+                "<h6>Türkiye'de Boşanma Sebepleri</h6>",
                 "<p>Boşanma, evlilik birliğinin sonlandırılması için gerekli hukuki bir işlemdir. Evlilik eşler arasında anlaşmalı boşanma şeklinde sonlandırılabileceği gibi, eşlerin anlaşamaması halinde çekişmeli boşanma yolu ile de sonlandırılabilmektedir.</p>",
                 "<p>Boşanma taraflar arasında, iletişim problemleri, saygının azalması, kültürel uyuşmazlıklar, kötü alışkanlıklar, maddi konularda yaşanan anlaşmazlıklar, evliliğin taraflara getirdiği sadakat yükümlülüğüne aykırılık gibi sebeplerle olabilir. Bu sebepleri kapsayan durumlar kanunda maddeler hâlinde düzenlemiştir.</p>",
                 "<strong>Boşanma sebepleri;</strong>",
@@ -623,27 +661,66 @@ $(function() {
                 "6. Evlilik Birliğinin Sarsılması (Şiddetli Geçimsizlik) Nedeniyle Boşanma (TMK 166/1. mad.)",
                 "7. Anlaşmalı Boşanma (TMK 166/3. mad.)",
                 "8. Fiili (Eylemli) Ayrılık Nedeniyle Boşanma (TMK 166/4. mad.)",
-                "<p><h3>Yabancıların Boşanma Kararlarının Tanınması ve Tenfizi</h3></p>",
+                "<p><h6>Yabancıların Boşanma Kararlarının Tanınması ve Tenfizi</h6></p>",
                 "<p>Yurtdışında boşanan Türk vatandaşları ya da diğer ülke vatandaşları, bu kararların Türkiye de geçerli olabilmesi için kararların tanınması ve tenfizi için mahkemelere başvurmalıdır. Türk mahkemeleri yabancı mahkeme kararları hakında ‘’tanıma ve tenfiz’’ kararı vererek yurt dışında verilen kararların Türkiye’de de uygulanabilmesini sağlamaktadır.</p>",
                 "<p>2018 yılı öncesi yurt dışından alınan mahkeme kararlarının Türkiye de uygulanması için tek yol dava açarak kararların tanınması ve tenfizini sağlamak iken, Resmi Gazete’de 7 Şubat 2018 tarihinde yayımlanan “Yabancı Ülke Adlî Veya İdarî Makamlarınca Verilen Kararların Nüfus Kütüğüne Tescili Hakkında Yönetmelik” ile yabancı bir mahkemenin veya idari makamın verdiği boşanma kararı, Türkiye’de mahkemelerde tanıma davası açılmasına gerek kalmaksızın, kişilerin aile kütüklerine tescil edilebilmektedir.</p>",
                 "<p>Ancak; tenfiz hükümleri (nafaka, velayet vb.) içeren kararlar için, yine Türk Mahkemeleri’ne başvurmak gerekecektir.</p>",
                 "<p>Tanıma işleminin tescili için iki tarafın da başvuru yapması gereklidir. Bu başvuru taraflarca bizzat yapılabileceği gibi yasal temsilcileri ve vekilleri aracığı ile yapılabilecektir. İki tarafın aynı anda, aynı yerde başvuru yapması şartı aranmamakla birlikte; iki başvurunun arasında en fazla 90 gün olabilecektir.</p>",
-                "<h3>Yabancıların veleyeti altındaki çocuklar</h3>",
+                "<h6>Yabancıların veleyeti altındaki çocuklar</h6>",
                 "<p>Türk Hukukunda velayet konusunda eşler anlaşamadığı durumda mahkeme karar vermektedir. Mahkeme eşlerin maddi ve manevi durumunu dikkate alarak,  çocuğun üstün yararını gözeterek çocuğun velayetini eşlerden birine vermektedir. Yabancı eş velayeti altındaki çocuğu yurt dışına götürebilmektedir. Ancak bu durumda diğer eşin görüşme günlerine riayet etmesi gerekmektedir.</p>",
-                "<h3>Yabancıların  Evlilik Malları İçin Yetkili Hukuk</h3>",
+                "<h6>Yabancıların  Evlilik Malları İçin Yetkili Hukuk</h6>",
                 "<p>Türk hukukunda boşanma davasında eşler arasındaki mallar hakkında karar verilmemekte bunun için ayrı bir dava açmak gerekmektedir.Evlilik malları boşanmadan sonra mal paylaşımı davası ile taraflar arasında paylaştırılır.</p>",
                 "<p>MÖHUK m. 15 uyarınca evlilik malları eşlerin ortak milli hukukuna tabidir. Eğer eşler farklı vatandaşlıkta iseler, müşterek mutad mesken hukuku uygulanır. Buna göre eşlerin birlikte ikamet ettikleri ülkenin hukuku uygulancaktır." +
                 "Eğer eşler birlikte bir ülkede oturmuyor, yani müşterek mutad meskenleri bulunmuyor ise, Türk hukuku uygulanır.</p>",
                 "<p>Taşınmazlar ile ilgili olarak taşınmazın nerede bulunduğuna göre, bulunduğu ülke hukuku uygulanır. Buna göre, milli hukuk farklı olsa bile Türkiye’de bulunan taşınmazların boşanmada tasfiye edilmesine uygulanacak hükümler Türk hukukuna göre uygulanacaktır.</p>",
                 "<p>Yurtdışındaki taşınmazlar için Türkiye'de mal paylaşımı davası açmak mümkün değildir. Yurtdışındaki mallar için Türkiye'de boşanma davası açılarak, boşanma kararının alınmasından sonra ilgili ülkede malpaylaşımı davası açılması gerekir.</p>",
-                "<h3>Yabancı vatandaş Türkiyede nafaka alabilir mi?</h3>",
+                "<h6>Yabancı vatandaş Türkiyede nafaka alabilir mi?</h6>",
                 "<p>Yabancı hukukta düzenlensin düzenlenmesin, Türkiye’de görülen bir boşanma davasında şartlar oluştuğu taktirde yoksulluk nafakasına hükmedilecektir.</p>",
-                "<h3>Türkiye de Mehir Senedi Geçerli Midir?</h3>",
+                "<h6>Türkiye de Mehir Senedi Geçerli Midir?</h6>",
                 "<p>Mehir kadının nikâh ile kazandığı bir haktır. Mehir; “Müslüman bir erkeğin, evlenme karşılığı olarak kadına verdiği ya da vermeyi vadettiği para, altın gibi ekonomik değeri olan her türlü menkul/gayrimenkul mal veya menfaatler”, şeklinde kısaca tanımlanabilir.</p>",
                 "<p>Medeni hukukumuzda “mehir” için bir düzenleme bulunmamaktadır. Ancak buna rağmen mehir senedi düzenlenmişse, bu mehir senedi geçerlidir. Mehir senedindeki alacak davası ikame edilerek  alınabilmektedir. Ancak bunun için mehirin yazılı olarak vaad edilmiş olması, taşınmaz mehir olarak vrildi ise taşınmaz için gerekli şekli şartların sağlanmış olması gerelidir.</p>",
                 "<p>Kısaca mehir olarak taşınmaz veya taşınmaz üzerindeki ayni hak söz konusu olduğunda resmi şekil şartının gerekliliği unutmamalıdır. Mehir senedinin kişinin talep ettiği mala göre yazılı ya da resmi yapılması sözleşmenin geçerlilik şartıdır. Aksi takdirde bu şarta uyulmadan açılan davanız usule uygun olmadığı gerekçesiyle reddedilecektir.</p>",
 
             ],
+
+            YABANCILARIN_ÇALIŞMA_İZNİ_MUAFİYETİ: "YABANCILARIN ÇALIŞMA İZNİ MUAFİYETİ",
+            YABANCILARIN_ÇALIŞMA_İZNİ_MUAFİYETİ_KISA:"Resmi Gazete’de 15 Ekim 2024 tarihinde Sayı: 32693 numaralı Uluslararası İşgücü Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile Sığınmacıların Çalışma İzninden muafiyeti yeniden düzenlendi.",
+            YABANCILARIN_ÇALIŞMA_İZNİ_MUAFİYETİ_UZUN: [
+                "<p><h6>1. MUAFİYET BAZI YABANCILAR İÇİN ALTI AYDAN ÜÇ YILA ÇIKARILDI</h6></p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde Sayı: 32693 numaralı Uluslararası İşgücü Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile Sığınmacıların Çalışma İzninden muafiyeti yeniden düzenlendi.</p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde gerçekleştirilen değişiklik ile yönetmeliğin Çalışma izninden muaf tutulacak yabancılar başlıklı 48. Maddesinin birinci fıkrasının (h) bendinde “altı ay”lık süre “üç yıl” olarak değiştirilmiştir. Sonuçta çalışma izninden muaf tutulacak (h) maddesindeki yabancılar için altı aylık süre üç yıla çıkarılmıştır.</p>",
+                "<p><strong>h) Ekonomik, sosyo-kültürel ve teknolojik alanlar ile eğitim konularında Türkiye’ye önemli hizmet ve katkı sağlayabilecekleri ilgili kamu kurum ve kuruluşlarınca bildirilen yabancılar üç yıla kadar,</strong></p>",
+
+                "<p><h6>2. SPORCULAR İÇİN MEŞRUHATLI VİZE KALDIRILDI</h6></p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde Sayı: 32693 numaralı Uluslararası İşgücü Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile yönetmeliğin Çalışma izninden muaf tutulacak yabancılar başlıklı 48. Maddesinin birinci fıkrasının (k) bendinde yer alan sporcular için meşruhatlı vize kaldırıldı.</p>",
+                "<p>Sonuçta çalışma izninden muaf tutulacak sporcular için bakanlığın veya TFF’nun uygun görüşü olması halinde sözleşmeleri süresince muafiyet uygulanacaktır.</p>",
+                "<p><strong>k) Gençlik ve Spor Bakanlığı veya Türkiye Futbol Federasyonunun uygun görüşü olması kaydıyla Türkiye’ye gelen profesyonel yabancı sporcu ve antrenörler ile spor hekimi, spor fizyoterapisti, spor mekanisyeni, spor masözü veya masörü ve benzeri spor elemanı yabancılar spor federasyonları ve spor kulüpleri ile olan sözleşmeleri süresince,</strong></p>",
+
+                "<p><h6>3. GEÇİCİ KORUMA VE İNSANİ İKAMET SAHİPLERİ</h6></p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde Sayı: 32693 numaralı Uluslararası İşgücü Kanunu Uygulama Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik ile yönetmeliğin Çalışma izninden muaf tutulacak yabancılar başlıklı 48. Maddesinin birinci fıkrasının (ş) bendi eklenmiştir. 6458 sayılı YUKK 46’ncı maddesi kapsamında düzenlenen insani ikamet sahipleri ile 91’inci maddesinde düzenlenen geçici koruma sahipleri muafiyet sahibi olacaktır.</p>",
+                "<p>Sonuçta insani ikamet sahipleri ve geçici koruma sahipleri İçişleri Bakanlığı’nca bildirilen süre ve kapsamda muafiyet sahibi olacaktır.</p>",
+                "<p><strong>ş) 6458 sayılı Kanunun 46’ncı ve 91’inci maddeleri kapsamındakilerden İçişleri Bakanlığınca sistem üzerinden bildirilenler, bildirimde belirtilen kapsam ve sürelerde,</strong></p>",
+
+                "<p><h6>4. DAİMİ BASIN KARTI SAHİPLERİ GÖREVLERİ SÜRESİNCE MUAFİYET ALABİLECEK</h6></p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde gerçekleştirilen değişiklik ile yönetmeliğin Çalışma izninden muaf tutulacak yabancılar başlıklı 48. Maddesinin birinci fıkrasının (t) bendi eklenmiştir. T bendine göre yabancılar Cumhurbaşkanlığı İletişim Başkanlığının uygun görüşü olması kaydıyla daimi basın kartı sahibi yabancılar görevleri süresince çalışma izninden muafiyete hak kazanabilecek.Yönetmeliğin Çalışma izninden muaf tutulacak yabancılar başlıklı 48. Maddesinin birinci fıkrasına aşağıdaki (t) bendi eklenmiştir.</p>",
+                "<p><strong>t) Cumhurbaşkanlığı İletişim Başkanlığının uygun görüşü olması kaydıyla, daimi basın kartı kapsamında gelen yabancı basın mensupları görevleri süresince,</strong></p>",
+
+                "<p><h6>5. YASAL YOLLARDAN TÜRKİYE’DE BULUNMAYANLAR MUAFİYETE BAŞVURAMAYACAK</h6></p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde gerçekleştirilen değişiklik ile yönetmeliğin Çalışma izni muafiyeti başvurusu başlıklı 49. Maddesinin üçüncü fıkrasındaki değişiklik sonucunda yasal yollardan Türkiye’de kaldığını ispat edemeyen bir yabancı çalışma izni için muafiyet başvurusunda bulunamayacak.</p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde gerçekleştirilen değişiklik ile yönetmeliğin Çalışma izninden muaf tutulacak yabancılar başlıklı 49. Maddesinin üçüncü fıkrası değiştirilmiştir.</p>",
+                "<p><strong>(3) Yurt içinden yapılacak çalışma izni muafiyeti başvuruları, yabancının Türkiye’de yasal olarak bulunduğu süreler içerisinde yapılır.</strong></p>",
+
+                "<p><h6>6. MUAFİYET SÜRELERİNDE DEĞİŞİKLİK VE BELİRLİ SÜRELERDE TEKRAR BAŞVURULAMAYACAĞI DÜZENLENDİ</h6></p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde gerçekleştirilen değişiklik ile yönetmeliğin Çalışma izni muafiyetine ilişkin diğer hususlar başlıklı 53. Maddesindeki sürelerde değişiklik yapılmıştır. Yönetmeliğin 48 maddesininin birinci fıkrasının b bendinde düzenlenen Türkiye’den ihraç edilen ya da Türkiye’ye ithal edilen mal ve hizmetlerin kullanılmasına ilişkin eğitim amacıyla veya Türkiye’ye ithal edilen makine ve teçhizatın montajı, bakım ve onarımında çalışan teknik personel ve C bendinde düzenlenen Sınırötesi hizmet sunucusu yabancılar üç aylık muafiyet süreleri mevcuttur. Bu yabancıların altı ay geçmeden tekrar çalışma izni muafiyetinin düzenlendiği tarihten itibaren altı aylık süre geçmeden yeniden muafiyet başvurusunda bulunamayacağı düzenlenmiştir.</p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde gerçekleştirilen değişiklik ile yönetmeliğin Çalışma izni muafiyetine ilişkin diğer hususlar başlıklı 53. Maddesindeki sürelerde değişiklik ile 48. Maddenin birinci fıkrasının b ve c bendi dışındaki tüm muafiyet hallerinde on iki aylık süre geçmedikçe aynı muafiyet kapsamında yeni başvuru yapılamayacağı düzenlenmiştir. Bu şekilde yabancıların tekrar aynı muafiyet kapsamında başvuru yapması engellenmiştir.</p>",
+
+                "<p><h6>7. GEÇİCİ KORUMA VE İNSANİ İKAMET SAHİPLERİ İÇİN MUAFİYET BAŞVURULARINDA İSTİSNALAR DÜZENLENMİŞTİR</h6></p>",
+                "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde gerçekleştirilen değişiklik ile yönetmeliğin Çalışma izni muafiyetine ilişkin diğer hususlar başlıklı 53. Maddesinin altıncı fıkrasında yapılan değişiklik ile insani ikamet sahipleri ile geçici koruma sahiplerinin çalışma izni muafiyetlerinde aynı yönetmeliğin 49’uncu, 50’nci ve 51’inci maddelerden istisna tutulmasına karar verilmiştir.</p>",
+
+
+            ],
+
+
             // Diğer diller buraya eklenebilir...
         },
     }
