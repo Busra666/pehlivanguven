@@ -360,18 +360,53 @@ $(function() {
 
         "<p><h6>5. کسانی که به طور قانونی به ترکیه وارد نشدن به این معافیت نمی تواند درخواست بدهند.</h6></p>",
         "<p>در نتیجه اصلاحیه ای که در روزنامه رسمی در تاریخ 15 اکتبر 2024 منتشر شد، خارجی که نمی تواند ثابت کند که به طور قانونی در ترکیه اقامت داشتن، نمی تواند برای معافیت از مجوز کار اقدام کند.</p>",
-        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2004 در روزنامه رسمی منتشر شد، بند سوم ماده 49 آیین نامه با عنوان اتباع خارجی که از پروانه کار معاف می شوند اصلاح شد.</p>",
+        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2024 در روزنامه رسمی منتشر شد، بند سوم ماده 49 آیین نامه با عنوان اتباع خارجی که از پروانه کار معاف می شوند اصلاح شد.</p>",
         "<p><strong>(3) درخواست‌های معافیت از مجوز کار که در داخل کشور ارائه می‌شوند، در صورتی انجام می‌شوند که طی آن شخص خارجی به طور قانونی در ترکیه حضور داشته باشد.</strong></p>",
 
         "<p><h6>6. در دورهای که معافیت تغییر کرده است  نمی توان آن را در طول دوره های معین دوباره اعمال کرد.</h6></p>",
-        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2004 در روزنامه رسمی منتشر شد، در موارد دیگردر ماده 53 آیین نامه با عنوان سایر موارد در خصوص معافیت پروانه کار تغییراتی ایجاد شده است.</p>",
+        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2024 در روزنامه رسمی منتشر شد، در موارد دیگردر ماده 53 آیین نامه با عنوان سایر موارد در خصوص معافیت پروانه کار تغییراتی ایجاد شده است.</p>",
         "<p>کالاهای صادر شده یا وارد شده به ترکیه که در بند ب بند اول ماده 48 مقررات تنظیم شده است. و پرسنل فنی که به منظور آموزش استفاده از خدمات یا مونتاژ، تعمیر و نگهداری و تعمیر ماشین آلات و تجهیزات وارداتی به ترکیه کار می کنند و خارجیانی که ارائه دهندگان خدمات فرامرزی مندرج در بند ج هستند دارای یک دوره سه ماهه از اجازه کار معافیت هستند. مقرر شده است که این اتباع خارجی ظرف مدت شش ماه از تاریخ صدور معافیت پروانه کار نمی توانند مجددا درخواست معافیت کنند.</p>",
-        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2004 در روزنامه رسمی منتشر شد ، با تغییر مواردی از ماده 53 آیین نامه با عنوان سایر موارد معافیت پروانه کار، مقرر شد که در کلیه موارد معافیت غیر از بندهای ب و ج بند اول ماده 48 در محدوده همان معافیت نمی توان تقاضای جدید کرد مگر اینکه مدت دوازده ماه گذشته باشد. به این ترتیب از درخواست مجدد اتباع خارجی با همان معافیت جلوگیری می شود.</p>",
+        "<p>با اصلاحیه ای که در تاریخ 24 اکتبر 2024 در روزنامه رسمی منتشر شد ، با تغییر مواردی از ماده 53 آیین نامه با عنوان سایر موارد معافیت پروانه کار، مقرر شد که در کلیه موارد معافیت غیر از بندهای ب و ج بند اول ماده 48 در محدوده همان معافیت نمی توان تقاضای جدید کرد مگر اینکه مدت دوازده ماه گذشته باشد. به این ترتیب از درخواست مجدد اتباع خارجی با همان معافیت جلوگیری می شود.</p>",
 
         "<p><h6>7. استثنائات برای درخواست معافیت برای پناهندگان موقت و دارندگان اقامت بشردوستانه ارائه شده است.</h6></p>",
         "<p>با اصلاحیه ای که در تاریخ 15 اکتبر 2024 در روزنامه رسمی منتشر شد، اصلاحیه بند ششم ماده 53 آیین نامه با عنوان سایر موارد در خصوص معافیت مجوز کار، مستثنی شدن کسانی که اقامت بشردوستانه و همچنین پناهندگان موقت در مادهای 49، 50 و ماده 51 همین آیین نامه در مورد معافیت های جواز کار آنها تصمیم گیری شده است.</p>"
 
 ],
+
+            KİRA_ÖDEMELERİNDE_ELDEN_ÖDEME_DÖNEMİ_BİTTİ: "دوره پرداخت دستی برای اجاره بها به پایان رسیده است",
+            KİRA_ÖDEMELERİNDE_ELDEN_ÖDEME_DÖNEMİ_BİTTİ_KISA: "در صورتی که اجاره بها به صورت دستی پرداخت شود، مستاجر و موجر هر دو مجازات خواهند شد.",
+            KİRA_ÖDEMELERİNDE_ELDEN_ÖDEME_DÖNEMİ_BİTTİ_UZUN:[
+                "<p><h6>1. در صورتی که اجاره بها به صورت دستی پرداخت شود، مستاجر و موجر هر دو مجازات خواهند شد.</h6></p>",
+                "<p>از طرف وزارت خزانه داری و دارایی (اداره عواید): ابلاغیه عمومی مالیات بر درآمد (شماره مسلسل: 328) در روزنامه رسمی در تاریخ 17 اکتبر 2024 به شماره: 32695 منتشر شد.</p>",
+                "<p>با این آیین نامه پرداخت اجاره بهای مسکن و محل کار از طریق بانک ها یا PTT الزامی شد. برای موجر و مستاجرینی که این ابلاغیه را رعایت نکنند، جریمه‌های خاصی در نظر گرفته می‌شود.</p>",
+                "<p>جریمه ویژه موجر و مستاجر هر ماه 10 درصد مبلغ اجاره بها خواهد بود. اما اگر جریمه اعمال شده کمتر از 5000 لیره باشد، جریمه ویژه 5000 لیره اعمال خواهد شد.</p>",
+                "<p>با توجه به گروه های حرفه ای مختلف در تعیین مبلغ جریمه تفاوت هایی وجود دارد.</p>",
+                "<ul>",
+                "<li>20000 لیر برای بازرگانان درجه یک و مشاغل آزاد</li>",
+                "<li>10000 لیره برای بازرگانان درجه دو، کشاورزان و کسانی که درآمدشان با روش های ساده تعیین می شود.</li>",
+                "<li>جریمه ویژه به میزان 10 درصد مبلغ موضوع که کمتر از 5000 لیر نباشد برای اشخاصی غیر از موارد فوق الذکر اعمال می شود.</li>",
+                "</ul>",
+                "<p><h6>2. برای کسانی که ظرف پنج روز کاری پس از پرداخت دستی گزارش کنند، هیچ جریمه ای اعمال نخواهد شد.</h6></p>",
+                "<p>وزارت خزانه داری و دارایی (اداره عواید) به شماره 32695 در روزنامه رسمی در 17 اکتبر 2024: در بند چهارم ماده سوم ابلاغیه عمومی مالیات بر درآمد (شماره مسلسل 328) کسانی که اجاره بها را دستی پرداخت می کنند باید ظرف مدت پنج روز کاری پس از پرداخت اجاره بهای خود را گزارش کنند. مقرر شده است که در صورت گزارش جریمه خاصی برای شخص پرداخت کننده اعمال نخواهد شد.</p>",
+                "<p>در صورتی که مستاجر بر خلاف این اطلاعیه پرداخت های خود را دستی انجام دهند، ظرف پنج روز کاری پس از پرداخت، به ادارات گزارش دهند، جریمه اعمال نخواهد شد.</p>",
+                "<p><h6>3. پرداخت نقدی برای اجارهای کوتاه مدت هفتگی - روزانه مسکن لغو شده است.</h6></p>",
+                "<p>از طرف وزارت خزانه داری و دارایی (اداره درآمد) به شماره 32695 در روزنامه رسمی 17 اکتبر 2024: در بند دوم ماده دوم ابلاغیه عمومی مالیات بر درآمد (شماره مسلسل: 328) پرداخت دستی به صورت کوتاه مدت اجاره مسکونی ممنوع شده است.</p>",
+                "<p>با مقررات فعلی، پرداخت از طریق بانک یا PTT برای اجاره کوتاه مدت مسکن مانند روزانه یا هفتگی اجباری شده است.</p>",
+                "<p><h6>4. پرداخت ها از طریق دادگاه و اجرا احکام و پرداخت های غیر از این محدوده مستثنی شده است.</h6></p>",
+                "<p>وزارت خزانه داری و دارایی (اداره درآمد) به شماره 32695 در روزنامه رسمی 17 اکتبر 2024: استثنائات در بند سوم ماده دوم ابلاغیه عمومی مالیات بر درآمد (شماره مسلسل: 328) تنظیم کرده است.</p>",
+                "<p>در آیین نامه فعلی پرداخت از طریق دادرسی و اجرائیه و پرداخت غیرنقدی در حیطه تعهد اسنادی نمی باشد.</p>",
+                "<p><h6>5. پرداخت از طریق بانک و PTT برای پرداخت های املاک مشترک مشاع الزامی است.</h6></p>",
+                "<p>وزارت خزانه داری و دارایی (اداره درآمد) به شماره 32695 در روزنامه رسمی 17 اکتبر 2024: در بند چهارم ماده دوم ابلاغیه عمومی مالیات بر درآمد (شماره مسلسل: 328) پرداخت نقدی در اجاره های مسکونی کوتاه مدت ممنوع شده است.</p>",
+                "<p>با این ابلاغیه، پرداخت کل هزینه اجاره به یکی از اجاره دهندگان از طریق بانک یا PTT برای پرداخت اجاره املاک مشاع کافی تشخیص داده شده است.</p>",
+                "<p><h6>6. نمونه مجازات</h6></p>",
+                "<p>نمونه موارد مجازات نیز در روزنامه رسمی مورخ 17 اکتبر 2024 به شماره: 32695 از وزارت خزانه داری و دارایی (اداره عواید): ابلاغیه عمومی مالیات بر درآمد (شماره مسلسل: 328) درج شده است.</p>",
+                "<p>مثال 1: (الف) که از نظر درآمد سرمایه مستغلات مشمول مالیات بر درآمد است، ملک خود را به عنوان مسکن به (ب) که تعهد مالیاتی ندارد، در سال 2024 اجاره داده است و اجاره ماهانه مسکن 20000 لیر است.</p>",
+                "<p>در نتیجه تحقیقات مشخص شد که اجاره بهای آبان ماه 2024 به صورت دستی پرداخت شده است.</p>",
+                "<p>در این صورت، از آنجایی که به دلیل پرداخت اجاره بها به صورت دستی، تعهد رعایت قانون انجام نشده، جریمه برای موجر (الف) که از نظر مالیات درآمد سرمایه ملکی مسئول است و مستاجر (ب) که از نظر مالیاتی مسئولیتی ندارد، طبق بند (3) بند اول ماده 355 مکرر قانون شماره 213 جریمه در نظر گرفته می شود.</p>",
+                "<p>بر این اساس؛ برای اجاره 20000 لیر که به صورت نقدی وصول و پرداخت می شود، مبلغ 2000 لیر جریمه به عنوان 10% این مبلغ محاسبه می شود (20000 TLx0,10 =).</p>",
+                "<p>از آنجایی که حداقل میزان جریمه برای سال 2024 کمتر از 5000 لیره نیست، در نتیجه جریمه ویژه 5000 لیره (1x5000=) برای ماه نوامبر به طور جداگانه برای (A) و (B) اعمال می شود.</p>"
+
+            ],
 
         },
         tr: {
@@ -718,6 +753,41 @@ $(function() {
                 "<p>Resmi Gazete’de 15 Ekim 2024 tarihinde gerçekleştirilen değişiklik ile yönetmeliğin Çalışma izni muafiyetine ilişkin diğer hususlar başlıklı 53. Maddesinin altıncı fıkrasında yapılan değişiklik ile insani ikamet sahipleri ile geçici koruma sahiplerinin çalışma izni muafiyetlerinde aynı yönetmeliğin 49’uncu, 50’nci ve 51’inci maddelerden istisna tutulmasına karar verilmiştir.</p>",
 
 
+            ],
+
+            KİRA_ÖDEMELERİNDE_ELDEN_ÖDEME_DÖNEMİ_BİTTİ: "KİRA ÖDEMELERİNDE ELDEN ÖDEME DÖNEMİ BİTTİ",
+            KİRA_ÖDEMELERİNDE_ELDEN_ÖDEME_DÖNEMİ_BİTTİ_KISA: "Kira Ödemelerinde Elden Ödeme Halinde Hem Kiracı Hem Ev Sahibi Ceza Alacak",
+            KİRA_ÖDEMELERİNDE_ELDEN_ÖDEME_DÖNEMİ_BİTTİ_UZUN: [
+                "<p><h6>1. KİRA ÖDEMELERİNDE ELDEN ÖDEME HALİNDE HEM KİRACI HEM EV SAHİBİ CEZA ALACAK</h6></p>",
+                "<p>Resmi Gazete’de 17 Ekim 2024 tarihinde Sayı: 32695 numaralı Hazine ve Maliye Bakanlığı (Gelir İdaresi Başkanlığı)’ndan: Gelir Vergisi Genel Tebliği (Seri No: 328) düzenlendi.</p>",
+                "<p>Bu düzenleme ile konut ve işyeri kiralarının bankalar veya PTT aracılığıyla ödenmesi zorunlu hale getirilmiştir. Bu tebliğe uymayan hem ev sahiplerine hem de kiracılara özel usulsüzlük cezası uygulanması düzenlenmiştir.</p>",
+                "<p>Ev sahibi ve kiracılar için özel usulsüzlük cezası her ay kira tutarının yüzde 10’u olacaktır. Ancak verilen cezanın 5.000-TL’nin altında kalması durumunda 5.000-TL özel usulsüzlük cezası uygulanacaktır.</p>",
+                "<p><strong>- Birinci sınıf tüccarlar ile serbest meslek erbabı hakkında 20.000 Türk lirasından,</strong></p>",
+                "<p><strong>- İkinci sınıf tüccarlar, defter tutan çiftçiler ile kazancı basit usulde tespit edilenler hakkında 10.000 Türk lirasından,</strong></p>",
+                "<p><strong>- Yukarıda yazılı bulunanlar dışında kalanlar hakkında 5.000 Türk lirasından az olmamak üzere işleme konu tutarın %10’u nispetinde özel usulsüzlük cezası kesilecektir.</strong></p>",
+
+                "<p><h6>2. ELDEN ÖDEME SONRASINDA BEŞ İŞ GÜNÜ İÇERİSİNDE BİLDİRENE CEZA UYGULANMAYACAK</h6></p>",
+                "<p>Resmi Gazete’de 17 Ekim 2024 tarihinde Sayı: 32695 numaralı Hazine ve Maliye Bakanlığı (Gelir İdaresi Başkanlığı)’ndan: Gelir Vergisi Genel Tebliği (Seri No: 328) üçüncü maddesinin dördüncü bendinde, kira ödemelerini elden ödeme yapanların ödemeyi takip eden beş iş günü içerisinde; ödemeyi kendiliğinden bildirmesi halinde ödemede bulunan adına özel usulsüzlük cezası uygulanmaması düzenlenmiştir.</p>",
+                "<p>Bu tebliğe aykırı şekilde elden ödeme yapan kiracıların, ödemeyi takip eden beş iş günü içerisinde kendiliğinden idareye bildirmesi halinde özel usulsüzlük cezası verilmeyeceği belirtilmiştir.</p>",
+
+                "<p><h6>3. HAFTALIK – GÜNLÜK ŞEKLİNDE KISA SÜRELİ KONUT KİRALAMALARINDA DA ELDEN ÖDEMEYE SON VERİLDİ</h6></p>",
+                "<p>Resmi Gazete’de 17 Ekim 2024 tarihinde Sayı: 32695 numaralı Hazine ve Maliye Bakanlığı (Gelir İdaresi Başkanlığı)’ndan: Gelir Vergisi Genel Tebliği (Seri No: 328) ikinci maddesinin ikinci bendinde kısa süreli konut kiralamalarında elden ödeme yapılması yasaklanmıştır.</p>",
+                "<p>Mevcut düzenleme ile günlük, haftalık gibi şekillerde kısa süreli konut kiralarında bankalar veya PTT aracılığıyla ödeme zorunlu hale getirildi.</p>",
+
+                "<p><h6>4. MAHKEME VE İCRA YOLUYLA ÖDEMELER İLE AYNİ ÖDEMELER KAPSAM DIŞINDA BIRAKILMIŞTIR</h6></p>",
+                "<p>Resmi Gazete’de 17 Ekim 2024 tarihinde Sayı: 32695 numaralı Hazine ve Maliye Bakanlığı (Gelir İdaresi Başkanlığı)’ndan: Gelir Vergisi Genel Tebliği (Seri No: 328) ikinci maddesinin üçüncü bendinde istisnalar düzenlenmiştir.</p>",
+                "<p>Mevcut düzenleme ile mahkeme ve icra yoluyla ödemeler ile ayni ödemeler tevsik zorunluluğu kapsamında değildir.</p>",
+
+                "<p><h6>5. HİSSELİ GAYRİMENKUL ÖDEMELERİNDE DE BANKA VE PTT ARACILIĞIYLA ÖDEME ZORUNLUDUR</h6></p>",
+                "<p>Resmi Gazete’de 17 Ekim 2024 tarihinde Sayı: 32695 numaralı Hazine ve Maliye Bakanlığı (Gelir İdaresi Başkanlığı)’ndan: Gelir Vergisi Genel Tebliği (Seri No: 328) ikinci maddesinin dördüncü bendinde kısa süreli konut kiralamalarında elden ödeme yapılması yasaklanmıştır.</p>",
+                "<p>Bu tebliğ ile hisseli gayrimenkulün kira ödemelerinde kira bedelinin tamamının kiraya verenlerden birine banka veya PTT aracılığıyla ödenmesi yeterli görülmüştür.</p>",
+
+                "<p><h6>6. ÖRNEK CEZALANDIRMA</h6></p>",
+                "<p>Resmi Gazete’de 17 Ekim 2024 tarihinde Sayı: 32695 numaralı Hazine ve Maliye Bakanlığı (Gelir İdaresi Başkanlığı)’ndan: Gelir Vergisi Genel Tebliği (Seri No: 328) örnek cezalandırma olaylarına da yer verilmiştir.</p>",
+                "<p><strong>Örnek 1:</strong> Gayrimenkul sermaye iradı yönünden gelir vergisi mükellefiyeti bulunan (A), sahibi olduğu gayrimenkulünü, 2024 yılında mükellefiyeti bulunmayan (B)’ye konut olarak kiraya vermiş olup konutun aylık kira bedeli 20.000 TL’dir. Yapılan araştırmalar sonucunda, 2024 yılı Kasım ayına ait kira bedelinin elden ödendiği tespit edilmiştir.</p>",
+                "<p>Bu durumda, elden yapılan kira ödemesi nedeniyle tevsik zorunluluğuna uyulmadığından, gayrimenkul sermaye iradı yönünden mükellefiyeti bulunan kiraya veren (A) ve mükellefiyeti bulunmayan kiracı (B)’ye 213 sayılı Kanunun mükerrer 355 inci maddesinin birinci fıkrasının (3) numaralı bendine göre özel usulsüzlük cezası kesilecektir.</p>",
+                "<p><strong>Ödeme Detayları:</strong> Elden tahsil edilen ve ödenen 20.000 TL kira tutarı için bu tutarın %10’u oranında hesaplanan (20.000 TLx0,10=) 2.000 TL ceza tutarı, 2024 yılına ilişkin belirlenen asgari ceza tutarı olan 5.000 TL’nin altında kaldığından, (A) ve (B)’ye ayrı ayrı Kasım ayı için (1x5.000=) 5.000 TL özel usulsüzlük cezası kesilecektir.</p>",
+                "<p>Kiracı (B)’nin; ödemenin tevsik zorunluluğuna uymadan yapıldığını, ödemeyi takip eden beş iş günü içerisinde kendiliğinden idareye bildirmesi durumunda ise kiracı (B)’ye özel usulsüzlük cezası kesilmeyecektir.</p>"
             ],
 
 
