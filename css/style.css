@@ -2820,6 +2820,16 @@ strong {
   text-align: left;
 }
 
+/* Türkçe için menüyü sağa hizala */
+.menu-right {
+  justify-content: flex-end; /* Sağdan hizalama */
+}
+
+/* Farsça için menüyü sola hizala */
+.menu-left {
+  justify-content: flex-start; /* Soldan hizalama */
+}
+
 * {
   margin: 0;
   padding: 0;
