@@ -274,6 +274,7 @@ $(function() {
             iran_ekibimiz_2_tel: " <li><a href=\"tel:09144092006\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>09144092006</a></li>\n",
             iran_ekibimiz_2_email: "<li><a href=\"mailto:Hamid.valai@gmail.com\"><span class=\"align-middle\"><i class=\"ti-email\"></i></span>Hamid.valai@gmail.com</a></li>\n",
 
+            türkiyede_iranlı_hukuk_avukatı:"وکیل ایرانی حقوقی در ترکیه، وکیل ایرانی جزای در ترکیه، وکیل فارس زبان ایرانی، وکیل فارس زبان ایرانی گرفتن شهروندی در ترکیه، وکیل فارس زبان ایرانی در آنکار، استانبول و کلیهشهرهایترکیه",
             çözüm_ortaklarımız: "همکارای ما",
             iletişim_adres: "آنکارا",
             çalışma_günleri: "دوشنبه – جمعه",
@@ -696,6 +697,7 @@ $(function() {
             iran_ekibimiz_2_tel: " <li><a href=\"tel:09144092006\"><span class=\"align-middle\"><i class=\"ti-mobile\"></i></span>09144092006</a></li>\n",
             iran_ekibimiz_2_email: "\t\t\t\t\t\t  <li><a href=\"mailto:Hamid.valai@gmail.com\"><span class=\"align-middle\"><i class=\"ti-email\"></i></span>Hamid.valai@gmail.com</a></li>\n",
 
+            türkiyede_iranlı_hukuk_avukatı:"Türkiye'de İranlı hukuk avukatı, Türkiye'de İranlı ceza avukatı, İranca konuşan Farsça avukat, Türkiye'de vatandaşlık alacak İranca konuşan Farsça avukat, Ankara, İstanbul ve tüm Türk şehirlerinde Farsça konuşan İranlı avukat",
             çözüm_ortaklarımız: "ÇÖZÜM ORTAKLARIMIZ",
             iletişim_adres: "Sıhhıye/ANKARA",
             çalışma_günleri: "Pazartesi - Cuma",
