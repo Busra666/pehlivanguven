@@ -29,7 +29,7 @@ $(function() {
             kirahukuku: " حقوق موجر و مستاجر ",
             tazminathukuku: " حقوق ضرر و زیان ",
             idaridavalar: " دعاوی اداری ",
-            dahafazlası: "و خدمات دیگر ",
+            dahafazlası: "<i class=\"ti-arrow-left\"></i>و خدمات دیگر ",
             tümçalışmaalanlarımız: "کلیه فعالیت های ما ",
             deneyimlikadrohızlıçözüm: "با افراد مجرب و حل سریع مسله ",
             alanındauzmandeneyimliavukatlarımızlahızlıveetkilihizmetlerPEHLİVANGÜVENHukukBürosunda: "خدمات سریع و موثر با وکلای مجرب و متخصص در زمینه های خود در موسسه حقوقی پهلوان گوون ",
@@ -407,9 +407,47 @@ $(function() {
                 "<p>در این صورت، از آنجایی که به دلیل پرداخت اجاره بها به صورت دستی ، تعهد رعایت قانون انجام نشده، جریمه برای موجر (الف) که از نظر مالیات درآمد سرمایه ملکی مسئول است و مستاجر (ب) که از نظر مالیاتی مسئولیتی ندارد، طبق بند (3) بند اول ماده 355 مکرر قانون شماره 213 جریمه در نظر گرفته می شود.</p>",
                 "<p>بر این اساس؛ برای اجاره 20000 لیر که به صورت نقدی وصول و پرداخت می شود، مبلغ 2000 لیر جریمه به عنوان 10% این مبلغ محاسبه می شود (20000 TLx0,10 =).</p>",
                 "<p>از آنجایی که حداقل میزان جریمه برای سال 2024 کمتر از 5000 لیره نیست، در نتیجه جریمه ویژه 5000 لیره (1x5000=) برای ماه نوامبر به طور جداگانه برای (A) و (B) اعمال می شود.</p>"
-            ]
-            ,
+            ],
 
+            MİRAS_KALAN_TAŞINMAZLARDA_TAPU_İNTİKAL_İŞLEMLERİ: "روش های انتقال میراث در اداره ثبت اسناد و املاک در اموال غیر منقول",
+            MİRAS_KALAN_TAŞINMAZLARDA_TAPU_İNTİKAL_İŞLEMLERİ_KISA: "طبق قوانین ترکیه، اموال غیرمنقول و کلیه دارایی های یک شخص پس از فوت به وراث وی منتقل می شود.",
+            MİRAS_KALAN_TAŞINMAZLARDA_TAPU_İNTİKAL_İŞLEMLERİ_UZUN: [
+                "<p>طبق قوانین ترکیه، اموال غیرمنقول و کلیه دارایی های یک شخص پس از فوت به وراث وی منتقل می شود. تقسیم ارث طبق قانون خواهد بود و یا می توان آن را به طور جداگانه در قرارداد تقسیم ارث تعیین کرد. در صورتی که تقسیم ارث به نحوی که در قانون معین شده است یا طبق توافقنامه تقسیم ارث که به اراده طرفین تعیین شده است تعیین می شود، برای ثبت به نام وراث باید از طرف </p>",
+                "<p>وراث  مراحل رسمی باید انجام شود.\n" +
+                "اگر متوفی دارای اموال غیرمنقول باشد، یکی از وراث باید برای انتقال وراثت به اداره ثبت اسناد و املاک مربوطه درخواست انتقال سند کند. با این حال، قبل از انجام انتقال در اداره ثبت اسناد و املاک، برخی از مراحل زیر باید انجام شود.\n</p>",
+
+                "<p><strong>قبل از درخواست انتقال  سند مالکیت به وراث؛</strong></p>",
+                "<strong>•</strong> گواهی وراثت متعلق به متوفی (از سردفتر یا دادگاه)",
+                "<strong>•</strong> گواهی عدم بدهی مالیاتی از اداره مالیات بر ارث و عوارض شهرداری،",
+                "<strong>•</strong> برگه ارزش  ملک در بازار برای املاک باید از شهرداری های مربوطه اخذ شود.",
+                "<p></p>",
+                "<p>پس از جمع آوری تمامی این اسناد، کلیه وراث یا وکلای آنها باید جهت انتقال سهم الارث به اداره ثبت اسناد و املاک مربوط مراجعه می کنند. با این درخواست، مراحل انتقال توسط اداره ثبت اسناد و املاک طبق قانون   و یا طبق قرارداد تقسیم ارث انجام می شود و اسناد مالکیت به وراث منتقل می شود.</p>",
+
+                "<p>سهم الارث هر یک از ورثه در سندی که پس از انتقال به وراث رسیده است درج می شود. اما این سهام در قانون ما به عنوان مالکیت مشترک  اطلاق میشود که وراث نمی توانند به تنهایی انتقال یا اقدامی انجام دهند. برای اینکه هر یک از ورثه به وکالت از سهم خود اقدام کنند باید تقاضای صدور این اسناد را به عنوان مالکیت مشترک سهامی را داشته باشند.</p>",
+
+                "<p>دو روش برای تبدیل اسناد مالکیت به دست آمده در مالکیت مشترک به مالکیت مشاع سهامی وجود دارد. یکی از این موارد این است که همه وراث با هم تقاضای سند مالکیت سهامی می کنند یا برای تبدیل مالکیت مشاع به مالکیت مشاع  سهامی اقامه دعوی می کنند. در نتیجه این روش، وراث می توانند به دلخواه با اسناد سند مالکیت سهامی و سهام ارث  مالکیت مشترک خود را معامله کنند.</p>",
+
+                "<h6>مراحل انتقال املاک اتباع خارجی در ترکیه</h6>",
+                "<p>طبق قوانین ترکیه، اموال غیرمنقول و کلیه دارایی های یک شخص پس از فوت به وراث وی می رسد. تقسیم ارث طبق قانون و یا می توان آن را به طور جداگانه در قرارداد تقسیم ارث تعیین کرد، انجام می شود. در صورتی که تقسیم ارث طبق قانون  و یا طبق قرارداد تقسیم ارث که بر اساس اراده طرفین تعیین شده است انجام شود، برای ثبت سهم الارث به نام وراث باید طبق مراحل رسمی انجام شود.</p>",
+
+                "<p>در صورت فوت یک فرد خارجی در ترکیه یا خارج از کشور؛ ورثه ملزم به انجام بعضی کارها برای اموال متوفی در ترکیه هستند. در غیر این صورت وراث نمی توانند در خصوص این اموال موروثی اقدامی انجام دهند.</p>",
+
+                "<p>در صورتی که متوفی دارای اموال غیرمنقول باشد، برای انتقال وراثت، کلیه وراث یا از طریق وکیل خود و یا شخصا برای  انتقال سند مالکیت به اداره ثبت اسناد و املاک مربوطه مراجعه کنند و  اقدامات لازم را انجام دهند. برخی از مراحل  انتقال باید قبل از انتقال در اداره ثبت اسناد تکمیل شود.</p>",
+
+                "<p><strong>برای انتقال وراثت از متوفی خارجی مراحل زیر باید انجام شود:</strong></p>",
+                "</p><strong>•</strong> در انتقال اموال غیرمنقول از طریق وراثت، اولین اقدامی که باید انجام شود، درخواست گواهی انحصار وراثت از دادگاه های ترکیه است: گواهی انحصار وراثت که از کشور خارجی اخذ شده باشد، توسط دادگاه های ترکیه به رسمیت شناخته نمی شود. به همین دلیل گواهی انحصار وراثت طبق قوانین ترکیه از دادگاه های ترکیه اخذ می شود.<p>",
+                "<p><strong>•</strong> گواهي فوت متوفي حاوي حكم كشور خارجي و مدارك يا حکم اتخاذ شده طبق قوانين كشور خارجي مبني بر برگه وراث بايد ضميمه شود.<p/>",
+                "<p><strong>•</strong> گواهی عدم بدهی مالیاتی باید از اداره مالیات بر ارث و عوارض شهرداری اخذ شود.<p/>",
+                "<p><strong>•</strong> برگه ارزش  ملک در بازار برای املاک باید از شهرداری های مربوطه اخذ شود.<p/>",
+                "<p><strong>•</strong> کلیه مدارک مورد نیاز باید با تعیین وقت قبلی از اداره ثبت اسناد و املاکی که ملک وابسته به آن است ارائه و هزینه آن پرداخت شود.<p/>",
+
+                "<p></p>",
+                "<p>پس از ارائه کلیه مدارک، از آنجایی که ملک از طریق وراثت به ورثه شخص حقیقی خارجی منتقل می شود، می توان سند مالکیتی که وراث جدید را نشان می دهد برای ملک دریافت کرد.</p>",
+
+                "<p>سهم الارث هر یک از ورثه در سندی که پس از انتقال به وراث رسیده است درج می شود. اما این سهام در قانون ما به عنوان مالکیت مشترک داده شده است که وراث نمی توانند به تنهایی انتقال یا اقدامی انجام دهند. برای اینکه هر یک از ورثه به وکالت از سهم خود اقدام کنند باید تقاضای صدور این اسناد را به عنوان مالکیت مشترک سهامی داشته باشند.</p>",
+
+                "<p>دو روش برای تبدیل اسناد مالکیت به دست آمده در مالکیت مشترک به مالکیت مشاع سهامی وجود دارد. یکی از این موارد این است که همه وراث با هم تقاضای سند مالکیت سهامی می کنند یا برای تبدیل مالکیت مشاع به مالکیت مشاع  سهامی اقامه دعوی می کنند. در نتیجه این دو روش، وراث می توانند به دلخواه با اسناد سند مالکیت سهامی و سهام ارث  مالکیت مشترک خود را معامله کنند.</p>",
+            ],
         },
         tr: {
             ofis_tel_no: "Ofis Tel: 0312 231 99 40",
@@ -438,7 +476,7 @@ $(function() {
             kirahukuku: "KİRA HUKUKU",
             tazminathukuku: "TAZMİNAT HUKUKU",
             idaridavalar: "İDARİ DAVALAR",
-            dahafazlası: "Daha Fazlası",
+            dahafazlası: "Daha Fazlası <i class=\"ti-arrow-right\"></i>",
             tümçalışmaalanlarımız: "Tüm Çalışma Alanlarımız",
             deneyimlikadrohızlıçözüm: "Deneyimli kadro, hızlı çözüm",
             alanındauzmandeneyimliavukatlarımızlahızlıveetkilihizmetlerPEHLİVANGÜVENHukukBürosunda: "Alanında uzman, deneyimli avukatlarımızla hızlı ve etkili hizmetler PEHLİVAN & GÜVEN Hukuk Bürosu’nda",
@@ -792,6 +830,43 @@ $(function() {
                 "<p>Kiracı (B)’nin; ödemenin tevsik zorunluluğuna uymadan yapıldığını, ödemeyi takip eden beş iş günü içerisinde kendiliğinden idareye bildirmesi durumunda ise kiracı (B)’ye özel usulsüzlük cezası kesilmeyecektir.</p>"
             ],
 
+            MİRAS_KALAN_TAŞINMAZLARDA_TAPU_İNTİKAL_İŞLEMLERİ: "MİRAS KALAN TAŞINMAZLARDA TAPU İNTİKAL İŞLEMLERİ",
+            MİRAS_KALAN_TAŞINMAZLARDA_TAPU_İNTİKAL_İŞLEMLERİ_KISA: "Türk Hukukuna göre bir kişinin taşınmazları ve tüm mal varlığı ölümün gerçekleşmesi ile birlikte mirasçılarına geçer.",
+            MİRAS_KALAN_TAŞINMAZLARDA_TAPU_İNTİKAL_İŞLEMLERİ_UZUN: [
+                "<p>Türk Hukukuna göre bir kişinin taşınmazları ve tüm mal varlığı ölümün gerçekleşmesi ile birlikte mirasçılarına geçer. Miras paylaşımı kanunda belirlenen şekilde olacağı gibi miras taksim sözleşmesi ile de ayrı bir şekilde belirlenebilecektir. Miras paylaşımının ister kanunda beliretildiği şekli ile ister tarafların iradesine göre belirlenen miras taksim sözleşmesine göre belirlenmesi halinde mirasçılar adına tescili için bazı resmi işlemlerin yapılması gerekmektedir.</p>",
+                "<p>Murisin taşınmaz malı var ise miras intikalinin gerçekleşmesi için mirasçılardan birinin ilgili Tapu müdürlüğüne, tapu intikal başvurusunda bulunması şartı aranır. Ancak tapu müdürlüğünde intikal işlemi yapmadan önce bazı işlemlerin tamamlanması gerekmektedir.</p>",
+
+                "<p><strong>Tapuya intikal başvurusundan önce mirasçıların;</strong></p>",
+                "<strong>• </strong>Murise ait  mirasçılık belgesi , (Noterden ya da mahkemeden)",
+                "<strong>• </strong>Veraset ve Harçlar Vergi Dairesi’nden vergi borcu yoktur belgesi,",
+                "<strong>• </strong>Taşınmazlar için ilgili belediyelerden rayiç belgelerinin alınması  gerekmektedir.",
+                "<p></p>",
+                "<p>Tüm bu evrakların toplanmasından miras intikali için mirasçılardan tümünün veya avukatı aracılığıyla ilgili Tapu müdürlüğüne başvuru yapmaları gerekmektedir. Bu başvuru üzerine Tapu Müdürlüğü’nce kanunen ya da miras taksim sözleşmesinde belirlenen şekli ile intikal işlemleri gerçekleştirilir ve mirasçılara tapuları verilir.</p>",
+
+                "<p>Mirasçılar tarafından intikal sonrası alınan  tapu evrakında her bir mirasçının miras hissesi yazmaktadır. Ancak bu hisseler mirasçıların  tek başına devir yada herhangi bir işlem yapamayacağı hukukumuzda elbirliği mülkiyeti olarak belirtilen  şekilde verilmektedirler. Her bir mirasçının kendi hissesi adına işlem yapabilmesi için bu tapuların paylı mülkiyet olarak düzenlenmesini talep etmeleri gerekmektedir.</p>",
+
+                "<p>Elbirliği Mülkiyetinde alınan tapuların paylı mülkiyete çevrilebilmesi için ise iki yol bulunmaktadır. Bunlardan biri tüm mirasçıların tapuya birlikte başvurmaları ya da  elbirliği mülkiyetin paylı mülkiyete çevrilmesi davası açmalarıdır. İşbu işlem sonucunda mirasçılar paylı mülkiyete tabi tapu evrakları ile miras hisseleri ile dilediği gibi işlem yapabileceklerdir.</p>",
+
+                "<h6>Türkiye’de Bulunan Yabancıların Taşınmazlarının İntikal İşlemleri</h6>",
+                "<p>Türk Hukukuna göre bir kişinin taşınmazları ve tüm mal varlığı ölümün gerçekleşmesi ile birlikte mirasçılarına geçer. Miras paylaşımı kanunda belirlenen şekilde olacağı gibi miras taksim sözleşmesi ile de ayrı bir şekilde belirlenebilecektir. Miras paylaşımının ister kanunda belirletildiği şekli ile ister tarafların iradesine göre belirlenen miras taksim sözleşmesine göre belirlenmesi halinde mirasın mirasçılar adına tescili için bazı resmi işlemlerin yapılması gerekmektedir.</p>",
+
+                "<p>Türkiye’de ya da yurtdışında bir yabancının vefatı halinde; mirasçıların, murisin Türkiye’de bulunan malları için bazı işlemleri yapması gerekmektedir. Aksi taktirde miras kalan bu mallar hakkında mirasçılar herhangi bir işlem yapamayacaklardır.</p>",
+
+                "<p>Murisin taşınmaz malı var ise miras intikalinin gerçekleşmesi için mirasçıların tamamının yada avukatı aracılığıyla ilgili Tapu müdürlüğüne, tapu intikal başvurusunda bulunması şartı aranır. Tapu müdürlüğünde intikal işlemi yapılmadan önce bazı işlemlerin tamamlanması gerekmektedir.</p>",
+
+                "<p><strong>Yabancı muristen kalan mirasın intikal işlemleri için aşağıdaki işlemlerin yapılması gerekmektedir;</strong></p>",
+                "<p><strong>•</strong> Taşınmazların miras yolu ile intikalinde ilk yapılacak işlem veraset ilamı belgesinin Türk Mahkemelerinden istenmesidir: Yabancı ülkeden alınacak bir veraset ilamı Türk mahkemeleri tarafından tanınmamaktadır. Bu nedenle veraset ilamı Türk Hukukuna göre Türk mahkemelerinden alınmaktadır.",
+                "<p><strong>•</strong> Murisin yabancı ülke apostil şerhini içeren ölüm belgesi, yabancının ülkesi kanunlarına göre alınmış mirasçıları gösterir belge veya kararların da eklenmesi gereklidir.</p>",
+                "<p><strong>•</strong> Veraset ve Harçlar Vergi Dairesi’nden vergi borcu yoktur belgesi alınmalıdır.</p>",
+                "<p><strong>•</strong> Taşınmazlar için ilgili belediyelerden rayiç belgesinin alınması  gerekmektedir.</p>",
+                "<p><strong>•</strong> Tüm belgeler ile birlikte taşınmazın bağlı olduğu Tapu Dairesinden randevu alınarak istenilen evraklar sunulmalı ve harcı ödenmelidir.</p>",
+                "<p></p>",
+                "<p>Tüm evraklar sunulduktan sonra taşınmaz miras yolu ile gerçek kişi yabancının mirasçılarına intikal ettiğinden taşınmaz için yeni mirasçıları gösterir tapu belgesi alınabilmektedir.</p>",
+
+                "<p>Mirasçılar tarafından intikal sonrası alınan  tapu evrakında her bir mirasçının miras hissesi yazmaktadır. Ancak bu hisseler mirasçıların  tek başına devir yada herhangi bir işlem yapamayacağı hukukumuzda elbirliği mülkiyeti olarak belirtilen  şekilde verilmektedirler. Herbir mirasçının kendi hissesi adına işlem yapabilmesi için bu tapuların paylı mülkiyet olarak düzenlenmesini talep etmeleri gerekmektedir.</p>",
+
+                "<p>Elbirliği Mülkiyetinde alınan tapuların paylı mülkiyete çevrilebilmesi için ise iki yol bulunmaktadır. Bunlardan biri tüm mirasçıların tapuya birlikte başvurmaları ya da  elbirliği mülkiyetin paylı mülkiyete çevrilmesi davası açmalarıdır. İşbu işlem sonucunda mirasçılar paylı mülkiyete tabi tapu evrakları ile miras hisseleri ile dilediği gibi işlem yapabileceklerdir.</p>",
+            ],
 
             // Diğer diller buraya eklenebilir...
         },
