@@ -449,6 +449,56 @@ $(function() {
 
                 "<p>دو روش برای تبدیل اسناد مالکیت به دست آمده در مالکیت مشترک به مالکیت مشاع سهامی وجود دارد. یکی از این موارد این است که همه وراث با هم تقاضای سند مالکیت سهامی می کنند یا برای تبدیل مالکیت مشاع به مالکیت مشاع  سهامی اقامه دعوی می کنند. در نتیجه این دو روش، وراث می توانند به دلخواه با اسناد سند مالکیت سهامی و سهام ارث  مالکیت مشترک خود را معامله کنند.</p>",
             ],
+
+            SINIR_DIŞI_KARARLARIVEİPTAL_DAVALARI_SÜRECİ:"فرآیند حکم دیپورت و دعاوی ابطال حکم دیپورت",
+            SINIR_DIŞI_KARARLARIVEİPTAL_DAVALARI_SÜRECİ_KISA:"اخراج  افراد خارجی در فصل چهارم قانون اتباع خارجی و حمایت بین المللی تنظیم شده است.",
+            SINIR_DIŞI_KARARLARIVEİPTAL_DAVALARI_SÜRECİ_UZUN:[
+                "<p>اخراج  افراد خارجی در فصل چهارم قانون اتباع خارجی و حمایت بین المللی تنظیم شده است. ماده 52 قانون اتباع خارجی و حمایت بین المللی (YUKK) مقرر می دارد: «اتباع خارجی را می توان با صدور حکم اخراج به کشور مبدأ، کشور ترانزیت و یا به کشور ثالث اخراج کرد». در قانون ، خارجیان مقیم در ترکیه را می توانند از طریق فرآیند اخراج به  \"کشور مبدا\" خود یا به یک کشور ثالث امن اخراج کرد. </p>",
+
+                "<p>فرآیند اخراج، که در آن خارجی‌هایی که می‌خواهند وارد ترکیه شوند، «در مرزهای ورودی-خروجی» (بازگشت) و با خارجی های که «دعوت به خروج» می‌شوند، با یکدیگر متفاوت هستند. می‌توانید در بازگرداندن خارجی ها مقاله دیگر ما درباره کدهای امنیتی بخوانید. در کشور ما با استفاده از کدهای امنیتی از ورود اتباع خارجی به کشور برای مدت معینی جلوگیری می شود. دعوای مطرح  در این خصوص در عاوی ابطال  کد امنیتی توضیح داده شده است.</p>",
+
+                "<p>معمولاً با تصمیم اخراج، برای اتباع خارجی حکم بازداشت اداری نیز صادر می شود. اعتراض به بازداشت اداری در دادگاه کیفری صلح مربوطه صورت می گیرد. شرایط بازداشت اداری و راه حل اعتراض در مقاله دیگر ما توضیح داده شده است.</p>",
+
+                "<p><strong>در مورد کشوری که خارجی ها برای اخراج به آن اعزام خواهند شد:</strong></p>",
+                "<p><strong>1-</strong> کشور مبدا</p>",
+                "<p><strong>2-</strong> کشور ترانزیت</p>",
+                "<p><strong>3-</strong> کشور ثالث، تنظیم شده است.</p>",
+
+                "<p>در ماده 51 آیین نامه اجرای ، وضعیت تابعیت فرد خارجی در تعیین کشوری که اتباع خارجی به آن اخراج می شود، در نظر گرفته شده است، آیا کشوری که قرار است فرد خارجی به آن اخراج شود، شخص خارجی را می پذیرد یا نه.  در صورت درخواست کشور ثالثی برای پذیرش شخص خارجی باید آن را در نظر گرفت. در عمل مشاهده می شود که درخواست خارجی ها برای ترک ترکیه و رفتن به کشور امن سوم با استقبال مثبت نهادهای اداری مواجه می شود. موضوع اصلی تشریفات اخراج زمانی رخ می دهد که تصمیم گرفته شود خارجی ها را به کشور مبدا اخراج کنند.</p>",
+
+                "<p><h6>حکم اخراج (دیپورت)</h6></p>",
+                "<p>حکم اخراج، طبق ماده  YUKK 53/1. داده می شود. حکم اخراج توسط وزارت کشور و اداره کل مهاجرین کشور و یا مستقیما توسط فرمانداری ها صادر می شود. در عمل، این تصمیم توسط فرمانداری مربوطه که فرد خارجی در آن مستقر است، اتخاذ می شود. حکم اخراج به زبان  فرد خارجی هم نوشته می شود . و همین حکم راهی اعتراض به حکم و راه های طرح دعوی توضیح داده می شود.</p>",
+
+                "<p>پرونده هایی که در دیوان عدالت اداری راجع  حکم اخراجی مطرح می شود باید ظرف مدت 7 روز از زمان ابلاغ رای به فرد خارجی پرونده در دادگاه اداری مربوطه مطرح شود. اگرچه مدت رسیدگی به دعاوی در دادگاه های اداری کشورمان 60 روز است، اما برای این پرونده ها مهلتی 7 روزه تعیین شده است. خارجی ها باید با درک کامل از فرآیند  حکم اخراج و عواقب آن، تصمیم سریعی برای طرح دعوی بگیرند.</p>",
+
+                "<p><h6>عدم اجرای حکم  دیپورت در مرحله رسیدگی پرونده در دادگاه</h6></p>",
+                "<p>در صورت طرح دعوی در دادگاه اداری در خصوص مراحل  حکم دیپورت، روند اخراج اتباع خارجی تا زمانی که پرونده به نتیجه نرسیده اجرا نمی شود. تضمین داده می شود که فرد خارجی در تمام مدت رسیدگی پرونده در ترکیه بماند. ماده YUKK 53/3  بیان می کند که خارجی ها می توانند از طریق نمایندگان قانونی خود شکایت  کنند. طبق ماده مذکور، متهم باید مراتب را به اداره مربوطه ابلاغ  کند. در عمل زمانی که شکایتی در دادگاه اداری مطرح می شود، وکیل فرد خارجی با مراجعه به مرکز کمپ اخراج خارجی ها برگه شکایت به دادگاه ادرای را  در پرونده شخص دیپورتی ثبت می کند و شخص دیپورتی تا پایان مراحل اخراج در ترکیه نگهداری می شود.</p>",
+
+                "<p>مقرر شده است که تصمیمات دادگاه اداری در مورد پرونده دیپورتی  قطعی است. به همین دلیل خیلی مهم است که طرح دادخواست در موعد مقرر ا و  همچنین دادخواست و ضمائم آن به مفصل توضیح و تنظیم شده باشد.</p>",
+
+                "<p><h6>دادخواست به دادگاه قانون اساسی برای رسیدگی به حکم دادگاه</h6></p>",
+                "<p>در پرونده های ابطال حکم دیپورتی ، حکم دادگاه های اداری قطعی است. پس از اتخاذ تصمیم توسط دادگاه، مراحل دادرسی عادی به پایان رسید. از آنجایی که قطعی است، پس از ابلاغ حکم دادگاه اداری به فرمانداری مربوطه، روند اخراج فرد خارجی انجام می شود. در این صورت، اگر اخراج خارجی در خطر نقض حقوق اساسی، به ویژه حق حیات باشد، می توان به درخواست به دادگاه قانون اساسی دوباره درخواست رسیدگی داد. درخواست فردی به دادگاه قانون اساسی مستقیماً روند اخراج را متوقف نخواهد کرد. با این حال، در یک درخواست فردی به دادگاه قانون اساسی، ممکن است دستور مقدماتی برای تعلیق اخراج خارجی درخواست شود.</p>",
+
+                "<p><strong>مقررات داخلی دادگاه قانون اساسی</strong></p>",
+                "<strong>ماده 73- حکم احتیاطی</strong>",
+                "<p>با درک این موضوع که جان،ا مال یا معنویات متقاضی در خطر جدی قرار دارد، ادارات مربوطه می توانند در مرحله بررسی ماهیت پرونده به صورت رسمی یا بنا به درخواست متقاضی در مورد حکم احتیاطی اقدامات و تصمیم گیری لازم را اتخاذ کنند.</p>",
+
+                "<p>با روند اخراج، ممکن است بر اساس این که جان فرد خارجی در خطر است و حق حیات یکی از حقوق اساسی در قانون اساسی نقض می شود، دستور صدور حکم  احتیاطی صادر کرد.</p>",
+
+                "<p><h6>درخواست به دادگاه حقوق بشر اروپایی در رابطه با رویه حکم دیپورتی</h6></p>",
+                "<p>مجدداً یادآوری می‌شود که در پرونده‌های ابطال حکم دیپورتی در خصوص حکم دادگاه، حکم دادگاه اداری قطعی است. پس از اتخاذ تصمیم توسط دادگاه، مراحل دادرسی عادی به پایان میرسید. پس از اقدامات قانونی عادی، دادگاه قانون اساسی و سپس دادگاه حقوق بشر اروپا با در نظر گرفتن تصمیم به اخراج خارجی تنها برای جلوگیری از نقض حق حیات قابل بررسی است.</p>",
+
+                "<p>اگر دادگاه قانون اساسی برای اتباع خارجی که در صورت اجرای حکم دیپورتی ممکن است حق حیات آنها نقض شود، دستوری صادر نکرده باشد، می توان به ECHR درخواست داد. با این حال، ECHR-HUDOC (دادگاه حقوق بشر اروپا) در فرانسه است. به همین دلیل، احتمال زیادی وجود دارد که فرآیند اخراج خارجی در طول درخواست و تکمیل درخواست برای توقف روند دیپورت اجرا شود.</p>",
+
+                "<p>درخواست به ECHR در مورد روند اخراج باید از طریق فکس یا از طریق وب سایت انجام شود. در این مرحله، لازم به ذکر است که درخواست های ناشی از کنوانسیون اروپایی حقوق بشر به دادگاه اروپایی حقوق بشر معمولاً از طریق پست از ترکیه انجام می شود. به همین ترتیب، ECHR-HUDOC مکاتبات مربوط به درخواست ها را از طریق پست انجام می دهد. اما در صورتی که اجرای فرآیند اخراج اتباع خارجی نقض حق حیات در محدوده ماده 2 کنوانسیون اروپایی حقوق بشر باشد، می توان از طریق فکس و وب سایت اقدام کرد.</p>",
+
+                "<p><strong>آیین دادرسی دادگاه اروپایی حقوق بشر</strong></p>",
+                "<strong>ماده 39 - اقدامات احتیاطی</strong>",
+                "<p>اتاق یا عنداللزوم رئیس بخش یا قاضی وظیفه که طبق بند 4 این ماده منصوب می شود بنا به درخواست یکی از طرفین یا شخص ذیربط دیگر یا به صورت رسمی می تواند احتیاط را به طرفین ابلاغ کند. اقداماتی که آنها فکر می کنند باید به نفع طرفین یا برای اجرای صحیح محاکمه انجام شود.</p>",
+
+                "<p><h6>نتیجه</h6></p>",
+                "<p>  حکم دیپورت، تصمیمات اداری است که توسط فرمانداری ها برای اعزام خارجی ها به کشور مبدا، کشور ترانزیت یا کشور ثالث اتخاذ می شود. در خصوص این تصمیمات اداری باید ظرف مدت هفت روز در دادگاه اداری طرح دعوی مطرح شود. در جریان رسیدگی به پرونده، اتباع خارجی در ترکیه می مانند و اخراج انجام نمی شود. اما تصمیمات دادگاه اداری قطعی است. در صورت عدم لغو پروسه اخراج توسط دادگاه اداری، رای اجرا شده و اتباع خارجی اخراج می شوند. اینگونه است که اقدامات حقوقی عادی به پایان می رسد. این امکان وجود دارد که از دادگاه قانون اساسی و دادگاه حقوق بشر اروپا درخواست اقداماتی برای جلوگیری از نقض حقوق بشر توسط خارجی ها شود. اگر امکان نقض حقوق بشر وجود نداشته باشد، درخواست اقدامات پیشگیرانه پذیرفته نخواهد شد و تصمیم اخراج همچنان اجرا خواهد شد.</p>",
+            ]
         },
         tr: {
             ofis_tel_no: "Ofis Tel: 0312 231 99 40",
@@ -870,6 +920,56 @@ $(function() {
                 "<p>Elbirliği Mülkiyetinde alınan tapuların paylı mülkiyete çevrilebilmesi için ise iki yol bulunmaktadır. Bunlardan biri tüm mirasçıların tapuya birlikte başvurmaları ya da  elbirliği mülkiyetin paylı mülkiyete çevrilmesi davası açmalarıdır. İşbu işlem sonucunda mirasçılar paylı mülkiyete tabi tapu evrakları ile miras hisseleri ile dilediği gibi işlem yapabileceklerdir.</p>",
             ],
 
+            SINIR_DIŞI_KARARLARIVEİPTAL_DAVALARI_SÜRECİ:"SINIR DIŞI KARARLARI VE İPTAL DAVALARI SÜRECİ",
+            SINIR_DIŞI_KARARLARIVEİPTAL_DAVALARI_SÜRECİ_KISA:"Yabancılar ve Uluslararası Koruma Kanunu’nun dördüncü bölümünde Sınır Dışı Etme işlemi düzenlenmiştir.",
+            SINIR_DIŞI_KARARLARIVEİPTAL_DAVALARI_SÜRECİ_UZUN:[
+                "<p>Yabancılar ve Uluslararası Koruma Kanunu’nun dördüncü bölümünde Sınır Dışı Etme işlemi düzenlenmiştir. Yabancılar ve Uluslararası Koruma Kanunu (YUKK)’nun 52. Maddesinde “Yabancılar, sınır dışı etme kararıyla, menşe ülkesine veya transit gideceği ülkeye ya da üçüncü bir ülkeye sınır dışı edilebilir” hükmü düzenlenmiştir. Türkiye’de bulunan yabancıların sınır dışı işlemi ile “menşe ülkesi” ne transit gidebileceği ülkeye ya da üçüncü güvenli bir ülkeye sınır dışı edilebileceği düzenlenmiştir.</p>",
+
+                "<p>Sınır dışı işlemi ile Türkiye’ye girmek isteyen yabancıların “giriş-çıkış kapısından geri çevrilmesi”(refoulement) ile yabancıların “çıkmaya davet edilmesi” birbirlerinden farklıdır. Geri çevrilmesi konusu(refoulement), tahdit kodlarına dair diğer yazımızdan okuyabilirsiniz. Ülkemizde yabancıların tahdit kodu işlemi ile ülkeye girişleri belirli süreler ile engellenmektedir. Buna dair açılacak davalar ise tahdit kodu işleminin iptali konusunda açıklanmaktadır.</p>",
+
+                "<p>Sınır dışı kararı ile birlikte yabancılar hakkında genellikle idari gözetim kararı da verilmektedir. İdari gözetime itiraz konusu ilgili Sulh Ceza Hakimliğinde yapılmaktadır. İdari gözetimin şartları ve itiraz kanun yolu diğer yazımızda açıklanmaktadır.</p>",
+
+                "<p><strong>Sınır dışı işlemi yapılacak yabancıların gönderileceği ülke konusunda:</strong></p>",
+                "<p><strong>1-</strong> Menşe Ülke </p>",
+                "<p><strong>2-</strong> Transit Ülke</p>",
+                "<p><strong>3-</strong> Üçüncü Ülke şeklinde kanunda üç seçenek düzenlenmiştir.</p>",
+
+                "<p>YUKK Uygulanmasına dair Yönetmeliğin 51. Maddesinde de yabancıların sınır dışı edileceği ülkenin tespitinde yabancının vatandaşlık durumu, gönderilmesi planlanan ülkenin ülkeye yabancının kabul edilip edilmeyeceği ve varsa gidebileceği üçüncü bir ülkeye ilişkin talebi göz önünde bulundurulmaktadır. Uygulamada özellikle yabancıların Türkiye’den ayrılarak üçüncü güvenli ülkeye gitme yöndeki taleplerinin idari kurumlarca olumlu karşıladığı görülmektedir. Sınır dışı işlemlerinin asıl konusunu oluşturan ise yabancıların menşe ülkesine sınır dışı (deport) uygulanmasına karar verilmesi durumunda oluşmaktadır.</p>",
+
+                "<p><h6>SINIR DIŞI ETME KARARI</h6></p>",
+                "<p>Sınır dışı kararı, YUKK 53/1. Maddesi gereğince verilmektedir. Sınır dışı kararını, T.C. İçişleri Bakanlığı Göç İdaresi Genel Müdürlüğü’nün talimatı üzerine veya re’sen valiliklerce alınmaktadır. Uygulamada yabancının bulunduğu ilgili valilik tarafından karar alınmaktadır. Sınır dışı kararları, ilgili yabancının dilinde yazılmakta ve karara dair itiraz ile dava yolları açıklanmaktadır.</p>",
+
+                "<p>Sınır dışı kararlarına dair İdare Mahkemesinde açılacak davaların kararın yabancıya tebliğinden itibaren 7 gün içerisinde açılması gerekmektedir. İdare mahkemelerinde ülkemizde dava süreleri 60 gün olmasına rağmen bu davalara özel olarak 7 gün süre belirlenmiştir. Yabancıların sınır dışı işlemi ile sonuçlarını iyi bir şekilde anlayarak dava açmak için hızlıca karar vermesi gerekmektedir.</p>",
+
+                "<p><h6>SINIR DIŞI DAVA SÜRESİNDE KARARIN UYGULANMAMASI</h6></p>",
+                "<p>Sınır dışı işlemine dair idare mahkemesine dava açılması halinde yabancıların sınır dışı işlemi dava sonucuna kadar uygulanmamaktadır. Dava süresince yabancının Türkiye’de kalmaya devam etmesi sağlanmaktadır. Yabancıların yasal temsilcisi vasıtasıyla dava açtığını YUKK 53/3. Maddesine göre davalı idareye bildirmesi gerekmektedir. Uygulamada idare mahkemesinde dava açıldığı, yabancı kişinin bulunduğu Geri Gönderme Merkezi’ne gidilerek dosyasına konulması ile sınır dışı işleminin dava sonuna kadar yabancının Türkiye’de kalması sağlanmaktadır.</p>",
+
+                "<p>Sınır dışı işlemine dair idare mahkemesince verilen kararların kesin olduğu düzenlemiştir. Bu sebeple davanın süresinde açılmaması yahut dava dilekçesi ve eklerinin detaylı olarak hazırlanması önem taşımaktadır.</p>",
+
+                "<p><h6>SINIR DIŞI İŞLEMİNE ANAYASA MAHKEMESİ’NE BİREYSEL BAŞVURU</h6></p>",
+                "<p>Sınır dışı iptal davalarında, idare mahkemelerinde verilen kararlar kesindir. Mahkemesince karar verildikten sonra olağan yargılama aşamaları sonuçlanmıştır. Kesin olması sebebiyle idare mahkemesince karar ilgili valiliğe bildirildiğinde yabancının sınır dışı işlemine devam etmektedirler. Bu durumda, yabancının sınır dışı işlemi Anayasal haklarının özellikle yaşam hakkının ihlal durumunu oluşturma tehlikesi içerisinde ise Anayasa Mahkemesi’ne bireysel başvuru yapılması değerlendirilebilir. Anayasa Mahkemesi’ne bireysel başvurulması, sınır dışı işlemini doğrudan durdurmayacaktır. Ancak Anayasa Mahkemesi’ne yapılacak bireysel başvuruda tedbir kararı istenerek yabancının sınır dışı işleminin durdurulmasına dair tedbir kararı verilmesi istenebilecektir.</p>",
+
+                "<p><strong>Anayasa Mahkemesi İç Tüzüğü</strong></p>",
+                "<strong>Madde 73- Tedbir Kararı</strong>",
+                "<p>Başvurucunun yaşamına ya da maddi veya manevi bütünlüğüne yönelik ciddi bir tehlike bulunduğunun anlaşılması üzerine, Bölümlerce esas inceleme aşamasında gerekli tedbirlere resen veya başvurucunun talebi üzerine karar verilebilir.</p>",
+
+                "<p>Sınır dışı işlemi ile başvuru yabancının yaşamının tehlikede olduğu, Anayasal haklardan yaşam hakkının ihlal edileceği değerlendirilerek tedbir kararı talep edilebilecektir.</p>",
+
+                "<p><h6>SINIR DIŞI İŞLEMİNE DAİR AVRUPA İNSAN HAKLARI MAHKEMESİ BAŞVURUSU</h6></p>",
+                "<p>Sınır dışı kararına dair açılan iptal davalarında tekrar belirtmek gerekir ki idare mahkemesince verilen kararlar kesindir. Mahkemesince karar verildikten sonra olağan yargılama aşamaları sonuçlanmıştır. Olağan kanun yolları sonrasında ise sadece yaşam hakkı ihlali oluşmaması adına yabancının sınır dışı kararı göz önünde bulundurularak Anayasa Mahkemesi ve sonrasında Avrupa İnsan Hakları Mahkemesi başvuru yolları değerlendirilebilecektir.</p>",
+
+                "<p>Sınır dışı kararlarının uygulanması halinde yaşam hakkı ihlali olabilecek yabancılar yönünden Anayasa Mahkemesi’nce tedbir kararı verilmemiş olması durumunda, AİHM’e başvurulabilecektir. Ancak AİHM- HUDOC (European Court of Human Rights) Fransa’dadır. Bu sebeple yapılacak başvuru ile sınır dışı işlemi durması için yapılacak başvurunun yapılması ile sonuçlanması süresinde yabancının sınır dışı işleminin uygulanma ihtimali yüksektir.</p>",
+
+                "<p>Sınır dışı işlemine dair AİHM’e yapılacak başvurunun faks ya da web sitesi aracılığıyla yapılması gerekecektir. Bu noktada Avrupa İnsan Hakları Mahkemesi’ne yapılacak Avrupa İnsan Hakları Sözleşmesi’nden kaynaklı başvuruların Türkiye’den olağan durumlarda posta yoluyla gerçekleştirildiğini belirtmek gerekir. Aynı şekilde AİHM-HUDOC’da başvurulara dair yazışmaları posta yoluyla yapmaktadır. Ancak yabancıların sınır dışı işleminin uygulanması Avrupa İnsan Hakları Sözleşmesi’nin 2. Maddesi kapsamında Yaşam Hakkı ihlali oluşturması durumunda faks ve web sitesi yolu ile başvurulması mümkündür.</p>",
+
+                "<p><strong>Avrupa İnsan Hakları Mahkemesi İç Tüzüğü</strong></p>",
+                "<strong>Madde 39 ‒ İhtiyati Tedbirler</strong>",
+                "<p>Daire veya gerektiği takdirde, Bölüm Başkanı ya da işbu maddenin 4. fıkrası uyarınca görevlendirilen nöbetçi bir hâkim, taraflardan birinin ya da ilgili başka bir kişinin talebi üzerine veya resen, tarafların menfaati ya da yargılamanın uygun bir şekilde yürütülmesi için alınması gerektiğini düşündükleri ihtiyati tedbirleri taraflara bildirebilmektedirler.</p>",
+
+                "<p><h6>SONUÇ</h6></p>",
+                "<p>Sınır dışı kararları, yabancıların menşe ülke, transit ülke veya üçüncü ülkeye gönderilmesi şeklinde valilikler tarafından verilen idari kararlardır. Bu idari kararlara dair idare mahkemesinde yedi gün içerisinde dava açılması gerekmektedir. Dava sürecinde yabancılar Türkiye’de kalmakta ve sınır dışı işlemi uygulanmamaktadır. Ancak idare mahkemesince verilen kararlar kesindir. İdare mahkemesince sınır dışı işlemi iptal edilmez ise karar uygulanmakta ve yabancılar sınır dışı edilmektedir. Olağan kanun yolları bu şekilde sona ermektedir. Yabancının insan hakları ihlaline uğramaması adına Anayasa Mahkemesi ve Avrupa İnsan Hakları Mahkemesi’ne tedbir talepli başvurmak mümkündür. İnsan hakları ihlali ihtimali olmaması durumunda ise tedbir talepleri kabul edilmeyecek ve sınır dışı kararı yine uygulanacaktır.</p>",
+
+            ]
             // Diğer diller buraya eklenebilir...
         },
     }
