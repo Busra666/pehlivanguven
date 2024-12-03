@@ -740,6 +740,12 @@ $(function() {
 
             ],
 
+            KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ:" ",
+            KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ_kısa:" ",
+            KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ_uzun:[
+                "<strong>ترجمه فارسی پست وبلاگ در مورد الزام تخلیه در موارد تخلیه اجاره وجود ندارد.</strong",
+            ]
+
 
 
         },
@@ -1384,7 +1390,7 @@ $(function() {
                 "<p></p>",
 
                 "<h6>1. Zina Nedeniyle Boşanma</h6>",
-                "<p>Zina, Türk Medeni Kanunu’nda bir boşanma sebebi olarak düzenlenmiştir. Kanunda zinanın bir boşanma sebebi olduğu belirtilmiş ve tanımına  yer verilmemiştir.  Zina, yargı karraları ve doktrinde “eşlerden birinin, evlilik birliği devam ederken, karşı cinsten bir kişiyle isteyerek cinsi münasebette bulunması” şeklinde tanımlanmaktadır.</p>",
+                "<p>Zina, Türk Medeni Kanunu’nda bir boşanma sebebi olarak düzenlenmiştir. Kanunda zinanın bir boşanma sebebi olduğu belirtilmiş ve tanımına  yer verilmemiştir.  Zina, yargı kararları ve doktrinde “eşlerden birinin, evlilik birliği devam ederken, karşı cinsten bir kişiyle isteyerek cinsi münasebette bulunması” şeklinde tanımlanmaktadır.</p>",
                 "<p>Zinanın boşanma sebebi olması için, eşlerden birinin, evlilik dışı üçüncü bir kişiyle cinsi münasebette bulunulması yeterli sayılmaktadır.</p>",
                 "<p>Zinanın ispatı her türlü delille mümkündür.  Tanık beyanları, fotoğraflar, mesaj içerikleri, ses kayıtları zina sebebiyle boşanma davasında delil  olarak kullanılabilecektir. Ancak bu delillerin hukuka uygun olması gerekmektedir. Tarafların ortak yaşadığı konut içerisine dinleme cihazı yerleştirilerek alınan kayıtlar veya taraflardan birinin diğerinin rızası olmaksızın telefon konuşması esnasında aldığı ses kayıtlarının delil niteliği bulunmamaktadır.</p>",
                 "<p><strong>Zina sebebiyle boşanma davası iki durumda açılamayacaktır. Bu durumlardan biri zamanaşımı, diğer hal ise zina eden eşin diğer eş tarafından affedilmesidir.</strong></p>",
@@ -1494,245 +1500,53 @@ $(function() {
                 "<h6>Aile Konutu Ve Paylı Mülkiyet</h6>",
                 "<p>Eşlerden biri, diğer eşin açık rızası bulunmadıkça, aile konutu ile ilgili kira sözleşmesini feshedemez, aile konutunu devredemez veya aile konutu üzerindeki hakları sınırlayamaz.</p>",
                 "<p>Eşlerden hangisine ait olduğu ispat edilemeyen mallar onların paylı mülkiyetinde sayılır. Aksine anlaşma olmadıkça eşlerden biri diğerinin rızası olmadan paylı mülkiyet konusu maldaki payı üzerinde tasarrufta bulunamaz.</p>",
-            ]
+            ],
+
+            KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ:"KİRA TAHLİYE DAVALARINDA TAHLİYE TAAHÜTNAMESİ",
+            KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ_kısa:"Günümüzde ülkemiz ekonomik şartlarında artan kiralar sonrasında özellikle pandemi süreci sonrasında kiracı ile ev sahibi arasında kira bedeli ile tahliye konusunda hukuki süreçler artmıştır.",
+            KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ_uzun:[
+                "<p>Günümüzde ülkemiz ekonomik şartlarında artan kiralar sonrasında özellikle pandemi süreci sonrasında kiracı ile ev sahibi arasında kira bedeli ile tahliye konusunda hukuki süreçler artmıştır. Sadece Ankara ilinde kira ve tahliye davalarına bakan ondan fazla yeni Sulh Hukuk Mahkemesi açılması da bu durumu göstermektedir. Yine tecrübelerimizle görüldüğü üzere istinaf mahkemesinde istinaf süreçleri de oldukça uzamıştır. Bu durum kiracılar ile ev sahibi arasındaki çatışmaların arttığını göstermektedir.</p>",
+
+                "<h6>KİRA TAHLİYE SÜREÇLERİNDE ZORUNLU ARABULUCULUK </h6>",
+                "<p>Kira tahliye davalarında arabuluculuk süreci 01.09.2023 tarihinden itibaren zorunlu hale gelmiştir. Bunun anlamı kira tahliye konusunda, kira artırım davaları, tahliye davaları, ihtiyaç sebebiyle tahliye davaları, sözleşmenin ihlali sebebiyle tahliye davaları gibi birçok dava türünde dava açılmadan önce arabuluculuk aşaması zorunludur. Bu zorunluluk sebebiyle uzman arabulucu vasıtasıyla taraflar bir araya gelmekte ve yapılan toplantılar ile uyuşmazlığa tarafların çözüm getirmesi beklenmektedir. Arabuluculuk süreci ise 3+1 hafta şeklinde toplam bir ay olarak söyleyebileceğimiz kısa bir süreçte uyuşmazlığı sonlandırmaktadır.</p>",
+                "<p>18.12.2023 tarihli Arabuluculuk Daire Başkanlığı’nın kira uyuşmazlıklarında arabuluculuk dosyalarına dair istatistikleri dikkate alındığında dosyaların neredeyse yarısının arabuluculuk sürecinde çözüldüğünü ortaya koymaktadır.</p>",
+                "<p class='text'>“Adalet Bakanı Yılmaz Tunç, kira uyuşmazlıklarında dava şartı arabuluculuk uygulamasına tabi olan 76 bin 780 dosyadan, 32 bin 98’inde tarafların el sıkışarak anlaştığını söyledi.”  <strong> https://www.adalet.gov.tr/kira-uyusmazliklarinda-76-bin-780-dosyadan-32-bin-78-i-anlasma-ile-sonuclandi </strong></p>",
+                "<p>Arabuluculuğun zorunlu olduğu 01.09.2023 tarihi ile açıklamanın yapıldığı 18.12.2023 tarihleri arasındaki kısa sürede dahi uyuşmazlıkların neredeyse yarısının hızlı bir şekilde çözüme kavuştuğunu görmekteyiz.</p>",
+                "<p>Ancak dava sayısı halen oldukça fazladır. Adalet Bakanlığı Adli Sicil ve İstatistik Genel Müdürlüğünce hazırlanan 2023 yılı Adalet İstatistikleri verilerine göre, 2023 yılında hukuk mahkemelerinde; kiralananın tahliyesi konusunda 91 bin 183, kira konusunda 65 bin, kiralananın tahliyesi (icra) konusunda 30 bin 39, itirazın kaldırılması ve tahliye konusunda 28 bin 26 dava dosyası bulunmaktadır. Toplam 214.248 adet davanın konusu kira ve tahliyeye dairdir.</p>",
+
+                "<h6>KİRA VE TAHLİYE DOSYALARINDA DAVA SÜREÇLERİ</h6>",
+                "<p>Yukarıda bahsettiğimiz gibi arabuluculuk sürecinde çözüme kavuşmayan uyuşmazlıklar ise çözümü mahkemede aramaktadır. Mahkeme süreçleri ise artan mahkeme sayısı ile nispeten hızlanmıştır. Yerel mahkemede süreçler hızlanmasına rağmen istinaf aşamasında süreçlerin hızlandığından ise henüz bahsedememekteyiz.</p>",
+
+                "<h6>KİRA DAVALARINDA 1957’DEN BERİ TAHLİYE TAAHHÜTNAMESİ SORUNU </h6>",
+                "<p>Ülkemizde kiracılar ile ev sahipleri arasındaki güven ilişkisinin baştan hatalı şekilde başladığını görmekteyiz. Ev sahipleri çoğu zaman kira sözleşmesi ile birlikte, tahliye tarihleri ve düzenleme tarihleri boş olarak bırakılmak üzere tahliye taahhütnamesi imzalamasını istemektedir. Kira sözleşmesi ile aynı gün düzenlenmiş tahliye taahhütlerinin geçersiz olacağı, kira sözleşmesi imzalamak adına manevi baskı altında belirtilen imzaları atmak zorunda kalan kiracılar ise bazen yıllar sonra tahliye taahhütnamesinden kaynaklı tahliye davaları ile karşı karşıya kalmaktadır.</p>",
+                "<p>Kiracılar ile ev sahipleri arasında tahliye taahhüdünde yazılı olması gerektiği Türk Borçlar Kanunu’n 352. Maddesinde düzenlenmiştir. Bu düzenleme ile tahliye taahhüdünün yazılı olması gerekmektedir. Ancak başkaca şart olarak sadece “kiralananın tesliminden sonra” yazılı olarak bu taahhüdün verilmesi gerekliliği mevcuttur. Ancak uygulamada ev sahipleri ya da emlakçılar tahliye taahhüdünü aslında kira sözleşmesi ile birlikte kiralanan teslim edilmeden almaktadır. Kira tahliye taahhütlerinde uyuşmazlığın aslında başlangıcı kira sözleşmesi henüz imzalanır imzalanmaz başlamaktadır.</p>",
+                "<p>Tahliye taahhüdüne dair davalarda kiracılar tahliye taahhüdünün kira sözleşmesi ile aynı gün imzalandığını iddia ederken ev sahipleri tahliye taahhüdünde belirtilen tahliye tarihine kiracının uymadığını iddia etmektedir. Asıl mahkemenin incelediği uyuşmazlık konusu bu konudur. Ancak yan iddialar da mevcut olmaktadır. Diğer yan iddialar ise eşin rızası olmadığı, aile konutu iddiası, imzaya itiraz gibi diğer iddialar ile mahkeme sürecinden haklı çıkmayı ya da uzatmayı hedeflemektedirler.</p>",
+                "<p>Kira davalarında tahliye taahhütnamesine dair birçok Yargıtay kararı vardır. Yaptığımız kısa bir araştırmada en eski karar olarak Yargıtay Büyük Genel Kurulu’nun 1957 tarihli kararına rastlanmıştır. Belirtilen karar aslında bu davaların evveliyatının olduğunu göstermekte ise de 1957 yılı baz alındığında dahi 67 yıllık bir dava sürecinden bahsettiğimizi anlamaktayız.</p>",
+
+                "<h6>TAHLİYE TAAHHÜTNAMESİNDE ÇÖZÜM</h6>",
+                "<p>Birinci çözüm arabuluculuk olmuştur. Tahliye taahhütnamesinde çözüm adına öncelikli atılan arabuluculuk adımı gerçekten faydalı olmuştur. Örneğin kış aylarında tahliye taahhütnamesi sebebiyle tahliye riski ile karşılaşan bir kiracı, arabuluculuk sürecinde Haziran ayında tahliye etmek üzere anlaşmaktadır. Böylece kiracı çocukların okulu haziranda bitince taşınırım diyerek tahliye tarihi için hem kendisi için avantajlı hem de ev sahibi için belirli ve nispeten avantajlı bir tarihte kiralayanı boşaltarak uyuşmazlık sürecini sonuçlandırmaktadır.</p>",
+                "<p>İkinci çözüm ise kanuni düzenleme olabilir. İkinci çözüm önerisinden önce ev sahipleri ya da emlakçılar kira sözleşmesi ile beraber tahliye taahhütnamesi almasın olsun bitsin diye düşünülebilir. Ancak bu tek taraflı bir bakış açısıdır. Ev sahipleri, tahliye taahhütlerini fazladan bir hukuki güvence olarak değerlendirmektedir. Emlakçılar, komisyon alarak iş yapan profesyoneller olarak tahliye taahhüdü almaması işi bilmediği yahut eksik yaptığı gibi bir görüş oluşturmaktadır. Rekabete dayalı iş hayatında, bazı emlakçılar tahliye taahhüdünü bir zorunluluk olarak söylerken diğerlerinin istememesi onların iş alma şanslarını azaltmaktadır.</p>",
+                "<p>Sonuçta haklı ya da haksız şekilde 67 yıldır devam eden hukuki süreçler göz önüne alındığında tahliye taahhüdünün sadece yazılı ve kiralananın tesliminden sonra alınması şartları taraflar arasında hukuki uyuşmazlıkları artırmaktadır. Bu noktada Noterliğin 1512 sayılı Noterlik Kanunundaki tanımı şöyledir: \"Noterlik bir kamu hizmetidir. Noterler, hukuki güvenliği sağlamak ve anlaşmazlıkları önlemek için işlemleri belgelendirir ve kanunlarla verilen başka görevleri yaparlar.\" demektedir. Belki de tahliye taahhüdünün noterde düzenlenmesi ve kiralananın tesliminden sonra alınması şartı getirilmesi tek başına yeterli olabileceği değerlendirilebilecektir.</p>",
+                "<p><strong>Özetle,</strong> tahliye taahhütname sebebiyle açılan davaların kiracılar ile kiraya verenler arasında baştan güven kaybı yaratan bir sebep olduğu, bunun ilerideki sonuçlarının bir kısmının arabuluculuk sürecinde bir ay içerisinde sonuçlandırılmasına rağmen dava sayılarının halen yüksek olduğu bu problemin 67 yıldır devam eden bir problem olduğu birlikte değerlendirildiğinde tarafların birbiriyle çatışan çıkarlarına rağmen ortak bir yolun bulunması gerektiği ise açıktır. </p>",
+                "<p></p>",
+                ]
+
 
             // Diğer diller buraya eklenebilir...
         },
     }
 
-//     // Butonu seç
-//     const scrollToTopButton = document.getElementById('scrollToTop');
-//
-// // Sayfa aşağı kaydırıldığında butonu göster
-//     window.onscroll = function() {
-//         if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-//             scrollToTopButton.style.display = 'block';
-//         } else {
-//             scrollToTopButton.style.display = 'none';
-//         }
-//     };
-//
-// // Butona tıklandığında sayfayı yukarı kaydır
-//     scrollToTopButton.onclick = function() {
-//         window.scrollTo({ top: 0, behavior: 'smooth' });
-//     };
-//
-//
-//     const elementsToTranslate = $("[data-translate]"); // Tüm çeviri elementlerini bir kez seç
-//
-//     // Dil seçimi yapıldığı zaman localStorage'a kaydet ve sayfayı güncelle
-//     function setLanguage(lang) {
-//         localStorage.setItem('language', lang);
-//         updateContent(lang);
-//     }
-//
-//     function updateContent(lang) {
-//         let translations = content[lang];
-//
-//         for (let i = 0; i < elementsToTranslate.length; i++) {
-//             let element = elementsToTranslate[i];
-//             let key = $(element).data("translate");
-//
-//             if (translations[key]) {
-//                 let text = translations[key];
-//                 if (Array.isArray(text)) {
-//                     let ul = $("<ul></ul>");
-//                     text.forEach(function (item) {
-//                         ul.append($("<li></li>").html(processBold(item)));
-//                     });
-//                     $(element).html(ul);
-//                 } else {
-//                     $(element).html(processBold(text));
-//                 }
-//                 // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
-//                 if (lang === 'fa') {
-//                     $(element).addClass('rtl');
-//                     // $('#team-img').css('float', 'right'); // Resmi sağa yasla
-//                 } else {
-//                     $(element).removeClass('rtl'); // Türkçe için sınıfı kaldır
-//                     // $('#team-img').css('float', 'left'); // Resmi sola yasla
-//                 }
-//             }
-//         }
-//     }
-//
-//     function updateContent(lang) {
-//         let translations = content[lang];
-//
-//         for (let i = 0; i < elementsToTranslate.length; i++) {
-//             let element = elementsToTranslate[i];
-//             let key = $(element).data("translate");
-//
-//             if (translations[key]) {
-//                 let text = translations[key];
-//                 if (Array.isArray(text)) {
-//                     let ul = $("<ul></ul>");
-//                     text.forEach(function (item) {
-//                         ul.append($("<li></li>").html(processBold(item)));
-//                     });
-//                     $(element).html(ul);
-//                 } else {
-//                     $(element).html(processBold(text));
-//                 }
-//                 // Eğer dil Farsça ise sağdan sola yazım için sınıf ekleyin
-//                 if (lang === 'fa') {
-//                     $(element).addClass('rtl');
-//                     // Navbar'ı sağdan sola yönlendirin
-//                     switchToPersian();
-//                 } else {
-//                     $(element).removeClass('rtl');
-//                     // Navbar'ı soldan sağa yönlendirin
-//                     switchToTurkish();
-//                 }
-//             }
-//         }
-//     }
-//
-// // Farsça dil seçildiğinde
-//     function switchToPersian() {
-//         document.getElementById('navbar').classList.add('rtl'); // RTL sınıfını ekler
-//     }
-//
-// // Türkçe dil seçildiğinde
-//     function switchToTurkish() {
-//         document.getElementById('navbar').classList.remove('rtl'); // RTL sınıfını kaldırır
-//     }
-//
-//
-//     function processBold(text) {
-//         // [bold] işaretçilerini <strong> etiketleri ile değiştir
-//         return text.replace(/\[bold\](.*?)\[\/bold\]/g, "<strong>$1</strong>");
-//     }
-//
-//
-//     // Sayfa yüklendiğinde dil tercihini kontrol et
-//     $(document).ready(function () {
-//         const savedLang = localStorage.getItem('language') || 'tr'; // Varsayılan dil 'tr'
-//         updateContent(savedLang);
-//     });
-//
-//     // Dil seçimi butonlarına tıklanma olayı ekleyin
-//     $(".lang-select").on("click", function () {
-//         const selectedLang = $(this).data("lang");
-//         setLanguage(selectedLang);
-//     });
-//
-//     // //------- Sticky Header -------//
-//     // $(".sticky-header").sticky();
-//
-//     //------- video popup -------//
-//     $(".hero-banner__video, .video-play-button").magnificPopup({
-//         disableOn: 700,
-//         type: "iframe",
-//         mainClass: "mfp-fade",
-//         removalDelay: 160,
-//         preloader: false,
-//         fixedContentPos: false
-//     });
-//
-//     // //------- mailchimp --------//
-//     // function mailChimp() {
-//     // 	$('#mc_embed_signup').find('form').ajaxChimp();
-//     // }
-//     // mailChimp();
-//
-//     var nav_offset_top = $('header').height() + 50;
-//     /*-------------------------------------------------------------------------------
-// 	  Navbar
-// 	-------------------------------------------------------------------------------*/
-//
-//     //* Navbar Fixed
-//     function navbarFixed() {
-//         if ($('.header_area').length) {
-//             $(window).scroll(function () {
-//                 var scroll = $(window).scrollTop();
-//                 if (scroll >= nav_offset_top) {
-//                     $(".header_area").addClass("navbar_fixed");
-//                 } else {
-//                     $(".header_area").removeClass("navbar_fixed");
-//                 }
-//             });
-//         }
-//         ;
-//     };
-//     navbarFixed();
-//
-//
-//     if ($('.blog-slider').length) {
-//         $('.blog-slider').owlCarousel({
-//             loop: true,
-//             margin: 30,
-//             items: 1,
-//             nav: true,
-//             autoplay: 2500,
-//             smartSpeed: 1500,
-//             dots: false,
-//             responsiveClass: true,
-//             navText: ["<div class='blog-slider__leftArrow'><img src='img/home/left-arrow.png'></div>", "<div class='blog-slider__rightArrow'><img src='img/home/right-arrow.png'></div>"],
-//             responsive: {
-//                 0: {
-//                     items: 1
-//                 },
-//                 600: {
-//                     items: 2
-//                 },
-//                 1000: {
-//                     items: 3
-//                 }
-//             }
-//         })
-//     }
-//
-//
-//         // Telefon numarasına tıklanabilirlik eklemek
-//         document.getElementById("phone").onclick = function() {
-//         window.location.href = "tel:0312 231 99 40";
-//     };
-//
-//         // E-posta adresine tıklanabilirlik eklemek
-//         document.getElementById("email").onclick = function() {
-//         window.location.href = "mailto:pehlivanguvenhukuk@gmail.com";
-//     };
-//
-//
-//     /*-------------------------------------------------------------------------------
-//         testimonial slider
-//       -------------------------------------------------------------------------------*/
-//     if ($('.testimonial').length) {
-//         $('.testimonial').owlCarousel({
-//             loop: true,
-//             margin: 30,
-//             items: 5,
-//             nav: false,
-//             dots: true,
-//             responsiveClass: true,
-//             slideSpeed: 300,
-//             paginationSpeed: 500,
-//             responsive: {
-//                 0: {
-//                     items: 1
-//                 }
-//             }
-//         })
-//     }
-//
-//     //------- mailchimp --------//
-//     function mailChimp() {
-//         $('#mc_embed_signup').find('form').ajaxChimp();
-//     }
-//
-//     mailChimp();
-// });
-
     $(document).ready(function () {
 
         // Butonu seç
         const scrollToTopButton = document.getElementById('scrollToTop');
+        const whatsappButton = document.getElementById('whatsappButton');
 
         // Sayfa aşağı kaydırıldığında butonu göster
         window.onscroll = function() {
             if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
                 scrollToTopButton.style.display = 'block';
+                whatsappButton.style.display = 'block';
             } else {
                 scrollToTopButton.style.display = 'none';
             }
@@ -1754,12 +1568,31 @@ $(function() {
             if (lang === 'fa') {
                 switchToPersian(); // Farsça dil seçildiyse buton sola taşınacak
                 document.getElementById('navbar').classList.add('rtl'); //rtl ekler
+                whatsappButton.href = "https://wa.me/905424056094"; // Farsça numara
             } else {
                 switchToTurkish(); // Türkçe dil seçildiyse buton sağa taşınacak
                 document.getElementById('navbar').classList.remove('rtl'); //rtl ekler
+                whatsappButton.href = "https://wa.me/905543039854"; // Türkçe numara
             }
         }
 
+        // Farsça dil seçildiğinde butonu sola taşı
+        function switchToPersian() {
+            scrollToTopButton.style.left = '20px'; // Butonu sola taşır
+            scrollToTopButton.style.right = ''; // Sağ konumu sıfırlar
+            whatsappButton.style.left = '20px'; // Butonu sola taşır
+            whatsappButton.style.right = ''; // Sağ konumu sıfırlar
+        }
+
+        // Türkçe dil seçildiğinde butonu sağa taşı
+        function switchToTurkish() {
+            scrollToTopButton.style.right = '25px'; // Butonu sağa taşır
+            scrollToTopButton.style.left = ''; // Sol konumu sıfırlar
+            whatsappButton.style.right = '20px'; // Butonu sağa taşır
+            whatsappButton.style.left = ''; // Sol konumu sıfırlar
+        }
+
+        // Dil değişimini güncelle
         function updateContent(lang) {
             let translations = content[lang];
 
@@ -1788,18 +1621,6 @@ $(function() {
                     }
                 }
             }
-        }
-
-        // Farsça dil seçildiğinde butonu sola taşı
-        function switchToPersian() {
-            scrollToTopButton.style.left = '10px'; // Butonu sola taşır
-            scrollToTopButton.style.right = ''; // Sağ konumu sıfırlar
-        }
-
-       // Türkçe dil seçildiğinde butonu sağa taşı
-        function switchToTurkish() {
-            scrollToTopButton.style.right = '25px'; // Butonu sağa taşır
-            scrollToTopButton.style.left = ''; // Sol konumu sıfırlar
         }
 
         function processBold(text) {

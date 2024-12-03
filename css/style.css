@@ -2929,5 +2929,32 @@ h6 {
   font-weight: 700;
 }
 
+.whatsappButton {
+  position: fixed; /* Sayfanın her zaman görünür olmasını sağlar */
+  bottom: 85px; /* Alt kısma 20px boşluk */
+  right: 20px; /* Sağ tarafa 20px boşluk */
+  z-index: 1000; /* Diğer öğelerin üstünde göster */
+  transition: opacity 0.3s; /* Yavaşça görünür hale gelmesi için geçiş efekti */
+}
+
+/* Farsça dil seçildiğinde sağdaki konum sola taşınacak */
+.rtl .whatsappButton {
+  right: auto; /* Sağdaki konumu iptal et */
+  left: 15px;  /* Solda göster */
+}
+
+.whatsapp-icon-img {
+  width: 50px;     /* İkonun genişliği */
+  height: 50px;    /* İkonun yüksekliği */
+  object-fit: cover; /* Görüntü boyutunu kutuya sığdırır */
+}
+
+.whatsappButton:hover .whatsapp-icon-img {
+  filter: brightness(0.8); /* Hover durumunda ikon parlaklık efekti */
+}
+
+
+
+
 
 
