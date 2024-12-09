@@ -744,6 +744,51 @@ $(function() {
             KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ_kısa:" ",
             KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ_uzun:[
                 "<strong>ترجمه فارسی پست وبلاگ در مورد الزام تخلیه در موارد تخلیه اجاره وجود ندارد.</strong",
+            ],
+
+            YABANCILARIN_TÜRKİYEDE_EVLENMESİ:"ازدواج خارجی ها در ترکیه",
+            YABANCILARIN_TÜRKİYEDE_EVLENMESİ_kısa:"برای صحت نکاح، در قانون مدنی ترکیه به شماره 4721 موارد خاصی پیش بینی شده است. برای صحت  نکاح اینکه  طرفین فقط اهلیت داشته باشند و مانعی برای ازدواج نیست کافی نیست. ",
+            YABANCILARIN_TÜRKİYEDE_EVLENMESİ_uzun:[
+                "<p>برای صحت نکاح، در قانون مدنی ترکیه به شماره 4721 موارد خاصی پیش بینی شده است. برای صحت  نکاح اینکه  طرفین فقط اهلیت داشته باشند و مانعی برای ازدواج نیست کافی نیست. بلکه  شرایط رسمی ازدواج نیز باید رعایت شود.</p>",
+                "<p>شرایط رسمی ازدواج در قانون مدنی ترکیه، بین مفاد مواد 134 و 144،  مقررات ازدواج  نیز  در قانون خدمات ثبت سجلی و ازدواج به  شماره 5490 تنظیم شده است. بین مفاد مواد 134 و 143 قانون مدنی ترکیه، ازدواج اتباع ترکیه با حضور مقامات ذیصلاح ترکیه تنظیم شده است.</p>",
+                "<p>در مورد ازدواج اتباع خارجی در مراجع ذیصلاح ترکیه یا ازدواج های کنسولی، مقررات مربوطه در آیین نامه ازدواج با استناد به ماده 144 قانون مدنی ترکیه اعمال می شود. ماده 22 خدمات ثبت سجلی و ازدواج تحت عنوان «مرجع ازدواج» مراجع مجاز برای ازدواج با شهروندان ترک و خارجیان در ترکیه را تعیین می کند.</p>",
+                "<p>با توجه به آیین نامه ازدواج مورخ 1985، به نمایندگی های خارجی در ترکیه این اختیار داده شد تا به شهروندان خود در ترکیه خدمات ثبت ازدواج  ارایه دهند. امروزه مقامات مجاز برای ازدواج  افراد خارجی در ترکیه باید در چارچوب مقررات ازدواج، قانون خدمات ثبت سجلی و ازدواج  با  قراردادهای کنسولی دوجانبه منعقد شده بین ترکیه و سایر کشورها با استناد به ماده 144 قانون مدنی ترکیه تعیین شده انجام می شود.</p>",
+
+                "<h6>مقامات مجاز برای انجام کار ثبت ازدواج  خارجی ها در ترکیه</h6>",
+                "<p>مقامات رسمی مجاز برای ثبت ازدواج شهروندان ترکیه در قانون مدنی ترکیه، قانون خدمات ثبت سجلی و ازدواج  و مقررات ازدواج تعیین شده اند. بر اساس این مقررات، ازدواج در مکان هایی که شهرداری وجود دارد توسط شهردار یا مأموری که شهردار تعیین می کند و در روستاها توسط دهیار انجام می شود.</p>",
+                "<p>مرکز ازدواج در مقررات ازدواج و قانون خدمات ثبت سجلی و ازدواج  با استناد به ماده 144 قانون مدنی ترکیه تنظیم شده است. در محدوده شهرداری کلانشهر برای شهرداران زیر مجموعه  دفاتر ازدواج در اختیار شهرداری کلان شهر، در استانی که در صلاحیت سایر شهرداران هستند با مأمورانی که آنها منصوب می کنند، در محدوده شهرداری منطقه ، شهر،  بخش و  در حوزه اختیارات مرکز ازدواج با مامورانی است که شهردار مربوطه انتخاب می کند. در روستاها با  مختارها می باشد.. تعیین مرزروستا ها با  ثبت احوال  مربوطه می باشد.  وظیفه و اختیار انجام ثبت ازدواج  برای  مأمور ازدواج در بیش از یک روستا یا شهر یا در کل منطقه  می تواند عمل کنند. </p>",
+
+                "<h6>ازدواج در مراکزی که مقامات دولت  ترکیه تعیین کردن</h6>",
+                "<p>اگر یکی از افراد مورد ازدواج فرد خارجی باشد، دفاتر ازدواج شهرداری و ادارات ثبت احوال، مجاز به تنظیم ازدواج هستند. در این زمینه مختارها و مفتی ها صلاحیت انجام کار ازدواج افراد خارجی ها را ندارند.</p>",
+                "<p>ماده 12 آیین نامه ازدواج، ازدواج اتباع خارجی در ترکیه را تنظیم می کند. مطابق بند اول ماده 12 آیین نامه، یک شهروند ترکیه و یک فرد خارجی یا دو فرد خارجی از ملیت های مختلف فقط می توانند در مقابل یک مامور رسمی در مراکز رسمی ازدواج ترکیه ازدواج کنند.</p>",
+                "<p>قانون و مقررات ازدواج به خارجی ها اجازه می دهد درهمه موارد  در مقابل مقامات  رسمی ترکیه ازدواج کنند. به خارجیانی که شهروند یک کشور می باشند در انجام کار ازدواج حق انتخاب مرجع صالح برای ازدواج داده می شود.</p>",
+                "<p>در بند دوم ماده 12 آیین نامه ازدواج، به دو خارجی که شهروند یک کشورهستند، حق انتخاب مرجع صالح برای ازدواج داده شده است. بر اساس این ماده، دو خارجی که تابعیت یک کشور را داشته باشند، می توانند در مقابل مقامات ذیصلاح ترکیه و همچنین در مقابل کنسولگری آن کشور در ترکیه، در صورتی که قوانین ملی آنها اجازه دهد، ازدواج کنند.</p>",
+
+                "<h6>ازدواج در  کنسولگری ها</h6>",
+                "<p>در آیین نامه ازدواج مورخ 1985، به نمایندگی های خارجی این اختیار داده شد تا با شهروندان خود در ترکیه خدمات ثبت ازدواج ارایه دهند. ازدواج اتباع خارجی در  کنسولگری های خود در ترکیه در قوانین ترکیه «ازدواج دیپلماتیک» یا «ازدواج کنسولی» یا «ازدواج کنسولگری» نامیده می شود.</p>",
+
+                "<h6>مراحل ازدواج  تبعه خارجی در ترکیه</h6>",
+                "<p>تشریفات ازدواج با اتباع خارجی  در ترکیه با مراجعه به دفتر ازدواج با ارایه مدارک لازم برای زوجینی که قصد ازدواج دارند امکان پذیر است. برای ازدواج با تبعه خارجی، طرفین باید به همراه مدارک لازم به دفتر ازدواج محل سکونت یکی از طرفین مراجعه کنند. درخواست ازدواج در ترکیه نیز می تواند توسط وکیل طرفین انجام شود. اما طرفین باید شخصاً در مراسم ازدواج حضور داشته باشند.</p>",
+                "<p>اهلیت و شرایط ازدواج تابع قانون ملی طرفین است. به عنوان مثال، اگر یکی از افراد ایرانی باشد، طبق قوانین ایران مشخص می شود که آیا این فرد دارای شرایط ازدواج است و یا اهلیت ازدواج دارد یا خیر. اگر طرف مقابل ترک باشد، اهلیت و شرایط ازدواج او طبق قوانین ترکیه تعیین می شود.</p>",
+                "<p>از آنجایی که شکل ازدواج تابع قانون محل وقوع ازدواج است، حتی اگر هر دو طرف ازدواج در ترکیه خارجی باشند، طبق قانون ترکیه ازدواج می کنند.</p>",
+                "<p>مدارک مورد نیاز برای ازدواج با تبعه خارجی در ماده 20 آیین نامه ازدواج تنظیم شده است. طبق قانون مدارک لازم برای ازدواج با تبعه خارجی به شرح زیر است:</p>",
+                "<strong>✦</strong> بیان نامه (بیان نامه،  افراد به مرجع ذیصلاح مراجعه کرده و قصد خود را برای ازدواج اعلام می کنند)،",
+                "<strong>✦</strong> کارت شناسایی شهروند ترکیه،",
+                "<strong>✦</strong> پاسپورت  یا سند جایگزین پاسپورت خارجی با ترجمه ترکی،",
+                "<strong>✦</strong> ویزای تبعه خارجی،",
+                "<strong>✦</strong> 4 عدد عکس  برای هر طرف (باید در 6 ماه گذشته گرفته شود).",
+                "<strong>✦</strong> گزارش بهداشتی جداگانه هر دو طرف،",
+                "<strong>✦</strong> رضایت نامه (در صورتی که یکی از طرفین برای ازدواج نیاز به رضایت از نمایندگان قانونی خود یا دادگاه داشته باشد.)",
+                "<strong>✦</strong> گواهی مجرد و اهلیت ازدواج (این سند نشان می دهد که ازدواج کننده طبق قوانین کشوری خود مانع ندارد و مجرد است. گواهی ازدواج از کنسولگری اخذ شده و به تایید فرمانداری می رسد. اما در صورت اخذ گواهی ازدواج از  کشور خود این گواهی ابتدا در کنسولگری سفارت کشورش در آنکارا تایید میشود بعد  به تایید وزارت امور خارجه جمهوری ترکیه می رسد.)",
+                "<strong>✦</strong> برگه ثبت احوال طرف ترک،",
+                "<strong>✦</strong> شناسنامه (در صورتی که نام والدین و تاریخ تولد در گواهی ازدواج درج شده باشد، نیازی به ارائه شناسنامه جداگانه نیست.)",
+                "<p></p>",
+
+                "<h6>مراحل انجام ثبت  پس از ازدواج  تبعه خارجی در ترکیه</h6>",
+                "<p><strong>✦</strong> خارجی ها باید بعد از ازدواج اقداماتی را انجام دهند. خارجی ها باید برای این مراحل به کنسولگری کشور خود در ترکیه مراجعه کنند.\n" +
+                "وضعیت تأهل طرفین باید به متاهل تغییر کند. ضمناً در صورت تغییر نام خانوادگی این زن باید این تغییر در هویت وی انجام شود و در صورت خارجی بودن، پاسپورت وی تمدید شود. خارجی که در ترکیه ازدواج می کند باید به کنسولگری کشور خود در ترکیه اطلاع دهد و اطمینان حاصل کند که ازدواج او در دفتر ثبت جمعیت و خانواده در کشور خود ثبت شده است. به همین ترتیب، شهروند ترکیه ای که در یک کشور خارجی ازدواج می کند باید ظرف یک ماه از تاریخ ازدواج به کنسولگری ترکیه در کشور محل ازدواج خود اطلاع دهد.\n</p>",
+                "<p><strong>✦</strong> علاوه بر این، فرد خارجی که با تابعیت ترکیه ازدواج می کند، 3 سال پس از ازدواج می تواند برای تابعیت ترکیه اقدام کند، مشروط بر اینکه در باهم با خانواده خود زندگی کند و به هیچ گونه فعالیتی که به وحدت خانواده منافات دارد، اقدام نکند. برای اطلاعات بیشتر در این زمینه می توانید نگاهی به مقاله ما با عنوان \"شهروندی در ترکیه از طریق ازدواج\" نگاه بیندازید.</p>",
+                "<p></p>",
             ]
 
 
@@ -1529,6 +1574,50 @@ $(function() {
                 "<p>Sonuçta haklı ya da haksız şekilde 67 yıldır devam eden hukuki süreçler göz önüne alındığında tahliye taahhüdünün sadece yazılı ve kiralananın tesliminden sonra alınması şartları taraflar arasında hukuki uyuşmazlıkları artırmaktadır. Bu noktada Noterliğin 1512 sayılı Noterlik Kanunundaki tanımı şöyledir: \"Noterlik bir kamu hizmetidir. Noterler, hukuki güvenliği sağlamak ve anlaşmazlıkları önlemek için işlemleri belgelendirir ve kanunlarla verilen başka görevleri yaparlar.\" demektedir. Belki de tahliye taahhüdünün noterde düzenlenmesi ve kiralananın tesliminden sonra alınması şartı getirilmesi tek başına yeterli olabileceği değerlendirilebilecektir.</p>",
                 "<p><strong>Özetle,</strong> tahliye taahhütname sebebiyle açılan davaların kiracılar ile kiraya verenler arasında baştan güven kaybı yaratan bir sebep olduğu, bunun ilerideki sonuçlarının bir kısmının arabuluculuk sürecinde bir ay içerisinde sonuçlandırılmasına rağmen dava sayılarının halen yüksek olduğu bu problemin 67 yıldır devam eden bir problem olduğu birlikte değerlendirildiğinde tarafların birbiriyle çatışan çıkarlarına rağmen ortak bir yolun bulunması gerektiği ise açıktır. </p>",
                 "<p></p>",
+                ],
+
+            YABANCILARIN_TÜRKİYEDE_EVLENMESİ:"YABANCILARIN TÜRKİYE’DE EVLENMESİ",
+            YABANCILARIN_TÜRKİYEDE_EVLENMESİ_kısa:"Evlenmenin geçerliliği için 4721 sayılı Türk Medeni Kanunu’nda, belirli bir şekle uyulması öngörülmüştür. Evlenmenin geçerli olarak yapılabilmesi için, sadece tarafların evlenme ehliyetine sahip olmaları ve evlenme engellerinin bulunmaması yeterli değildir.",
+            YABANCILARIN_TÜRKİYEDE_EVLENMESİ_uzun:[
+                "<p>Evlenmenin geçerliliği için 4721 sayılı Türk Medeni Kanunu’nda, belirli bir şekle uyulması öngörülmüştür. Evlenmenin geçerli olarak yapılabilmesi için, sadece tarafların evlenme ehliyetine sahip olmaları ve evlenme engellerinin bulunmaması yeterli değildir. Bunun yanı sıra, evlenmenin şekli şartlarına da uyulması gerekir.</p>",
+                "<p>Evlenmenin şekil şartları Türk Medeni Kanunu’nda 134 ilâ 144. madde hükümleri arasında, Evlendirme Yönetmeliği’nde ve 5490 sayılı Nüfus Hizmetleri Kanunu’nda düzenlenmiştir. Türk Medeni Kanunu’nun 134 ilâ 143. madde hükümleri arasında, Türk yetkili makamları huzurunda Türk vatandaşlarının evlenmesi düzenlenmiştir.</p>",
+                "<p>Yabancıların Türk yetkili makamları önünde evlenmesi veya konsolosluk evlenmeleri hakkında Türk Medeni Kanunu’nun 144. maddesi atfıyla, Evlendirme Yönetmeliği’nin ilgili hükümleri uygulanır. Nüfus Hizmetleri Kanunu’nun “Evlendirme Yetkisi” başlıklı 22. maddesinde de, Türk vatandaşları ve yabancıları Türkiye’de evlendirmeye yetkili makamlar belirlenmiştir.</p>",
+                "<p>1985 tarihli Evlendirme Yönetmeliği ile dış temsilciliklere Türkiye’de kendi vatandaşlarını evlendirme yetkisi tanınmıştır. Bugün Türkiye’de yabancıları evlendirmeye yetkili makamlar Türk Medeni Kanunu 144. madde atfıyla, Evlendirme Yönetmeliği, Nüfus Hizmetleri Kanunu ve yine Türkiye ile diğer devletler arasında akdedilen iki taraflı konsolosluk sözleşmeleri çerçevesinde tespit edilmelidir.</p>",
+
+                "<h6>Türkiye’de Yabancıları Evlendirmeye Yetkili Makamlar</h6>",
+                "<p>Türk vatandaşlarının evlenmelerinde yetkili olan resmi makamlar Türk Medeni Kanunu,  Nüfus Hizmetleri Kanunu ve Evlendirme Yönetmeliği’nde belirlenmiştir. Bu hükümlere göre, evlenme, belediye bulunan yerlerde belediye başkanı veya başkanın evlendirme işlerine memur ettiği görevli ile köylerde muhtar tarafından yapılır.</p>",
+                "<p>Türk Medeni Kanunu’nun 144. maddesi atfıyla Evlendirme Yönetmeliği’nde ve Nüfus Hizmetleri Kanunu’nda evlendirme yetkisi düzenlenmiştir. Büyükşehir belediye başkanları ile büyükşehir içindeki belediye evlendirme memurlukları için büyükşehir belediye hudutları, diğer belediye başkanları veya görevlendirecekleri memurlar için yetki alanında bulunan il, ilçe ve belde belediye hudutları, muhtarlar için o köy hudutları ile sınırlıdır. Nüfus memurlarına birden fazla köy veya kasabada ya da bütün ilçede evlendirme memurluğu görev ve yetkisi verilebilir.</p>",
+
+                "<h6>Türkiye’de Yetkili Makamlar Önünde Evlenme</h6>",
+                "<p>Evlenecek kişilerden birinin yabancı olması halinde, evlendirmeye, belediye evlendirme memurlukları ile nüfus müdürlükleri yetkilidir. Bu çerçevede, muhtarlar ve müftülerin yabancıları evlendirme yetkisi bulunmamaktadır.</p>",
+                "<p>Evlendirme Yönetmeliği’nin 12. maddesi de, yabancıların Türkiye’de evlenmesini düzenlenmektedir. Yönetmeliğin 12. maddesinin 1. fıkrası uyarınca da, Türkiye’de bir Türk vatandaşı ile bir yabancı ya da farklı uyruklu yabancı iki kişi, ancak yetkili Türk evlendirme memuru önünde evlenebilirler.</p>",
+                "Evlendirme Yönetmeliği yabancıların her durumda Türk yetkili makamları önünde evlenmelerine izin vermiş, aynı devlet vatandaşı olan yabancılara ise, evlenmeyi yapabilecekleri yetkili makamı seçme hakkı tanınmıştır.",
+                "<p>Evlendirme Yönetmeliği’nin 12. maddesinin 2. fıkrasında, aynı devlet vatandaşı olan iki yabancıya evlenmk için yetkili makamı seçme hakkı tanınmıştır. Bu hükme göre, aynı devlet vatandaşı olan iki yabancı, Türk yetkili makamları önünde evleneceği gibi, kendi milli kanunları yetki vermiş olduğu takdirde, o devletin Türkiye’deki temsilcilikleri önünde de evlenebilirler.</p>",
+
+                "<h6>Konsolosluk Evlenmeleri</h6>",
+                "<p>1985 tarihli Evlendirme Yönetmeliği ile dış temsilciliklere Türkiye’de kendi vatandaşlarını evlendirme yetkisi tanınmıştır.  Yabancıların Türkiye’deki temsilcilikleri önünde evlenmeleri, Türk hukukunda “diplomatik evlenme” veya “konsolosluk evlenmesi” ya da “konsüller evlenme” olarak adlandırılır.</p>",
+
+                "<h6>Yabancı Uyruklu Kişi İle Evlilik İşlemleri </h6>",
+                "<p>Yabancı uyruklu kişi ile evlilik işlemleri, evlenmek isteyen çiftlerin gerekli belgelerle birlikte evlendirme dairesine başvurmasıyla mümkündür. Yabancı uyruklu kişi ile evlilik yapabilmek için tarafların gerekli belgelerle birlikte, taraflardan birinin ikamet ettiği yer evlendirme dairesine başvuruda bulunmaları gerekir. Türkiye’de evlenmek için yapılacak başvuru, tarafların vekili tarafından da yapılabilir. Ancak nikah sırasında tarafların bizzat hazır olması gerekmektedir.</p>",
+                "<p>Evlenme ehliyeti ve şartları tarafların milli hukukuna tabidir. Örneğin evlenecek kişilerden biri İran vatandaşı ise bu kişinin hem evlenme şartlarını taşıyıp taşımadığı hem de evlenme ehliyetine sahip olup olmadığı İran hukukuna göre belirlenir. Diğer taraf Türk ise onun evlenme ehliyeti ve şartları da Türk hukukuna göre belirlenir. </p>",
+                "<p>Evlenmenin şekli ise evlenmenin yapıldığı yer hukukuna tabi olduğundan Türkiye’de evlenen tarafların ikisi de yabancı olsa bile Türk hukukunun şekline göre evlenirler. </p>",
+                "<p>Yabancı uyruklu kişi ile evlilik için gerekli belgeler Evlendirme Yönetmeliğinin 20. maddesinde düzenlenmiştir. Kanuna göre Yabancı uyruklu kişi ile evlilik için gerekli belgeler şunlardır:</p>",
+                "<strong>✦</strong> Beyanname (Kişilerin yetkili makama başvurup evlenme niyetlerini açıkladıklarına dair beyanname),",
+                "<strong>✦</strong> Türk vatandaşının kimlik kartı,",
+                "<strong>✦</strong> Yabancının noter onaylı Türkçe tercümeli pasaport ya da pasaport yerine geçen belgesi,",
+                "<strong>✦</strong> Yabancı uyruklu kişinin vizesi,",
+                "<strong>✦</strong> Her bir taraf için ayrı ayrı 4 adet vesikalık fotoğraf (Son 6 ay içinde çekilmiş olmalıdır.)",
+                "<strong>✦</strong> Her iki tarafın ayrı ayrı sağlık raporu,",
+                "<strong>✦</strong> Rıza belgesi (Taraflardan birisinin evlenmek için yasal temsilcilerinden ya da mahkemeden rıza alması gerekiyorsa talep edilir.)",
+                "<strong>✦</strong> Evlenme ehliyeti belgesi (Bu belge kişinin kendi milli hukukuna göre evlenmesinde bir sakınca olmadığını ve bekar olduğunu gösterir. Evlenme ehliyeti belgesi konsolosluktan alınıp Kaymakamlıktan onaylatılır. Ancak kişi belgeyi, ülkesinin Ankara’daki büyükelçiliğinden alırsa T.C Dışişleri Bakanlığı’na onaylatması gerekmektedir.)",
+                "<strong>✦</strong> Türk tarafın nüfus kayıt örneği,",
+                "<strong>✦</strong> Doğum belgesi (Evlenme ehliyeti belgesinde ana-baba adı ile doğum tarihi yazıyorsa ayrıca doğum belgesine gerek yoktur.)",
+
+                "<p></p>",
+                "<h6>Yabancı Uyruklu Kişi ile Evlilik Sonrası İşlemler</h6>",
+                "<p><strong>✦</strong> Yabancıların evlilikten sonra yapması gereken bazı işlemleri vardır. Yabancılar bu işlemler için kendi ülkesinin Türkiye’de bulunan konsolosluklarına başvuruda bulunmalıdır.\n" +
+                "Tarafların kimliklerde medeni hal durumu evli olarak değiştirilmelidir. Ayrıca kadının soyismi değişmişse kimliğinde bu değişiklik yapılmalı, yabancıysa pasaportu da yenilenmelidir. Türkiye’de evlilik yapan yabancı, Türkiye’de kendi ülkesinin konsolosluğuna durumu bildirmeli ve evliliğini kendi ülkesindeki nüfus ile aile kütüğüne kaydedilmesini sağlamalıdır. Keza yabancı ülkede evlenen Türk vatandaşı evlendiği ülkedeki Türk konsolosluğuna, evlenme işleminden itibaren 1 ay içinde bildirimde bulunmalıdır.\n</p>",
+                "<p><strong>✦</strong> Bunların yanı sıra Türk vatandaşlığı ile evlenen yabancı kişi, evlendikten 3 yıl sonra aile birliği içinde yaşamak ve aile birliğiyle bağdaşmayacak bir faaliyette bulunmamak kaydıyla, Türk vatandaşlığına geçiş için başvurabilir. Bu konuda daha detaylı bilgi için “evlilik yoluyla Türk vatandaşı olmak” başlıklı yazımıza göz atabilirsiniz.</p>",
                 ]
 
 
