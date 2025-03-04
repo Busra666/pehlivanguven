@@ -1150,7 +1150,12 @@ $(function() {
                 "<strong>✦ BDDK ییدیه:</strong> گواهی صلاحیت از BDDK برای درخواست تابعیت الزامی است. بنابراین، فرآیند مسدودی سپرده باید به‌طور کامل و دقیق انجام شود.",
                 "<p></p>",
 
+            ],
 
+            TESLA_EMSAL_KARAR:" ",
+            TESLA_EMSAL_KARAR_kısa:" ",
+            TESLA_EMSAL_KARAR_uzun:[
+                "<strong>ترجمه فارسی پست وبلاگ در مورد الزام تخلیه در موارد تخلیه اجاره وجود ندارد.</strong",
             ]
 
 
@@ -2340,7 +2345,26 @@ $(function() {
                 "Özetle, Sermaye yatırımı yoluyla Türk vatandaşlığı, finansal kaynaklarını Türkiye'ye yönlendirmek isteyen yabancı yatırımcılar için çekici bir fırsat sunmaktadır. Bu süreç, belirli yatırım türleri aracılığıyla yapılabilir ve genellikle yüksek miktarda finansal yatırım gerektirir. Ancak, bu yolu tercih edenler için Türk pasaportu ve Türkiye’deki ekonomik fırsatlardan faydalanma imkânı sağlanır.",
 
 
-            ]
+            ],
+
+            TESLA_EMSAL_KARAR:"TESLA - EMSAL KARAR",
+            TESLA_EMSAL_KARAR_kısa:"Araç Firması Tarafından Ödenmeyen Kapora Bedellerinin İadesine Karar Verilmiştir.",
+            TESLA_EMSAL_KARAR_uzun:[
+                "<h6>ARAÇ FİRMASI TARAFINDAN ÖDENMEYEN KAPORA BEDELLERİNİN İADESİNE KARAR VERİLMİŞTİR.</h6>",
+                "Tarafımızca takip edilen Ankara 1. Tüketici Mahkemesi’nin 2024/…Esas ve 2024/….. Karar sayılı dosyasında, tüketici tarafından T... Motorları Satış ve Hizmetleri Ltd. Şti.’ne karşı açılan davada, 50.000 TL kapora bedelinin iadesine karar verilmiştir. Mahkeme, tüketicinin cayma hakkını kullanarak siparişten vazgeçmesi durumunda, ön sipariş bedelinin iade edilmemesine yönelik sözleşme şartının 'haksız şart' niteliğinde olduğunu değerlendirmiştir.",
+                "<h6>KARARIN EMSAL OLMA NİTELİĞİ</h6>",
+                "Bu karar, özellikle online araç satışlarında tüketici haklarını koruyucu bir içtihat niteliği taşımaktadır. Mahkeme, tüketicinin açıkça müzakere etmediği ve tek taraflı olarak satıcı lehine düzenlenen sözleşme hükümlerinin geçersiz olduğunu vurgulamıştır. 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve ilgili yönetmelikler çerçevesinde, tüketici aleyhine dengesizlik yaratan sözleşme hükümlerinin kesin hükümsüz olduğu tespit edilmiştir.",
+                "Bu bağlamda, karar tüketici hukuku açısından emsal teşkil etmekte olup, benzer durumlarla karşılaşan tüketiciler için yol gösterici olacaktır. Özellikle otomotiv sektöründe ön ödeme veya kapora bedeli alan şirketlerin sözleşmelerini, tüketici lehine olacak şekilde gözden geçirmeleri gerektiğini ortaya koymaktadır. Söz konusu kararın bir kısmına aşağıda yer verilmiştir.",
+                "<strong>Tüketici Mahkemesinden Emsal Karar: T…..’nin İade Etmediği Kapora Geri Alındı</strong>",
+                "<h6>Ankara 1. Tüketici Mahkemesi’nin 2024/….Esas ve 2024/…. Karar sayılı karar;</h6>",
+                "‘’Tüm dosya kapsamı birlikte değerlendirildiğinde; davalı tarafından, RN121518233 rezervasyon numarası ile T…. Marka Model  araca ilişkin olarak oluşturulan sipariş kapsamında davacı şirkete 50.000,00-TL Sipariş Ücreti ödendiğini, davalının daha sonrasında siparişini iptal ettiğini, iptalin akabinde ise ödenen Sipariş Ücreti’nin iadesi talebiyle İlçe Tüketici Hakem Heyeti başvuruda bulunduğu, Çankaya İlçe Tüketici Hakem Heyeti’nin 17/09/2024 tarih ve 155420240001973 sayılı kararı ile davacının talebinin reddine karar verildiği, davacı tarafça karara süresi içerisinde itiraz edilerek işbu davanın açılmış olduğu, Tüketici Sözleşmelerindeki Haksız Şartlar Hakkında Yönetmeliği 5. Maddesinde düzenlendiği üzere 'Tüketici ile kurulan sözleşmelerde yer alan bir şartın haksız şart olarak kabul edilebilmesi için; a) Tüketiciyle müzakere edilmeden sözleşmeye dahil edilmesi, b) Tarafların sözleşmeden doğan hak ve yükümlülüklerinde dürüstlük kuralına aykırı düşecek biçimde tüketici aleyhine dengesizliğe neden olması, unsurlarının bir arada bulunması gerekir.",
+                "(2) Bir sözleşme şartının önceden hazırlanması ve standart sözleşmede yer alması nedeniyle tüketicinin sözleşmenin içeriğine etki edememesi durumunda, o sözleşme şartının tüketiciyle müzakere edilmediği kabul edilir. Sözleşmeyi düzenleyen, bir standart şartın münferiden müzakere edildiğini iddia ediyorsa bunu ispatla yükümlüdür.",
+                "(3) Sözleşmenin bütün olarak değerlendirilmesinden, standart sözleşme olduğu sonucuna varılırsa, bu sözleşmedeki bir şartın belirli unsurlarının veya münferit bir hükmünün müzakere edilmiş olması, sözleşmenin kalan kısmına bu Yönetmelik hükümlerinin uygulanmasını engellemez.",
+                "(4) Bu Yönetmeliğin ekinde yer alan listede sayılan şartlar haksız şart olarak kabul edilir. Bu listedeki şartlar sınırlayıcı olmayıp örnek niteliğindedir. 'Haksız şartların değerlendirilmesi ve sözleşmeye etkisi kapsamında yönetmeliğinin 7. maddesinde; 'Tüketiciyle kurulan sözleşmelerde yer alan haksız şartlar kesin olarak hükümsüzdür. Ancak sözleşmenin haksız şartlar dışındaki hükümleri geçerliliğini korur. Bu durumda sözleşmeyi düzenleyen, kesin olarak hükümsüz sayılan şartlar olmasaydı diğer hükümlerle sözleşmeyi yapmayacak olduğunu ileri süremez.' olarak belirtilmiş olup huzurdaki davada bağlanma parası niteliğindeki ön kayıt ücretinin iade edilemeyeceği hükmünün, haksız şart niteliğinde ve tüketici yönünden hükümsüz olduğu kanaatine varılmış; ilgili hakem heyeti kararının usul ve yasaya aykırı olduğu anlaşılmış olduğundan davanın kabulüne dair aşağıdaki şekilde hüküm kurulmuştur.’’",
+                "Yukarıda yer verilen karar gereğince T….. tarafından sipariş ücreti olarak kapora bedeli altında alınan bedellerin iadesinin gerektiği ortaya konmuştur. İşbu karar duruşma açılmadan kısa bir sürede verilmiş olup, tüketiciyi rahatlatan bir karar niteliğindedir. ",
+
+
+                ]
 
 
 
