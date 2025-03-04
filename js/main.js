@@ -1153,9 +1153,39 @@ $(function() {
             ],
 
             TESLA_EMSAL_KARAR:" ",
-            TESLA_EMSAL_KARAR_kısa:" ",
+            TESLA_EMSAL_KARAR_kısa:"بازپرداخت مبالغ پیش‌پرداختی که توسط شرکت خودرویی پرداخت نشده است",
             TESLA_EMSAL_KARAR_uzun:[
-                "<strong>ترجمه فارسی پست وبلاگ در مورد الزام تخلیه در موارد تخلیه اجاره وجود ندارد.</strong",
+                "<h6>بازپرداخت مبالغ پیش‌پرداختی که توسط شرکت خودرویی پرداخت نشده است</h6>",
+                "در پرونده‌ای که توسط ما پیگیری شد، دادگاه اول حقوق مصرف‌کننده آنکارا به شماره پرونده ۲۰۲۴/... و شماره حکم ۲۰۲۴/...، در دعوای مطرح‌شده توسط مصرف‌کننده علیه شرکت T... موتورهای فروش و خدمات با مسئولیت محدود، به بازپرداخت مبلغ ۵۰,۰۰۰ لیر ترکیه به‌عنوان پیش‌پرداخت حکم داده است.",
+                "دادگاه اعلام کرده است که در صورتی که مصرف‌کننده از حق انصراف خود استفاده کند و از سفارش خود صرف‌نظر نماید، شرط قراردادی مبنی بر عدم استرداد مبلغ پیش‌پرداخت، ''شرط ناعادلانه'' محسوب می‌شود.",
+                "<p></p>",
+                "<h6>اهمیت رأی به‌عنوان رویه قضایی (رویه وحدت رویه)</h6>",
+                "این حکم به‌ویژه در حوزه فروش آنلاین خودرو، رویه‌ای حمایتی از حقوق مصرف‌کننده به شمار می‌آید. دادگاه تأکید کرده است که شروط قراردادهایی که بدون مذاکره روشن با مصرف‌کننده و به نفع فروشنده تنظیم می‌شوند، معتبر نیستند. بر اساس قانون حمایت از مصرف‌کننده شماره ۶۵۰۲ و آیین‌نامه‌های مرتبط، مفاد قراردادی که موجب عدم تعادل به ضرر مصرف‌کننده شوند، به‌صورت قطعی بی‌اعتبار هستند.",
+                "<p></p>",
+                "در این راستا، این حکم به‌عنوان یک نمونه قضایی در حوزه حقوق مصرف‌کننده مطرح بوده و راهنمایی برای سایر مصرف‌کنندگانی خواهد بود که با موقعیت‌های مشابه روبه‌رو می‌شوند. به‌ویژه، این رأی نشان می‌دهد که شرکت‌هایی که در صنعت خودروسازی مبالغی را به‌عنوان پیش‌پرداخت یا بیعانه دریافت می‌کنند، باید قراردادهای خود را با رعایت حقوق مصرف‌کننده تنظیم کنند. بخشی از رأی صادره در ادامه ارائه شده است:",
+                "<strong>رأی نمونه دادگاه حقوق مصرف‌کننده: بازپرداخت بیعانه‌ای که توسط شرکت T... مسترد نشده بود</strong>",
+                "<p></p>",
+                "<h6>دادگاه اول حقوق مصرف‌کننده آنکارا - شماره پرونده ۲۰۲۴/... و شماره حکم ۲۰۲۴/...</h6>",
+                "**\"با بررسی کلیه اسناد پرونده مشخص شد که: بر اساس شماره رزرو RN121518233، شاکی برای خرید خودرویی با برند و مدل T... مبلغ ۵۰,۰۰۰ لیر را به‌عنوان هزینه ثبت سفارش به حساب شرکت خوانده واریز کرده است. پس از آن، شاکی از خرید خود منصرف شده و درخواست استرداد مبلغ را ارائه کرده است. در پی این درخواست، وی به هیئت حل اختلاف مصرف‌کنندگان منطقه چانکایا مراجعه کرده و این هیئت طی تصمیم شماره ۱۵۵۴۲۰۲۴۰۰۰۱۹۷۳ مورخ ۱۷/۰۹/۲۰۲۴ درخواست شاکی را رد کرده است.",
+                "<p></p>",
+                "پس از آن، شاکی به‌موقع به این رأی اعتراض کرده و این دعوی را مطرح کرده است.",
+                "<p></p>",
+                "طبق ماده ۵ آیین‌نامه مربوط به شروط ناعادلانه در قراردادهای مصرف‌کنندگان:\n" +
+                "۱. برای اینکه یک شرط قراردادی ناعادلانه تلقی شود، باید دو شرط زیر هم‌زمان وجود داشته باشد:\n",
+                "<strong>✦ الف) شرط موردنظر بدون مذاکره با مصرف‌کننده در قرارداد گنجانده شده باشد.</strong>",
+                "<strong>✦ ب) موجب عدم تعادل ناعادلانه‌ای به ضرر مصرف‌کننده و خلاف اصول حسن نیت شود.</strong>",
+                "<p></p>",
+                "۲. اگر شرطی به‌صورت از پیش تنظیم‌شده در قرارداد استاندارد گنجانده شده باشد و مصرف‌کننده نتواند در محتوای قرارداد تغییری ایجاد کند، این شرط بدون مذاکره محسوب خواهد شد. اثبات خلاف این موضوع بر عهده تنظیم‌کننده قرارداد است.",
+                "<p></p>",
+                "۳. اگر بررسی کلی قرارداد نشان دهد که یک قرارداد استاندارد تنظیم شده است، حتی در صورت مذاکره درباره برخی از شروط آن، مفاد دیگر قرارداد همچنان مشمول این آیین‌نامه خواهد بود.",
+                "<p></p>",
+                "۴. شروطی که در فهرست پیوست آیین‌نامه آمده‌اند، به‌عنوان شروط ناعادلانه شناخته می‌شوند. این فهرست محدود نبوده و جنبه نمونه‌ای دارد.\n" +
+                "بر اساس ماده ۷ این آیین‌نامه: \"شروط ناعادلانه در قراردادهای مصرف‌کننده، به‌صورت قطعی بی‌اعتبار هستند. اما سایر مفاد قرارداد معتبر خواهند ماند. در این حالت، تنظیم‌کننده قرارداد نمی‌تواند ادعا کند که در صورت حذف این شروط، قرارداد را منعقد نمی‌کرد.\"\n",
+                "<p></p>",
+                "در این پرونده، مشخص شد که شرط قرارداد مبنی بر عدم استرداد مبلغ ثبت‌نام که به‌عنوان نوعی بیعانه تلقی می‌شود، یک شرط ناعادلانه بوده و نسبت به مصرف‌کننده بی‌اعتبار است. همچنین، مشخص شد که تصمیم هیئت حل اختلاف منطقه چانکایا برخلاف قانون و آیین‌نامه بوده است. در نتیجه، حکم به قبول دعوا و استرداد مبلغ صادر شد.\"**",
+                "<p></p>",
+                "طبق رأی فوق، شرکت T... موظف به استرداد مبالغ دریافت‌شده به‌عنوان هزینه ثبت‌نام تحت عنوان پیش‌پرداخت یا بیعانه است. این حکم در مدت کوتاهی و بدون نیاز به برگزاری جلسه رسیدگی صادر شده و تصمیمی امیدوارکننده برای مصرف‌کنندگان به شمار می‌آید.",
+
             ]
 
 
@@ -2352,16 +2382,22 @@ $(function() {
             TESLA_EMSAL_KARAR_uzun:[
                 "<h6>ARAÇ FİRMASI TARAFINDAN ÖDENMEYEN KAPORA BEDELLERİNİN İADESİNE KARAR VERİLMİŞTİR.</h6>",
                 "Tarafımızca takip edilen Ankara 1. Tüketici Mahkemesi’nin 2024/…Esas ve 2024/….. Karar sayılı dosyasında, tüketici tarafından T... Motorları Satış ve Hizmetleri Ltd. Şti.’ne karşı açılan davada, 50.000 TL kapora bedelinin iadesine karar verilmiştir. Mahkeme, tüketicinin cayma hakkını kullanarak siparişten vazgeçmesi durumunda, ön sipariş bedelinin iade edilmemesine yönelik sözleşme şartının 'haksız şart' niteliğinde olduğunu değerlendirmiştir.",
+                "<p></p>",
                 "<h6>KARARIN EMSAL OLMA NİTELİĞİ</h6>",
                 "Bu karar, özellikle online araç satışlarında tüketici haklarını koruyucu bir içtihat niteliği taşımaktadır. Mahkeme, tüketicinin açıkça müzakere etmediği ve tek taraflı olarak satıcı lehine düzenlenen sözleşme hükümlerinin geçersiz olduğunu vurgulamıştır. 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve ilgili yönetmelikler çerçevesinde, tüketici aleyhine dengesizlik yaratan sözleşme hükümlerinin kesin hükümsüz olduğu tespit edilmiştir.",
                 "Bu bağlamda, karar tüketici hukuku açısından emsal teşkil etmekte olup, benzer durumlarla karşılaşan tüketiciler için yol gösterici olacaktır. Özellikle otomotiv sektöründe ön ödeme veya kapora bedeli alan şirketlerin sözleşmelerini, tüketici lehine olacak şekilde gözden geçirmeleri gerektiğini ortaya koymaktadır. Söz konusu kararın bir kısmına aşağıda yer verilmiştir.",
                 "<strong>Tüketici Mahkemesinden Emsal Karar: T…..’nin İade Etmediği Kapora Geri Alındı</strong>",
+                "<p></p>",
                 "<h6>Ankara 1. Tüketici Mahkemesi’nin 2024/….Esas ve 2024/…. Karar sayılı karar;</h6>",
                 "‘’Tüm dosya kapsamı birlikte değerlendirildiğinde; davalı tarafından, RN121518233 rezervasyon numarası ile T…. Marka Model  araca ilişkin olarak oluşturulan sipariş kapsamında davacı şirkete 50.000,00-TL Sipariş Ücreti ödendiğini, davalının daha sonrasında siparişini iptal ettiğini, iptalin akabinde ise ödenen Sipariş Ücreti’nin iadesi talebiyle İlçe Tüketici Hakem Heyeti başvuruda bulunduğu, Çankaya İlçe Tüketici Hakem Heyeti’nin 17/09/2024 tarih ve 155420240001973 sayılı kararı ile davacının talebinin reddine karar verildiği, davacı tarafça karara süresi içerisinde itiraz edilerek işbu davanın açılmış olduğu, Tüketici Sözleşmelerindeki Haksız Şartlar Hakkında Yönetmeliği 5. Maddesinde düzenlendiği üzere 'Tüketici ile kurulan sözleşmelerde yer alan bir şartın haksız şart olarak kabul edilebilmesi için; a) Tüketiciyle müzakere edilmeden sözleşmeye dahil edilmesi, b) Tarafların sözleşmeden doğan hak ve yükümlülüklerinde dürüstlük kuralına aykırı düşecek biçimde tüketici aleyhine dengesizliğe neden olması, unsurlarının bir arada bulunması gerekir.",
+                "<p></p>",
                 "(2) Bir sözleşme şartının önceden hazırlanması ve standart sözleşmede yer alması nedeniyle tüketicinin sözleşmenin içeriğine etki edememesi durumunda, o sözleşme şartının tüketiciyle müzakere edilmediği kabul edilir. Sözleşmeyi düzenleyen, bir standart şartın münferiden müzakere edildiğini iddia ediyorsa bunu ispatla yükümlüdür.",
+                "<p></p>",
                 "(3) Sözleşmenin bütün olarak değerlendirilmesinden, standart sözleşme olduğu sonucuna varılırsa, bu sözleşmedeki bir şartın belirli unsurlarının veya münferit bir hükmünün müzakere edilmiş olması, sözleşmenin kalan kısmına bu Yönetmelik hükümlerinin uygulanmasını engellemez.",
+                "<p></p>",
                 "(4) Bu Yönetmeliğin ekinde yer alan listede sayılan şartlar haksız şart olarak kabul edilir. Bu listedeki şartlar sınırlayıcı olmayıp örnek niteliğindedir. 'Haksız şartların değerlendirilmesi ve sözleşmeye etkisi kapsamında yönetmeliğinin 7. maddesinde; 'Tüketiciyle kurulan sözleşmelerde yer alan haksız şartlar kesin olarak hükümsüzdür. Ancak sözleşmenin haksız şartlar dışındaki hükümleri geçerliliğini korur. Bu durumda sözleşmeyi düzenleyen, kesin olarak hükümsüz sayılan şartlar olmasaydı diğer hükümlerle sözleşmeyi yapmayacak olduğunu ileri süremez.' olarak belirtilmiş olup huzurdaki davada bağlanma parası niteliğindeki ön kayıt ücretinin iade edilemeyeceği hükmünün, haksız şart niteliğinde ve tüketici yönünden hükümsüz olduğu kanaatine varılmış; ilgili hakem heyeti kararının usul ve yasaya aykırı olduğu anlaşılmış olduğundan davanın kabulüne dair aşağıdaki şekilde hüküm kurulmuştur.’’",
-                "Yukarıda yer verilen karar gereğince T….. tarafından sipariş ücreti olarak kapora bedeli altında alınan bedellerin iadesinin gerektiği ortaya konmuştur. İşbu karar duruşma açılmadan kısa bir sürede verilmiş olup, tüketiciyi rahatlatan bir karar niteliğindedir. ",
+                "<p></p>",
+                "<strong> Yukarıda yer verilen karar gereğince T….. tarafından sipariş ücreti olarak kapora bedeli altında alınan bedellerin iadesinin gerektiği ortaya konmuştur. İşbu karar duruşma açılmadan kısa bir sürede verilmiş olup, tüketiciyi rahatlatan bir karar niteliğindedir.</strong>",
 
 
                 ]
