@@ -1152,7 +1152,7 @@ $(function() {
 
             ],
 
-            TESLA_EMSAL_KARAR:" ",
+            TESLA_EMSAL_KARAR:"بازپرداخت بیعانه فروش خودرو",
             TESLA_EMSAL_KARAR_kısa:"بازپرداخت مبالغ پیش‌پرداختی که توسط شرکت خودرویی پرداخت نشده است",
             TESLA_EMSAL_KARAR_uzun:[
                 "<h6>بازپرداخت مبالغ پیش‌پرداختی که توسط شرکت خودرویی پرداخت نشده است</h6>",
@@ -2377,7 +2377,7 @@ $(function() {
 
             ],
 
-            TESLA_EMSAL_KARAR:"TESLA - EMSAL KARAR",
+            TESLA_EMSAL_KARAR:"ARAÇ SATIŞI KAPORA İADESİ",
             TESLA_EMSAL_KARAR_kısa:"Araç Firması Tarafından Ödenmeyen Kapora Bedellerinin İadesine Karar Verilmiştir.",
             TESLA_EMSAL_KARAR_uzun:[
                 "<h6>ARAÇ FİRMASI TARAFINDAN ÖDENMEYEN KAPORA BEDELLERİNİN İADESİNE KARAR VERİLMİŞTİR.</h6>",
