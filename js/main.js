@@ -1186,8 +1186,57 @@ $(function() {
                 "<p></p>",
                 "طبق رأی فوق، شرکت T... موظف به استرداد مبالغ دریافت‌شده به‌عنوان هزینه ثبت‌نام تحت عنوان پیش‌پرداخت یا بیعانه است. این حکم در مدت کوتاهی و بدون نیاز به برگزاری جلسه رسیدگی صادر شده و تصمیمی امیدوارکننده برای مصرف‌کنندگان به شمار می‌آید.",
 
-            ]
+            ],
 
+            Yabancıların_Türkiyede_Taşınmaz_Ediniminde_Hukuki_Süreç:"فرآیند حقوقی تملک اموال غیرمنقول توسط اتباع خارجی در ترکیه",
+            Yabancıların_Türkiyede_Taşınmaz_Ediniminde_Hukuki_Süreç_kısa:"تملک اموال غیرمنقول توسط اشخاص حقیقی اتباع خارجی و اشخاص حقوقی با سرمایه خارجی در جمهوری ترکیه، بر اساس مواد ۳۵ و ۳۶ قانون ثبت اسناد شماره ۲۶۴۴ و سایر مقررات مرتبط انجام می‌شود.",
+            Yabancıların_Türkiyede_Taşınmaz_Ediniminde_Hukuki_Süreç_uzun:[
+                "تملک اموال غیرمنقول توسط اشخاص حقیقی اتباع خارجی و اشخاص حقوقی با سرمایه خارجی در جمهوری ترکیه، بر اساس مواد ۳۵ و ۳۶ قانون ثبت اسناد شماره ۲۶۴۴ و سایر مقررات مرتبط انجام می‌شود.",
+                "<p></p>",
+                "<h6>1 الزامات تملک اموال غیرمنقول توسط اشخاص حقیقی خارجی) ماده ۳۵  ( قانون ثبت اسناد</h6>",
+                "فرآیند حقوقی تملک اموال غیرمنقول توسط اتباع خارجی، به‌ویژه بر پایه شفافیت و تعیین ارزش واقعی ملک استوار است.",
+                "<strong>الف . الزام ارائه سند ارز بانکی توسط خریدار    (DAB)</strong>",
+                "<strong>✦ اجرا:</strong> از تاریخ ۲۴ ژانویه ۲۰۲۲، ارائه سند خرید ارز (DAB) در معاملات خرید ملک توسط اشخاص حقیقی خارجی الزامی است. ",
+                "<strong>✦ روند:</strong> برای پرداخت بهای ملک، ارز خارجی باید از طریق یی از  بانک  های رسمی ترکیه به  بانک مرکزی جمهوری ترکیه (TCMB) فروخته شود  و سند خرید ارز (DAB)  به نام خریدار تنظیم شده و به  اداره ثبت اسناد ارائه گردد.",
+                "<strong>✦ شرح:</strong> مبلغ اعلام‌شده در سند رسمی انتقال، باید با مبلغ ثبت‌شده در سند DAB برابر باشد.",
+                "<p></p>",
+                "<strong>ب .   الزام تهیه گزارش ارزیابی قیمت  ملک توسط کارشناس رسمی </strong>",
+                "<strong>✦ اجرا:</strong> در تمام معاملات خرید و فروش که طرف آن شخص حقیقی خارجی باشد، تهیه گزارش تعیین ارزش روز ملک توسط مؤسسات دارای مجوز SPK/BDDK الزامی است.",
+                "<strong>✦ کاربرد:</strong> این گزارش اثبات می‌کند که بهای اظهار شده در سند رسمی با ارزش واقعی ملک مطابقت دارد.",
+                "<p></p>",
+                "<strong>ج.  مبالغ به‌روز برای دریافت اجازه اقامت و تابعیت ترکیه</strong>",
+                "<strong>✦ ۲۰۲۳: (</strong> خرید واحد مسکونی با حداقل ارزش ۲۰۰ هزار دلار آمریکا معادل لیر ترکیه می باشد. ",
+                "<strong>✦ تابعیت ترکیه) روش استثنایی: ( :</strong> خرید ملک با حداقل ارزش ۴۰۰ هزار دلار آمریکا و درج شرط عدم فروش به‌مدت ۳ سال می باشد.",
+                "<p></p>",
+                "<h6>2 دامنه حقوقی تملک اموال غیرمنقول توسط شرکت‌های خارجی) ماده ۳۶ قانون ثبت اسناد (</h6>",
+                "تملک اموال غیرمنقول توسط شرکت‌های با سرمایه خارجی بر اساس ماده ۳۶ و قانون شماره ۵۴۴۴ به‌طور ویژه تنظیم شده است.",
+                "<strong>الف.  دامنه و تعریف شرکت‌های مشمول</strong>",
+                "شرکت‌هایی که اخذ  مجویز برای تملک ملک برای آن‌ها الزامی است :",
+                "<strong>1. شرکت‌های خارجی: </strong>اشخاص حقوقی که طبق قوانین کشور خود تأسیس شده‌اند.",
+                "<strong>2.  شرکت‌های داخلی با سرمایه خارجی:</strong> شرکت‌هایی که در ترکیه تأسیس شده‌اند اما سرمایه‌گذاران خارجی دارای ۵۰٪ سهام ویا بیشتر سهام هستند یا اختیار تعیین اکثریت مدیران را دارند.",
+                "<p></p>",
+                "<strong>ب .  روند تملک) الزام اخذ  مجویز (</strong>",
+                "تملک اموال غیرمنقول توسط این شرکت‌ها با توجه به نوع ملک مشمول اخذ امجویز است :",
+
+                "<strong>✦ تملک بدون نیاز به مجویز)   اصل کلی (:</strong> شرکت‌ها می‌توانند اموال غیرمنقول ساخته  شده مانند (ساختمان، دفتر، کارخانه) را که در حوزه فعالیت آن‌ها در اساسنامه شرکت ذکر شده است، بدون نیاز به اخذ ا مجویز از استانداری خریداری کنند.",
+                "<strong>✦ تملک مشمول مجویز (موارد خاص):</strong> ",
+                "<strong>- املاک بدون بنا:</strong> برای خرید زمین، مزرعه، باغ، و سایر املاک فاقد بنا، اخذ اجازه قبلی از استانداری الزامی است.",
+                "<strong>- مناطق محدود:</strong> در صورت قرار داشتن ملک در مناطق نظامی، امنیتی یا مناطق دارای اهمیت استراتژیک، اخذ اجازه ویژه از مراجع ذی‌صلاح الزامی است.",
+                "<strong>✦ ارتباط با حوزه فعالیت شرکت:</strong> چه مشمول اجازه باشد و چه نباشد، تملک ملک باید با حوزه فعالیت مندرج در اساسنامه شرکت مرتبط باشد.",
+                "<p></p>",
+                "<h6>3.  محدودیت‌های عمومی حقوقی و مالی</h6>",
+                "<strong>✦ حدود تملک برای اشخاص حقیقی:</strong> یک شخص حقیقی خارجی می‌تواند در مجموع تا ۳۰ هکتار ملک در ترکیه تملک کند و این مقدار در هر شهرستان نمی‌تواند بیش از ۱۰٪ مساحت آن شهرستان باشد.",
+                "<strong>✦ هزینه حق‌الثبت:</strong> در معاملات خرید و فروش، مالیات انتقال ملک معادل ۲٪ از بهای اظهار شده برای هر یک از خریدار و فروشنده (در مجموع ۴٪) اخذ می‌گردد.",
+                "<strong>✦ بیمه اجباری (DASK):</strong> ارائه بیمه اجباری زلزله برای املاک دارای بنا الزامی است.",
+
+
+            ],
+
+            SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ:" ",
+            SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ_kısa:" ",
+            SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ_uzun:[
+                "<strong>ترجمه فارسی پست وبلاگ در مورد الزام تخلیه در موارد تخلیه اجاره وجود ندارد.</strong",
+            ]
 
 
         },
@@ -2400,7 +2449,194 @@ $(function() {
                 "<strong> Yukarıda yer verilen karar gereğince T….. tarafından sipariş ücreti olarak kapora bedeli altında alınan bedellerin iadesinin gerektiği ortaya konmuştur. İşbu karar duruşma açılmadan kısa bir sürede verilmiş olup, tüketiciyi rahatlatan bir karar niteliğindedir.</strong>",
 
 
-                ]
+                ],
+            Yabancıların_Türkiyede_Taşınmaz_Ediniminde_Hukuki_Süreç:"Yabancıların Türkiye'de Taşınmaz Ediniminde Hukuki Süreç",
+            Yabancıların_Türkiyede_Taşınmaz_Ediniminde_Hukuki_Süreç_kısa:"Türkiye Cumhuriyeti'nde yabancı uyruklu gerçek kişilerin ve yabancı sermayeli tüzel kişilerin taşınmaz edinimi, 2644 sayılı Tapu Kanunu'nun 35. ve 36. maddeleri başta olmak üzere ilgili mevzuat hükümleri çerçevesinde gerçekleşir.",
+            Yabancıların_Türkiyede_Taşınmaz_Ediniminde_Hukuki_Süreç_uzun:[
+                "Türkiye Cumhuriyeti'nde yabancı uyruklu gerçek kişilerin ve yabancı sermayeli tüzel kişilerin taşınmaz edinimi, 2644 sayılı Tapu Kanunu'nun 35. ve 36. maddeleri başta olmak üzere ilgili mevzuat hükümleri çerçevesinde gerçekleşir.",
+                "<p></p>",
+                "<h6>1. Yabancı Gerçek Kişilerin Taşınmaz Ediniminde Zorunluluklar (Tapu Kanunu Md. 35)</h6>",
+                "Yabancı uyruklu gerçek kişilerin taşınmaz edinimlerinde hukuki süreç, özellikle şeffaflık ve değer tespiti esasına dayanır.",
+                "<strong>A. Döviz Alım Belgesi (DAB) Zorunluluğu</strong>",
+                "<strong>✦ Uygulama:</strong> 24 Ocak 2022 tarihinden itibaren, yabancı gerçek kişiler tarafından satın alma yoluyla taşınmaz edinimlerinde Döviz Alım Belgesi (DAB) ibrazı zorunludur.",
+                "<strong>✦ Prosedür:</strong> Taşınmaz satış bedelinin ödenmesi için yabancı para birimlerinin, Türkiye'de faaliyet gösteren bir banka aracılığıyla, Türkiye Cumhuriyet Merkez Bankası (TCMB) adına bozdurulması ve bu işleme dair DAB'ın Tapu Müdürlüğüne sunulması gereklidir.",
+                "<strong>✦ Beyan:</strong> Tapuda beyan edilen satış bedeli, DAB'da kayıtlı olan Türk Lirası tutarı ile eşleşmelidir.",
+                "<p></p>",
+                "<strong>B. Taşınmaz Değerleme (Ekspertiz) Raporu Mecburiyeti</strong>",
+                "<strong>✦ Uygulama:</strong> Yabancı gerçek kişilerin taraf olduğu tüm alım-satım işlemlerinde, taşınmazın güncel piyasa değerinin tespiti amacıyla, SPK/BDDK lisanslı kuruluşlarca düzenlenmiş Taşınmaz Değerleme Raporu alınması zorunludur.",
+                "<strong>✦ Kullanım:</strong> Rapor, tapuda beyan edilen satış bedeli ile taşınmazın gerçek değerinin uyumlu olduğunu tevsik eder.",
+                "<p></p>",
+                "<strong>C. İkamet İzni ve Türk Vatandaşlığı İçin Güncel Değer Tutarları</strong>",
+                "<strong>✦ Kısa Dönem İkamet İzni (2023 Güncel Değer):</strong> En az 200.000 Amerikan Doları karşılığı Türk Lirası değerinde konut edinimi şarttır.",
+                "<strong>✦ Türk Vatandaşlığı (İstisnai Yöntem):</strong> En az 400.000 Amerikan Doları karşılığı Türk Lirası değerinde taşınmaz edinimi ve 3 yıl satılmama şerhi zorunludur.",
+                "<p></p>",
+                "<h6>2. Yabancı Şirketlerin Taşınmaz Ediniminde Hukuki Kapsam (Tapu Kanunu Md. 36)</h6>",
+                "Yabancı sermayeli şirketlerin Türkiye'de taşınmaz edinimleri, 36. madde ve 5444 sayılı kanun hükümleriyle özel olarak düzenlenmiştir.",
+                "<strong>A. Kapsam ve Tanım</strong>",
+                "İzne tabi olan şirketler:",
+                "<strong>1.Yabancı Şirketler: </strong>Kendi ülkelerinin kanunlarına göre kurulmuş yabancı tüzel kişiler.",
+                "<strong>2.Yabancı Sermayeli Yerel Şirketler: </strong>Yabancı yatırımcıların şirket sermayesinde yüzde elli ve daha fazla paya sahip olduğu veya şirketi yönetecek çoğunluğu atama hakkına sahip olduğu Türkiye'de kurulmuş şirketler.",
+                "<p></p>",
+                "<strong>B. Edinim Prosedürü (İzin Zorunluluğu) </strong>",
+                "Bu kapsamdaki yabancı ve yabancı sermayeli şirketlerin Türkiye'de taşınmaz edinimi, edinilecek taşınmazın niteliğine göre izin prosedürüne tabidir:",
+                "<strong>✦ İzinsiz Edinim (Genel Kural):</strong> Şirketlerin ana sözleşmelerinde belirtilen faaliyet alanlarında kullanmak üzere edinecekleri yapılı taşınmazlar (bina, ofis, fabrika binaları vb.) için Valilik izni aranmaz.",
+                "<strong>✦ İzinli Edinim (Özel Durumlar/İstisna):</strong> ",
+                "<strong>Yapısız Taşınmazlar:</strong> Şirketlerin edinecekleri yapısız taşınmazlar (arazi, tarla, bağ, bahçe vb.) için edinimden önce Valiliklere (İl Planlama ve Koordinasyon Müdürlükleri) başvurularak izin alınması zorunludur.",
+                "<strong>Kısıtlı Alanlar:</strong> Taşınmazın niteliği (yapılı veya yapısız) fark etmeksizin, askeri yasak bölgeler, özel güvenlik bölgeleri veya stratejik öneme sahip alanlarda yer alması durumunda, ilgili makamlardan özel izin alınması gereklidir.",
+                "<strong>✦ Faaliyet Alanı ile Bağlantı:</strong> İzinli veya izinsiz olsun, şirketlerin taşınmaz edinimi, şirketin kuruluş amacına ve ana sözleşmesinde belirtilen faaliyet alanına uygun olmak zorundadır.",
+                "<p></p>",
+                "<h6>3. Genel Hukuki ve Mali Sınırlamalar</h6>",
+                "<strong>✦ Taşınmaz Edinim Sınırı (Gerçek Kişiler):</strong> Yabancı gerçek kişi, ülke genelinde en fazla 30 hektar taşınmaz edinebilir ve bu edinim bulunduğu ilçenin yüzölçümünün %10'unu geçemez.",
+                "<strong>✦ Tapu Harcı:</strong> Alım-satım işlemlerinde beyan edilen satış bedeli üzerinden alıcı ve satıcıdan ayrı ayrı %2 olmak üzere toplam %4 oranında Tapu Harcı ödenmesi gerekmektedir.",
+                "<strong>✦ Zorunlu Sigorta (DASK):</strong> Binalar için Zorunlu Deprem Sigortası poliçesi ibrazı zorunludur.",
+            ],
+
+            SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ:"SAĞLIK MESLEK MENSUPLARININ SORUŞTURMA İZNİ SÜRECİ",
+            SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ_kısa:"Türk hukukunda sağlık meslek mensuplarının (hekim, diş hekimi, eczacı vb.) mesleki \n" +
+                "faaliyetleri nedeniyle karşılaşabilecekleri cezai ve hukuki soruşturmalara ilişkin özel bir \n" +
+                "koruma ve usul rejimi getirilmiştir.",
+            SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ_uzun:[
+                "<h6>HUKUKİ ÇERÇEVE VE UYGULAMA</h6>",
+                "Türk hukukunda sağlık meslek mensuplarının (hekim, diş hekimi, eczacı vb.) mesleki \n" +
+                "faaliyetleri nedeniyle karşılaşabilecekleri cezai ve hukuki soruşturmalara ilişkin özel bir \n" +
+                "koruma ve usul rejimi getirilmiştir. Bu rejimin temeli, 3359 sayılı Sağlık Hizmetleri Temel \n" +
+                "Kanunu'nun Ek 18. Maddesi ve bu maddeye dayanılarak çıkarılan \"Sağlık Meslek \n" +
+                "Mensuplarının Tıbbî İşlem ve Uygulamaları Nedeniyle Soruşturulması ve İdarice Ödenen \n" +
+                "Tazminatın Rücu Edilmesine Dair Usul ve Esaslar Hakkında Yönetmelik\" ile atılmıştır. ",
+                "Bu düzenlemelerin amacı, mesleki uygulamalar sırasında kusuru olmadığı halde, tıbbın doğası \n" +
+                "gereği ortaya çıkabilen olumsuz sonuçlar nedeniyle sağlık çalışanlarını haksız ve yıpratıcı \n" +
+                "soruşturmalara karşı korumak, bilimsel ve hukuki ölçütlere göre değerlendirme yapılmasını \n" +
+                "sağlamak ve böylece hekimlik mesleğinin icrasında bir tedirginlik oluşmasını önlemektir. ",
+                "<p></p>",
+                "<h6>I. HUKUKİ DAYANAK: 3359 SAYILI KANUN EK 18. MADDE</h6> ",
+                "“Yükseköğretim Kanununun 53 üncü maddesinde yer alan soruşturma usulüne tabi olanlar \n" +
+                "hariç olmak üzere, kamu veya özel sağlık kurum ve kuruluşları ve vakıf üniversitelerinde \n" +
+                "görev yapan hekim ve diş hekimleri ile diğer sağlık meslek mensuplarının sağlık mesleğinin \n" +
+                "icrası kapsamında yaptıkları muayene, teşhis ve tedaviye ilişkin tıbbi işlem ve uygulamalar \n" +
+                "nedeniyle yapılan soruşturmalar hakkında 2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer \n" +
+                "Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanır. Soruşturma izni, \n" +
+                "Sağlık Bakanlığı bünyesinde kurulan Mesleki Sorumluluk Kurulu tarafından verilir. Mesleki \n" +
+                "Sorumluluk Kurulu, özel sağlık kurum ve kuruluşları ve vakıf üniversitelerinde görev yapan \n" +
+                "hekim ve diş hekimleri ile diğer sağlık meslek mensupları bakımından il sağlık müdürlüklerinde \n" +
+                "görevli başkan veya yardımcılarını da ön inceleme yapmak üzere görevlendirebilir. Soruşturma \n" +
+                "izni verilmesine ilişkin 4483 sayılı Kanunun 7 nci maddesindeki süreler, iki kat olarak \n" +
+                "uygulanır. Mesleki Sorumluluk Kurulunun kararlarına karşı Ankara Bölge İdare Mahkemesine \n" +
+                "itiraz edilebilir.” ",
+                "Ek 18. maddenin özü, sağlık meslek mensuplarının \" sağlık mesleğinin icrası kapsamında \n" +
+                "yaptıkları muayene, teşhis ve tedaviye ilişkin tıbbi işlem ve uygulamalar nedeniyle \" nedeniyle \n" +
+                "soruşturma açılabilmesi için bir \"izne\" bağlı bir sistem öngörmesidir. Bu maddeye göre: ",
+                "<p></p>",
+                "<strong>✦ Kapsam: </strong> Maddeye göre soruşturma izni alınması gerekli sağlık mensupları şu şekildedir.",
+                "✦ Kamuda Görev Yapan Hekimler ve Diş Hekimleri ",
+                "✦ Özel Sağlık Kurum ve Kuruluşunda Görev Yapan Hekimler ve Diş Hekimleri ",
+                "✦ Vakıf Üniversitesinde Görev Yapan Hekimler ve Diş Hekimleri ",
+                "✦ Diğer Sağlık Meslek Mensupları (Hemşire, Ebe, Eczacı, Diyetisyen vb.) ",
+                "<p></p>",
+                "2547 sayılı Yükseköğretim Kanunu’na tabi olan üniversite hastanelerindeki hekim, diş \n" +
+                "hekimleri ile diğer sağlık meslek mensuplarına dair ise 2547 SK 53/c ve devamındaki maddeler \n" +
+                "uygulanır.",
+                "<strong>✦ İzin Şartı :</strong>  Savcılık, bir sağlık meslek mensubu hakkında, mesleki faaliyetiyle ilgili olarak \n" +
+                "kovuşturmaya yer olmadığına dair karar vermeden önce, ilgili sağlık meslek mensubunun bağlı \n" +
+                "olduğu il sağlık müdürlüğüne başvurarak soruşturma izni talep etmek zorundadır. ",
+                "<p></p>",
+                "<h6>II. MERKEZİ MEKANİZMA: MESLEKİ SORUMLULUK KURULU</h6> ",
+                "Hastalar tarafından gelen şikayetler hakkında savcılar doğrudan soruşturma başlatamaz. İlgili \n" +
+                "Savcılık, soruşturma konusuna dair izin talebinde bulunur. Talep, Sağlık Bakanlığı bünyesinde \n" +
+                "oluşturulan <strong>Mesleki Sorumluluk Kurulu</strong>’na iletilir. Bu kurul, sürecin en kritik aşamasını \n" +
+                "oluşturur. ",
+                "<p></p>",
+                "<strong>✦ Kurulun Yapısı:</strong> Kurul, Kurul, Sağlık Bakanı tarafından belirlenen; Bakan yardımcısı, \n" +
+                "Sağlık Hizmetleri, Kamu Hastaneleri, Hukuk Hizmetleri, Yönetim Hizmetleri genel müdürleri \n" +
+                "veya yardımcıları, Profesör veya doçent unvanlı biri dâhilî, diğeri cerrahi branştan iki hekim \n" +
+                "olmak üzere yedi üyeden oluşur. ",
+                "<p></p>",
+                "<strong>✦ Kurulun Görevleri:</strong> Kurulun iki ana görevi vardır. Soruşturma izni verilip verilmemesine \n" +
+                "karar vermek ve rücuya dair görevleri yerine getirmektir.",
+                "Yönetmeliğin 9. Maddesinde Soruşturma İzni:",
+                "“Soruşturma izni Kurulun; Cumhuriyet başsavcılığının sağlık meslek mensubu hakkında \n" +
+                "4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu hükümlerine göre soruşturma \n" +
+                "yapabilmesine izin vermesidir” şeklinde belirtilmiştir. ",
+                "<p></p>",
+                "Yönetmeliğin 12. Maddesinde Rücu İstemi:",
+                "“Rücu istemi, kamu kurum ve (Değişik ibare:RG-5/6/2025-32921) kuruluşlarında görev yapan \n" +
+                "sağlık meslek mensuplarının sağlık mesleğinin icrası kapsamında yaptıkları muayene, teşhis ve \n" +
+                "tedaviye ilişkin tıbbi işlem ve uygulamalar sebebiyle idare aleyhine açılan davada mahkeme \n" +
+                "kararına göre idarece ödenen meblağın; ancak kasten görevinin gereklerine aykırı hareket \n" +
+                "etmek suretiyle görevini kötüye kullandığı kesinleşmiş ceza mahkemesi kararı ile tespit edilmesi \n" +
+                "halinde ilgili sağlık meslek mensubundan tazminata konu olaydaki kusur oranı gözetilerek \n" +
+                "Kurul tarafından belirlenen miktarının ödenmesinin istenilmesidir” şeklinde belirtilmiştir. ",
+                "<p></p>",
+                "<h6>III. SORUŞTURMA İZNİ </h6> ",
+                "Soruşturma izni Mesleki Sorumluluk Kurulunun; Cumhuriyet başsavcılığının sağlık meslek \n" +
+                "mensubu hakkında 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu hükümlerine \n" +
+                "göre soruşturma yapabilmesine izin vermesidir. Kurulun en önemli iki görevinden biri \n" +
+                "soruşturma izni verilip verilmeyeceğine karar vermektir.",
+                "<strong>✦ Ön İnceleme Aşaması :</strong> Kurul, soruşturma izni değerlendirmesinden önce Yönetmeliğin \n" +
+                "7. ve 8. maddelerine göre Ön İnceleme yapması veya yaptırması gerekmektedir. ",
+                "Ön inceleme sırasında şikâyet konusunun münhasıran Kanun kapsamındaki sağlık \n" +
+                "meslek mensuplarının tıbbî işlem ve uygulamalarına ilişkin olduğu tespit edilir ise \n" +
+                "inceleme tamamlanarak rapor düzenlenir. Ön inceleme neticesinde hazırlanan raporun \n" +
+                "karar vermeye yeterli olduğu değerlendirilir ise Kurul tarafından soruşturma izni \n" +
+                "konusunda gerekçeli olarak bir karar verilir. ",
+                "Kurul aydınlatılması gereken hususlar tespit ederse, bizzat veya ön incelemeyi yapan \n" +
+                "aynı veya başka görevliler eliyle yeni bir inceleme yaptırabilir. \n ",
+                "<strong>✦ Soruşturma İzni Hakkında Karar :</strong> Kurul, soruşturma izni konusundaki kararını \n" +
+                "suçun öğrenme tarihinden itibaren ön inceleme dâhil en geç altmış gün içinde verir. Bu süre, \n" +
+                "zorunlu hallerde otuz günü geçmemek üzere bir defa uzatılabilir. ",
+                "Soruşturma izni hakkında Kurul, gerekçeli olarak karar verir. Uygulamada Kurul kararlarında, \n" +
+                "şikayetçinin beyanı, sağlık meslek mensubunun savunması ile ön incelemeye dair uzman \n" +
+                "görüşü ile soruşturma izni verilip verilmediğine dair karar sonucu görülmektedir.",
+                "<strong>Karara Karşı İtiraz Yolu :</strong> Soruşturma izni verilmesine ya da verilmemesine dair Kurul \n" +
+                "kararı;",
+                "✦ İlgili Cumhuriyet başsavcılığına,",
+                "✦ Sağlık meslek mensubuna,",
+                "✦ Şikâyet edene, ",
+                "İlgili İl Sağlık Müdürlüğü aracılığıyla gönderilir.",
+                "<p></p>",
+                "Soruşturma izni verilmesi halinde, <strong>ilgili sağlık meslek mensubu kararın tebliğinden itibaren \n" +
+                "10 gün içerisinde Ankara Bölge İdare Mahkemesine itiraz edebilir.</strong>",
+                "Soruşturma izni verilmemesi kararına karşı, <strong>şikayet eden ve ilgili Cumhuriyet Başsavcılığı \n" +
+                "kararın tebliğinden itibaren 10 gün içerisinde Ankara Bölge İdare Mahkemesine itiraz \n" +
+                "edebilir.</strong>",
+                "İşleme koymama kararına karşı da şikayet eden kararın tebliğinden itibaren 10 gün içerisinde \n" +
+                "Ankara Bölge İdare Mahkemesine itiraz edebilir.",
+                "<p></p>",
+                "<h6>IV. SORUŞTURMA İZNİ HAKKINDA YARGITAY KARARLARI </h6> ",
+                "<strong>✦ Yargıtay 12. Ceza Dairesi 01.11.2022 Tarih E. 2020/5100 K. 2022/7814</strong> ",
+                "Özel sağlık kuruluşunda görev yapan sanıklar hakkında, Mesleki Sorumluluk Ku\n" +
+                "rulundan soruşturma izni istenmesi ve hukuki durumlarının buna göre değerlendi\n" +
+                "rilmesi gerektiği gözetilmeden, yargılamaya devamla sanıklar hakkında yazılı şekil\n" +
+                "de hüküm kurulması, \n" +
+                "Kanuna aykırı olup, katılanlar vekilinin temyiz itirazları bu itibarla yerinde görüldü\n" +
+                "ğünden, hükmün sair yönler incelenmeksizin 5320 sayılı Kanunun 8. maddesi uyarın\n" +
+                "ca halen uygulanmakta olan 1412 sayılı CMUK'un 321. maddesi gereğince isteme ay\n" +
+                "kırı olarak BOZULMASINA, 01/11/2022 tarihinde oybirliğiyle karar verildi.”",
+                "<p></p>",
+                "<strong>✦ Yargıtay 12. Ceza Dairesi 03.07.2024 Tarih E.2023/6125 K. 2024/3608 K</strong> ",
+                "“Müştekiye ait tüm tıbbi evrakların dosya arasına alınıp soruşturma dosyasının Sağlık \n" +
+                "Bakanlığı bünyesinde kurulan Mesleki Sorumluluk Kuruluna gönderilerek sonucuna \n" +
+                "göre soruşturma işlemlerinin yürütülmesi gerekirken sağlık meslek mensubu \n" +
+                "şüpheliler ……….. bakımından soruşturma izni alınmadan verilen 06/01/2023 tarihli \n" +
+                "kovuşturmaya yer olmadığına dair karara karşı yapılan itiraz üzerine, soruşturmanın \n" +
+                "genişletilmesine karar verilmesi yerine, yazılı şekilde reddine karar verilmesinde isabet \n" +
+                "görülmemiştir.” \n",
+                "<p></p>",
+                "<strong>✦ Yargıtay 12. Ceza Dairesi 23.01.2024 Tarih 2023/6751 E. 2024/328 K</strong> ",
+                "“3.İnceleme konusu hükümde, özel sağlık kurumu statüsünde olan İ. A. Hastanesi'nde, \n" +
+                "suç tarihinde kadın hastalıkları ve doğum uzmanı olarak görev yapmakta olan sanık \n" +
+                "hakkında ilgili düzenleme gereği Mesleki Sorumluluk Kurulu'ndan soruşturma izni \n" +
+                "alınmaksızın hakkında yazılı şekilde mahkumiyet hükmü kurulması Kanun’a aykırı \n" +
+                "olup kanun yararına bozma talebi yerinde görülmüştür.”",
+                "<p></p>",
+                "<strong>Sonuç</strong> ",
+                "3359 sayılı Kanun'un Ek 18. maddesi ve ilgili yönetmelik ile getirilen \"soruşturma izni\" \n" +
+                "mekanizması, sağlık meslek mensupları için önemli bir güvence sağlamaktadır. Bu sistem, \n" +
+                "mesleki uygulamaların öncelikle uzmanlardan oluşan bir kurul tarafından bilimsel ölçütlere \n" +
+                "göre değerlendirilmesini, böylece haksız ve mesleki kaygıyla yapılan müdahalelerin önüne \n" +
+                "geçilmesini amaçlar. Sağlık çalışanlarının, bu hukuki korumanın varlığından haberdar olması \n" +
+                "ve herhangi bir soruşturma durumunda sürecin bu çerçevede işleyeceğini bilmesi, mesleki \n" +
+                "pratikte özgüveni korumak açısından kritik öneme sahiptir.",
+            ]
 
 
 

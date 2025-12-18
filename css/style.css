@@ -2953,6 +2953,66 @@ h6 {
   filter: brightness(0.8); /* Hover durumunda ikon parlaklık efekti */
 }
 
+.blog-filters {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 12px;
+}
+
+.blog-filters .filter-btn {
+  background: none;
+  border: none;
+  font-size: 15px;
+  font-weight: 500;
+  color: #666;
+  padding: 8px 4px;
+  position: relative;
+  cursor: pointer;
+  transition: color .3s ease;
+}
+
+.blog-filters .filter-btn::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -12px;
+  width: 0;
+  height: 2px;
+  background-color: #de6320; /* kurumsal altın tonu */
+  transition: width .3s ease;
+}
+
+.blog-filters .filter-btn:hover,
+.blog-filters .filter-btn.active {
+  color: #de6320;
+}
+
+.blog-filters .filter-btn.active::after {
+  width: 100%;
+}
+
+/* Mobilde filtreleri alt alta diz */
+@media (max-width: 768px) {
+  .blog-filters {
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .blog-filters .filter-btn {
+    font-size: 16px;
+    padding: 10px 0;
+  }
+
+  .blog-filters .filter-btn::after {
+    bottom: -6px;
+  }
+}
 
 
 
