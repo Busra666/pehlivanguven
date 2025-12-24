@@ -1236,7 +1236,155 @@ $(function() {
             SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ_kısa:" ",
             SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ_uzun:[
                 "<strong>ترجمه فارسی پست وبلاگ در مورد الزام تخلیه در موارد تخلیه اجاره وجود ندارد.</strong",
+            ],
+
+            İŞ_SÖZLEŞMESİNİN_İŞÇİ_TARAFINDAN_FESHİ:"فسخ قرارداد کار از سوی کارگر",
+            İŞ_SÖZLEŞMESİNİN_İŞÇİ_TARAFINDAN_FESHİ_kısa:"فسخ قرارداد کار از سوی کارگر (پایان دادن به قرارداد)، نتیجه حق آزادی کار و آزادی قراردادهاست که به موجب اصل ۴۸ قانون اساسی به کارگر اعطا شده است. هیچ کارگری نمی‌تواند برخلاف اراده خود مجبور به ادامه کار شود.",
+            İŞ_SÖZLEŞMESİNİN_İŞÇİ_TARAFINDAN_FESHİ_uzun:[
+                "فسخ قرارداد کار از سوی کارگر (پایان دادن به قرارداد)، نتیجه حق آزادی کار و آزادی قراردادهاست که به موجب اصل ۴۸ قانون اساسی به کارگر اعطا شده است. هیچ کارگری نمی‌تواند برخلاف اراده خود مجبور به ادامه کار شود.",
+                "<p></p>",
+                "فسخ از حیث ماهیت حقوقی، یک عمل حقوقی یک‌جانبه بوده و حقی نوآورانه و زایل‌کننده محسوب می‌شود که قرارداد را نسبت به آینده خاتمه می‌دهد. اعتبار این اعلام اراده منوط به قبول طرف مقابل نیست.",
+                "کارگر بسته به نوع قرارداد کار، می‌تواند از دو طریق اصلی قرارداد را فسخ کند:",
+                "<p></p>",
+
+                "<h6>۱. فسخ با رعایت مهلت اخطار (فسخ با اعلام قبلی)</h6>",
+                "فسخ با رعایت مهلت اخطار اصولاً در مورد قراردادهای کار با مدت نامعین کاربرد دارد. کارگر هنگام فسخ قرارداد، مکلف است مهلت‌های اخطار قانونی را متناسب با سابقه کاری خود رعایت کند (ماده ۱۷ قانون کار).",
+                "<strong>✦ فسخ غیرقانونی (نامنظم): </strong> چنانچه کارگر بدون وجود دلیل موجه و بدون رعایت مهلت‌های اخطار قانونی قرارداد کار را فسخ کند، این وضعیت فسخ غیرقانونی تلقی می‌شود. در این صورت، کارگر موظف است معادل دستمزد مربوط به مدت اخطار، به کارفرما غرامت اخطار بپردازد (ماده ۱۷/۴ قانون کار).\n" +
+                "•\tغرامت اخطار: از آنجا که غرامت اخطار، خسارتی است که طرف فسخ‌کننده باید به طرف مقا",
+                "<strong>✦ غرامت اخطار</strong> از آنجا که غرامت اخطار، خسارتی است که طرف فسخ‌کننده باید به طرف مقابل بپردازد، کارگر حتی در صورت فسخ با دلیل موجه نیز حق مطالبه غرامت اخطار را ندارد.",
+                "<p></p>",
+
+                "<h6>۲. فسخ فوری به دلیل موجه (فسخ بدون اخطار)</h6>",
+                "قرارداد کار، اعم از مدت‌دار یا نامعین، در صورت وجود دلیل موجه، می‌تواند از سوی کارگر بدون اعلام قبلی و به صورت فوری فسخ شود (ماده ۲۴ قانون کار؛ ماده ۴۳۵ قانون تعهدات ترکیه).",
+                "<p></p>",
+                "دلیل موجه به وضعیتی اطلاق می‌شود که بر اساس اصول حسن نیت، ادامه رابطه کاری از طرف فسخ‌کننده قابل انتظار نباشد (ماده ۴۳۵/۲ قانون تعهدات).",
+                "<p></p>",
+                "دلایل موجه‌ای که به کارگر حق فسخ فوری می‌دهد (ماده ۲۴ قانون کار) در سه دسته اصلی جمع‌آوری شده است:",
+
+                "<p></p>",
+
+                "<strong>۱. دلایل مربوط به سلامت</strong>",
+                "چنانچه انجام کار برای سلامت یا حیات کارگر خطرناک باشد، یا کارفرما یا کارگر دیگری به بیماری مسری یا ناسازگار با شغل مبتلا شود، کارگر می‌تواند قرارداد کار را فوراً فسخ کند.",
+                "<p></p>",
+
+                "<strong>۲. رفتارهای مغایر با اخلاق و حسن نیت و موارد مشابه (ماده ۲۴/II قانون کار)</strong>",
+                "این موارد محدود به تعداد معینی نیست و شامل کلیه رفتارهایی می‌شود که مغایر با تعهد صداقت و وفاداری کارفرماست. این دسته، شایع‌ترین علت اعمال حق فسخ موجه از سوی کارگر در عمل محسوب می‌شود.",
+                "<p></p>",
+
+                "<strong>۳. دلایل قهری</strong>",
+                "در صورت بروز حوادث قهری که موجب توقف کار در محل کار به مدت بیش از یک هفته شود، کارگر حق فسخ فوری قرارداد کار را خواهد داشت.",
+                "<p></p>",
+
+                "<h5>↩ التزام به دلیل فسخ و رویه دیوان عالی (Yargıtay)</h5>",
+                "چنانچه کارگر هنگام اعمال حق فسخ فوری، دلیل مشخصی را اعلام کرده باشد، در دعوای مطروحه نیز صرفاً به همان دلایل اعلامی پایبند خواهد بود و نمی‌تواند بعداً دلایل جدیدی مطرح کند.",
+                "<p></p>",
+
+                "<h5>↩ نمونه‌هایی از آرای دیوان عالی (فسخ موجه از سوی کارگر)</h5>",
+                "در رویه قضایی، بیشترین موارد اعمال فسخ موجه از سوی کارگر، ناشی از رفتارهای مغایر با اخلاق و حسن نیت کارفرما موضوع ماده ۲۴/II قانون کار است:",
+                "<p></p>",
+
+                "<strong>✦ عدم پرداخت یا پرداخت ناقص حقوق</strong>",
+                "عدم پرداخت حقوق، اضافه‌کاری، یا واریز حق بیمه تأمین اجتماعی بر مبنای دستمزد واقعی، از جمله دلایلی است که به کارگر حق فسخ موجه می‌دهد.",
+                "<p></p>",
+
+                "<strong>✦ اعتبار حقوقی صورت‌جلسات غیبت</strong>",
+                "کارفرما مکلف است ترک کار از سوی کارگر و قصد فسخ قرارداد را به‌طور قطعی و بدون ابهام اثبات کند. ترک کار کارگری که سال‌ها سابقه کار دارد بدون وجود دلیل موجه، خلاف جریان عادی زندگی تلقی می‌شود.",
+                "<strong>↩ نمونه:</strong> دیوان عالی تشخیص داده است که اگر ترک کار ناشی از عدم پرداخت اضافه‌کاری، تعطیلات هفتگی، تعطیلات رسمی یا مرخصی سالانه باشد، فسخ کارگر مبتنی بر دلیل موجه است.",
+                "<p></p>",
+
+                "<strong>✦ سخنان اخراج‌گونه کارفرما</strong>",
+                "استفاده کارفرما یا نماینده او از عباراتی نظیر «اگر خوشت نمی‌آید، کار نکن؛ در باز است» یا «قبول داری کار کن، قبول نداری نکن» و عدم حضور کارگر پس از آن، موجب بی‌اعتباری صورت‌جلسات غیبت شده و این وضعیت به‌عنوان فسخ از سوی کارفرما تلقی می‌شود.",
+                "<p></p>",
+
+                "<strong>✦ بیان ناقص دلیل فسخ</strong>",
+                "عدم ذکر دلیل فسخ در استعفانامه کتبی، موجب زوال دلایل موجه فسخ نمی‌شود و کارگر می‌تواند این دلایل را در دادخواست خود توضیح دهد.",
+                "<strong>↩ نمونه:</strong> دیوان عالی پذیرفته است که حتی در صورت عدم ذکر دلیل در استعفانامه، اگر در دادخواست به عدم پرداخت اضافه‌کاری یا اعلام دستمزد کمتر از واقع به بیمه اشاره شود، فسخ موجه محسوب می‌گردد.",
+                "<p></p>",
+
+                "<h6>. موارد خاص فسخ که موجب استحقاق حق سنوات (پاداش پایان کار) می‌شود</h6>",
+                "کارگری که بدون دلیل موجه و صرفاً با اراده شخصی قرارداد کار را فسخ می‌کند، اصولاً حق مطالبه حق سنوات را ندارد. با این حال، مطابق ماده ۱۴ قانون کار سابق شماره ۱۴۷۵ که همچنان لازم‌الاجراست، در برخی موارد خاص (با شرط حداقل یک سال سابقه)، کارگر مستحق دریافت حق سنوات می‌شود:",
+                "<p></p>",
+
+                "<h4>بازنشستگی یا مستمری سالمندی:</h4>",
+                "فسخ به‌منظور دریافت مستمری بازنشستگی، سالمندی، ازکارافتادگی یا پرداخت یک‌جای حق بیمه. حتی در صورت نرسیدن به سن بازنشستگی، تکمیل مدت بیمه و روزهای پرداخت حق بیمه (مثلاً ۱۵ سال و ۳۶۰۰ روز) کافی است.",
+                "<strong>↩</strong> کارگری که شرایط مدت بیمه و پرداخت حق بیمه را دارد، حتی اگر پس از فسخ در شغل دیگری مشغول شود، حق سنوات خود را از دست نمی‌دهد.",
+                "<p></p>",
+
+                "<h4>خدمت نظام وظیفه:</h4>",
+                "فسخ به دلیل انجام خدمت سربازی الزامی. معمولاً مانور یا سربازی کوتاه‌مدت مشمول این عنوان نمی‌شود.",
+                "<strong>↩</strong> مراجعه به خدمت نظام وظیفه تا دو ماه پس از فسخ، مدت معقول تلقی شده است.",
+                "<p></p>",
+
+                "<h4>ازدواج کارگر زن:</h4>",
+                "کارگر زن می‌تواند ظرف یک سال از تاریخ ازدواج، قرارداد را با اراده خود فسخ کند. این مهلت، مهلت سقوط حق است.",
+                "<strong>↩</strong> در این حالت، کارگر زن الزامی به رعایت مهلت اخطار ندارد. ازدواج پس از ترک کار، حقی ایجاد نمی‌کند.",
+                "<p></p>",
+
+                "<h4>مدیریت اتحادیه کارگری:</h4>",
+                "کارگری که برای تصدی سمت مدیریتی در تشکل کارگری از کار جدا می‌شود، قراردادش معلق می‌گردد. در صورت تمایل به فسخ، مستحق حق سنوات خواهد بود.",
+                "<strong>↩</strong> حق سنوات بر اساس آخرین دستمزد ناخالص مشمول مزایا در تاریخ فسخ محاسبه می‌شود.",
+                "<p></p>",
+
+                "کارگری که قرارداد کار را به دلیل موجه فسخ می‌کند (ماده ۲۴ قانون کار)، مستحق دریافت حق سنوات است؛ اما چون فسخ از سوی خود او صورت گرفته، حق مطالبه غرامت اخطار را ندارد.",
+                "<p></p>",
+            ],
+
+                İŞ_SÖZLEŞMESİNİN_İŞVEREN_TARAFINDAN_HAKLI_NEDENLE_DERHAL_FESHİ:
+                "فسخ فوری قرارداد کار توسط کارفرما به علت موجه\n",
+                İŞ_SÖZLEŞMESİNİN_İŞVEREN_TARAFINDAN_HAKLI_NEDENLE_DERHAL_FESHİ_kısa:
+                "فسخ فوری قرارداد کار توسط کارفرما به علت موجه، در ماده ۲۵ قانون کار شماره ۴۸۵۷ ترکیه تنظیم شده است. این اختیار به کارفرما در شرایط فوق‌العاده‌ای اعطا می‌شود که ادامه رابطه کاری بنا بر قواعد حسن نیت و صداقت عینی دیگر قابل انتظار نباشد. در این نوع فسخ، بدون رعایت مهلت‌های اخطار، قرارداد به‌صورت فوری خاتمه می‌یابد (فسخ بدون مدت).",
+                İŞ_SÖZLEŞMESİNİN_İŞVEREN_TARAFINDAN_HAKLI_NEDENLE_DERHAL_FESHİ_uzun: [
+                "فسخ فوری قرارداد کار توسط کارفرما به علت موجه، در ماده ۲۵ قانون کار شماره ۴۸۵۷ ترکیه تنظیم شده است. این اختیار به کارفرما در شرایط فوق‌العاده‌ای اعطا می‌شود که ادامه رابطه کاری بنا بر قواعد حسن نیت و صداقت عینی دیگر قابل انتظار نباشد. در این نوع فسخ، بدون رعایت مهلت‌های اخطار، قرارداد به‌صورت فوری خاتمه می‌یابد (فسخ بدون مدت).",
+                "<p></p>",
+                "فسخ فوری به علت موجه، از حیث آثار حقوقی نسبت به سایر انواع فسخ، سنگین‌تر است؛ زیرا در صورت استناد فسخ به علت موجه، کارگر مستحق دریافت خسارت اخطار (حق‌الاعلان) نخواهد بود. افزون بر این، در فسخ‌هایی که بر اساس بند (II) ماده ۲۵ قانون کار (مغایرت با اخلاق و قواعد حسن نیت) انجام می‌شود، کارگر حق دریافت مزایای پایان کار (حق سنوات) را نیز از دست می‌دهد.",
+                "<p></p>",
+                "دلایل فسخ فوری به علت موجه از سوی کارفرما، در ماده ۲۵ قانون کار تحت چهار عنوان اصلی جمع‌آوری شده است:",
+                "<strong>1.\tدلایل مربوط به سلامتی (ماده ۲۵/۱ قانون کار)</strong>",
+                "<strong>2.\tرفتارهای مغایر با اخلاق و قواعد حسن نیت و موارد مشابه (ماده ۲۵/II)</strong>",
+                "<strong>3.\tعلل قهری (ماده ۲۵/III)</strong>",
+                "<strong>4.\tبازداشت یا توقیف کارگر و تجاوز مدت غیبت از مهلت اخطار (ماده ۲۵/IV)</strong>",
+                "<p></p>",
+                "دلایل فسخ موجه در ماده ۲۵ به‌صورت حصری تعیین نشده است و به‌ویژه با استفاده از عبارت «و موارد مشابه» در پایان بند مربوط به مغایرت با اخلاق و حسن نیت، امکان توسعه این موارد وجود دارد. تشخیص موجه بودن فسخ، با توجه به میزان خدشه‌ای که به رابطه اعتماد بین طرفین وارد شده و این‌که آیا ادامه رابطه کاری بر اساس قواعد حسن نیت از کارفرما قابل انتظار است یا خیر، صورت می‌گیرد.",
+                "<p></p>",
+                "<h6>موارد مغایر با اخلاق و قواعد حسن نیت در پرتو آرای دیوان عالی (ماده ۲۵ II قانون کار)</h6>",
+                "بند (II) ماده ۲۵ قانون کار، به دلیل فراهم آوردن امکان فسخ بدون پرداخت غرامت برای کارفرما، مهم‌ترین و پرکاربردترین مبنای فسخ در عمل محسوب می‌شود. در ادامه، برخی از زیرعنوان‌های این بند همراه با نمونه‌هایی از رویه قضایی دیوان عالی ارائه می‌گردد:",
+                "<p></p>",
+                "<strong>1. فریب دادن کارفرما توسط کارگر (ماده ۲۵ II-a)</strong>",
+                "اگر کارگر در زمان انعقاد قرارداد کار، در خصوص نکات اساسی قرارداد، با ارائه اطلاعات نادرست یا ادعای داشتن ویژگی‌هایی که فاقد آن‌هاست، کارفرما را فریب دهد، این امر موجب فسخ موجه خواهد بود.",
+                "<p></p>",
+                "<strong>نمونه‌ها و رویه قضایی:</strong>",
+                "✦ عدم اعلام وجود دعوای کیفری علیه کارگر به دلیل استفاده غیرقانونی از دستگاه POS پیش از شروع به کار در بانک، فریب کارفرما تلقی شده است.",
+                "✦ دیوان عالی اعلام کرده است که اگر کارگری علی‌رغم اعلام عدم استعمال دخانیات در زمان انعقاد قرارداد، در محل کار اقدام به سیگار کشیدن نماید، این رفتار می‌تواند هم فریب کارفرما و هم نقض دستورالعمل‌ها تلقی شده و موجب فسخ موجه گردد.",
+                "<p></p>",
+                "<strong>2. توهین به شرف و حیثیت یا گزارش‌های کذب (ماده ۲۵ II-b)</strong>",
+                "بیان سخنان توهین‌آمیز نسبت به شرف و حیثیت کارفرما یا اعضای خانواده وی، یا طرح گزارش‌ها و اتهامات بی‌اساس و تحقیرکننده، از موجبات فسخ موجه است.",
+                "<p></p>",
+                "<strong>نمونه‌ها و رویه قضایی:</strong>",
+                "✦ توهین و فحاشی حتی در غیاب کارفرما، در صورتی که توسط سایر کارگران شنیده شود، دلیل فسخ محسوب می‌گردد.",
+                "✦ متهم کردن بی‌اساس کارفرما به فساد یا سوء‌استفاده مالی، موجب فسخ موجه است.",
+                "✦ حق انتقاد: اظهاراتی که در چارچوب انتقاد باقی بماند و جنبه افترا نداشته باشد، دلیل فسخ محسوب نمی‌شود.",
+                "<p></p>",
+                "<strong>3. آزار جنسی (ماده ۲۵ II-c)</strong>",
+                "ارتکاب آزار جنسی توسط کارگر نسبت به کارگر دیگر، حق فسخ فوری را برای کارفرما ایجاد می‌کند؛ چه این رفتار در داخل یا خارج از محل کار رخ داده باشد.",
+                "<p></p>",
+                "<strong>4. درگیری، حمله یا مصرف مواد (ماده ۲۵ II-d)</strong>",
+                "سوءرفتار، حمله یا حضور در محل کار در حالت مستی یا تحت تأثیر مواد مخدر، موجب فسخ موجه است.",
+                "<p></p>",
+                "<strong>5. رفتار مغایر با صداقت و وفاداری (ماده ۲۵ II-e)</strong>",
+                "سوءاستفاده از اعتماد، سرقت یا افشای اسرار حرفه‌ای یا تجاری کارفرما از موجبات فسخ موجه است.",
+                "<p></p>",
+                "<strong>6. اصرار بر عدم انجام وظیفه (ماده ۲۵ II-h)</strong>",
+                "اصرار کارگر بر عدم انجام وظایف محوله علی‌رغم تذکر، دلیل فسخ موجه است.",
+                "<p></p>",
+                "<strong>7. به خطر انداختن ایمنی کار یا وارد آوردن خسارت به اموال کارفرما (ماده ۲۵ II-ı)</strong>",
+                "اگر کارگر به‌صورت عمدی یا بر اثر سهل‌انگاری، ایمنی کار را به خطر اندازد یا خسارتی بیش از معادل دستمزد سی روزه وارد کند، فسخ موجه خواهد بود.",
+                "<p></p>",
+                "<h6>مهلت‌های سقوط حق فسخ</h6>",
+                "مطابق ماده ۲۶ قانون کار، حق فسخ باید حداکثر ظرف شش روز کاری از تاریخ اطلاع اعمال شود و در هر حال بیش از یک سال از تاریخ وقوع قابل استفاده نیست.",
+                "<p></p>",
+                "به‌عنوان یک تشبیه کوتاه: اختیار فسخ فوری به علت موجه در حقوق کار، همانند «آژیر خطر آتش‌سوزی» است. اگر آتش واقعاً آغاز نشده باشد، به صدا درآوردن آژیر، مسئولیت به دنبال خواهد داشت."
             ]
+
 
 
         },
@@ -2636,7 +2784,153 @@ $(function() {
                 "geçilmesini amaçlar. Sağlık çalışanlarının, bu hukuki korumanın varlığından haberdar olması \n" +
                 "ve herhangi bir soruşturma durumunda sürecin bu çerçevede işleyeceğini bilmesi, mesleki \n" +
                 "pratikte özgüveni korumak açısından kritik öneme sahiptir.",
-            ]
+            ],
+
+            İŞ_SÖZLEŞMESİNİN_İŞÇİ_TARAFINDAN_FESHİ:"İŞ SÖZLEŞMESİNİN İŞÇİ TARAFINDAN FESHİ",
+            İŞ_SÖZLEŞMESİNİN_İŞÇİ_TARAFINDAN_FESHİ_kısa:"İş sözleşmesinin işçi tarafından feshi (sona erdirilmesi), işçiye Anayasa'nın 48. maddesiyle tanınan çalışma ve sözleşme hürriyeti kapsamında dilediği zaman işten ayrılabilme hakkının bir sonucudur.",
+            İŞ_SÖZLEŞMESİNİN_İŞÇİ_TARAFINDAN_FESHİ_uzun:[
+                "İş sözleşmesinin işçi tarafından feshi (sona erdirilmesi), işçiye Anayasa'nın 48. maddesiyle tanınan çalışma ve sözleşme hürriyeti kapsamında dilediği zaman işten ayrılabilme hakkının bir sonucudur. Hiçbir işçi kendi iradesi dışında zorla çalışmasını sürdürmeye mecbur kılınamaz.",
+                "<p></p>",
+                "Fesih, hukuki niteliği itibarıyla tek taraflı bir hukuki işlem olup, sözleşmeyi geleceğe yönelik olarak sona erdiren bozucu yenilik doğuran bir haktır. Bu irade beyanının geçerliliği karşı tarafın kabulüne bağlı değildir.",
+                "<p></p>",
+                "İşçi, iş sözleşmesini türüne göre iki temel yolla feshedebilir:",
+                "<p></p>",
+                "<h6>1. Bildirimli Fesih (Süreli Fesih)</h6> ",
+                "Bildirimli fesih, kural olarak belirsiz süreli iş sözleşmeleri için geçerlidir. İşçi, sözleşmeyi feshederken kıdemine göre yasal olarak belirlenen ihbar önellerine uymak zorundadır (İş K. m. 17).",
+                "<strong>✦ Usulsüz Fesih: </strong> İşçi, haklı bir neden olmaksızın yasal bildirim sürelerine uymadan iş sözleşmesini feshederse, bu durum usulsüz fesih olarak nitelendirilir. Bu durumda, işçi bildirim süresine ilişkin ücret tutarında işverene ihbar tazminatı ödemekle yükümlü olur (İş K. m. 17/4). ",
+                "<strong>✦ İhbar Tazminatı: </strong> İş sözleşmesini fesheden tarafın karşı tarafa ödemesi gereken bir tazminat olması nedeniyle, işçi (haklı nedenle feshetmiş olsa bile) ihbar tazminatı talep edemez.",
+                "<p></p>",
+                "<h6>2. Haklı Nedenle Derhal Fesih (Bildirimsiz Fesih)</h6> ",
+                "İş sözleşmesi, ister belirli süreli ister belirsiz süreli olsun, feshin haklı kılan bir neden söz konusu olduğunda, işçi önceden bildirimde bulunmaksızın derhal feshedebilir (İş K. m. 24; TBK m. 435). Haklı neden, sözleşmeyi fesheden taraftan, dürüstlük kurallarına göre iş ilişkisini sürdürmesi beklenmeyen bütün durum ve koşullar olarak tanımlanır (TBK. m. 435/2).",
+                "İşçiye derhal fesih hakkı veren haklı nedenler (İş K. m. 24) üç ana başlıkta toplanmıştır:",
+                "<strong>1.\tSağlık Nedenleri: </strong> İşin yapılması işçinin sağlığı veya yaşayışı için tehlikeli olursa ya da işverenin veya başka bir işçinin bulaşıcı veya işiyle bağdaşmayan bir hastalığa tutulması.",
+                "<strong>2.\tAhlak ve İyiniyet Kurallarına Uymayan Haller ve Benzerleri (İş K. m. 24/II): </strong> Bu haller sınırlı sayıda olmayıp, işverenin doğruluk ve bağlılık borcuna aykırı davranışları kapsaması nedeniyle uygulamada sıkça karşılaşılır.",
+                "<strong>3.\tZorlayıcı Sebepler: </strong> İşçinin çalıştığı işyerinde bir haftadan fazla süre ile işin durmasını gerektirecek zorlayıcı sebeplerin ortaya çıkması.",
+                "<p></p>",
+                "<h5>↪ Haklı Nedenle Fesihte Hukuki Bağlılık ve Yargıtay Yaklaşımı</h5> ",
+                "İşçi, iş sözleşmesini bildirimsiz feshederken bir fesih nedeni beyan etmiş ise, açtığı davada beyan ettiği nedenler ile bağlıdır.",
+                "<p></p>",
+                "<p></p>",
+                "<h5>↪ Yargıtay Kararlarından Örnekler (İşçinin Haklı Feshi):</h5> ",
+                "İşçinin haklı nedenle fesih hakkını kullanmasında uygulamada en çok karşılaşılan durumlar, işverenin ahlak ve iyiniyet kurallarına aykırı davranışlarıdır (İş K. m. 24/II):",
+                "<p></p>",
+                "<strong>✦ Ücret Alacaklarının Ödenmemesi veya Eksik Ödenmesi: </strong> İşçinin ücretlerinin hiç veya eksik ödenmemesi, fazla çalışma (mesai) ücretlerinin ödenmemesi veya SGK primlerinin gerçek ücret üzerinden yatırılmaması gibi nedenler İş K. m. 24/II uyarınca işçiye haklı fesih hakkı verir.",
+                "<strong>✦ Devamsızlık Tutanaklarının Hukuki Değeri:</strong> İşverenin, işçinin işyerini terk etmesi nedeniyle sözleşmenin feshedildiğini kuşkuya yer vermeyecek şekilde kanıtlaması gerekir. Uzun yıllar çalışan bir işçinin haklı neden yok iken feshe bağlı haklarından vazgeçerek işten ayrılmış olması hayatın olağan akışına aykırı kabul edilir. ",
+                "<strong>↪ Örnek:</strong> Yargıtay, işçinin işi terk etmesinin ödenmeyen fazla mesai, hafta tatili, genel tatil ve yıllık izin alacaklarının bulunmasından kaynaklandığını tespit ettiğinde, işçinin feshinin haklı nedene dayandığına hükmetmiştir.",
+                "<strong>✦ İşverenin Kovma Tarzı Sözleri: </strong> İşveren veya vekilinin \"beğenmiyorsan çalışma, işte kapı\" veya \"kabul eden çalışır, kabul etmeyen çalışmaz\" şeklindeki sözlerinin ardından işçinin işe gelmemesi durumunda, işveren tarafından tutulan devamsızlık tutanaklarının hukuki değer taşımayacağına ve bu durumun işveren feshi olarak kabul edileceğine karar verilmiştir.",
+                "<strong>✦ Fesih Nedeninin Eksik Beyan Edilmesi:</strong> İşçinin istifa dilekçesinde fesih nedenini açıkça belirtmemesi, haklı fesih nedenlerini ortadan kaldırmaz. Bu hususlar, dava dilekçesi ile de açıklanabilir.",
+                "<strong>↪ Örnek:</strong> Yargıtay, işçinin yazılı istifa dilekçesinde sebep belirtmemesine rağmen, dava dilekçesinde fazla mesai ücretlerinin ödenmemesi ve sigortasının asgari ücret üzerinden gösterilmesi gibi haklı sebeplerin açıklanmasını kabul etmiş ve bu durumda iş sözleşmesinin haklı sebeple feshedildiği sonucuna varmıştır.",
+                "<p></p>",
+                "<h6>3. Kıdem Tazminatına Hak Kazandıran Özel Fesih Halleri</h6>",
+                "İş sözleşmesini haklı bir neden olmaksızın kendi serbest iradesiyle fesheden işçi kural olarak kıdem tazminatına hak kazanamaz. Ancak, mülga 1475 sayılı İş Kanunu’nun yürürlükte bulunan 14. maddesi uyarınca, bazı özel hallerde işçinin kıdem tazminatı talep etmesi mümkündür:",
+                "<p></p>",
+
+                "<h5>Yaşlılık Aylığı / Emeklilik Nedeniyle Fesih</h5>",
+                "<strong>↪ Koşullar ve Hukuki Sonuçlar:</strong> İşçi, bağlı bulunduğu sosyal güvenlik kurumundan yaşlılık, emeklilik veya malullük aylığı ya da toptan ödeme almak amacıyla iş sözleşmesini feshedebilir. Emeklilik yaşını doldurmamış olsa dahi, sigortalılık süresi (örneğin 15 yıl) ve prim ödeme gün sayısı (örneğin 3600 gün) tamamlanmışsa bu fesih kıdem tazminatına hak kazandırır.",
+                "<strong>↪ Yargıtay Uygulaması:</strong> Emeklilik için gerekli prim ve sigortalılık süresi şartlarını sağlayan işçinin, yaş koşulunu henüz tamamlamamış olsa dahi iş sözleşmesini feshetmesi halinde kıdem tazminatına hak kazandığı kabul edilmektedir. İşçinin fesih sonrasında başka bir işte çalışmaya başlaması da bu hakkı ortadan kaldırmaz.",
+                "<p></p>",
+
+                "<h5>Muvazzaf Askerlik Nedeniyle Fesih</h5>",
+                "<strong>↪ Koşullar ve Hukuki Sonuçlar:</strong> İşçinin muvazzaf askerlik hizmetini yerine getirmek amacıyla iş sözleşmesini feshetmesi halinde, kıdem tazminatına hak kazanması mümkündür. Ancak bedelli askerlik veya kısa süreli manevralar kural olarak bu kapsamda değerlendirilmez.",
+                "<strong>↪ Yargıtay Uygulaması:</strong> İşçinin askerlik nedeniyle yaptığı fesih ile fiilen askere sevk tarihi arasında makul bir süre bulunması gerekir. Yargıtay, fesihten yaklaşık iki ay sonra askere giden işçinin fesihini makul kabul etmiş ve kıdem tazminatı hakkını tanımıştır.",
+                "<p></p>",
+
+                "<h5>Kadın İşçinin Evlenmesi Nedeniyle Fesih</h5>",
+                "<strong>↪ Koşullar ve Hukuki Sonuçlar:</strong> Kadın işçi, evlendiği tarihten itibaren bir yıl içerisinde kendi isteğiyle iş sözleşmesini sona erdirirse kıdem tazminatına hak kazanır. Bu bir yıllık süre hak düşürücü süredir.",
+                "<strong>↪ Yargıtay Uygulaması:</strong> Kadın işçinin evlilik nedeniyle fesihte bulunurken ihbar öneline uyma yükümlülüğü bulunmamaktadır. İşten ayrıldıktan sonra evlenen kadın işçinin bu haktan yararlanması ise mümkün değildir.",
+                "<p></p>",
+
+                "<h5>Sendika Yöneticiliği Nedeniyle Fesih</h5>",
+                "<strong>↪ Koşullar ve Hukuki Sonuçlar:</strong> İşçi, bir işçi kuruluşunda yönetici olarak görev almak üzere çalıştığı işyerinden ayrıldığında iş sözleşmesi kural olarak askıya alınır. Ancak işçi dilerse sözleşmesini feshederek kıdem tazminatı talep edebilir.",
+                "<strong>↪ Yargıtay Uygulaması:</strong> Sendika yöneticiliği nedeniyle fesih halinde kıdem tazminatı, fesih tarihindeki son giydirilmiş brüt ücret esas alınarak ve işçinin tüm kıdem süresi dikkate alınarak hesaplanır.",
+                "<p></p>",
+
+            ],
+
+            İŞ_SÖZLEŞMESİNİN_İŞVEREN_TARAFINDAN_HAKLI_NEDENLE_DERHAL_FESHİ:"İŞ SÖZLEŞMESİNİN İŞVEREN TARAFINDAN \n" +
+                "HAKLI NEDENLE DERHAL FESHİ\n",
+            İŞ_SÖZLEŞMESİNİN_İŞVEREN_TARAFINDAN_HAKLI_NEDENLE_DERHAL_FESHİ_kısa:"İş sözleşmesinin işveren tarafından haklı nedenle derhal feshi, 4857 sayılı İş Kanunu'nun (İş K.) 25. maddesinde düzenlenmiş olup, iş ilişkisinin devamının dürüstlük kuralları gereği (objektif iyiniyet) beklenemeyecek hale geldiği olağanüstü durumlar için işverene tanınan bir yetkidir. Bu fesih türü, bildirim süreleri beklenmeksizin derhal uygulanır (süresiz fesih).",
+            İŞ_SÖZLEŞMESİNİN_İŞVEREN_TARAFINDAN_HAKLI_NEDENLE_DERHAL_FESHİ_uzun:[
+                "İş sözleşmesinin işveren tarafından haklı nedenle derhal feshi, 4857 sayılı İş Kanunu'nun (İş K.) 25. maddesinde düzenlenmiş olup, iş ilişkisinin devamının dürüstlük kuralları gereği (objektif iyiniyet) beklenemeyecek hale geldiği olağanüstü durumlar için işverene tanınan bir yetkidir. Bu fesih türü, bildirim süreleri beklenmeksizin derhal uygulanır (süresiz fesih).",
+                "<p></p>",
+                "Haklı nedenle derhal feshin, diğer fesih türlerine göre hukuki ağırlığı yüksektir, zira fesih haklı nedene dayanıyorsa, işçi ihbar tazminatına hak kazanamaz. Ayrıca, İş K. madde 25'in (II) numaralı bendine (ahlak ve iyiniyet kurallarına aykırılık) dayanarak yapılan fesihlerde, işçi kıdem tazminatı hakkını da kaybeder.",
+                "<p></p>",
+                "İşveren açısından haklı nedenle derhal fesih sebepleri İş K. madde 25'te dört ana başlık altında toplanmıştır:",
+                "<strong> 1.\tSağlık sebepleri (İş K. 25/I).</strong>",
+                "<strong> 2.\tAhlak ve iyiniyet kurallarına uymayan haller ve benzerleri (İş K. 25/II).</strong>",
+                "<strong> 3.\tZorlayıcı sebepler (İş K. 25/III).</strong>",
+                "<strong> 4.\tİşçinin gözaltına alınması veya tutuklanması halinde devamsızlığın bildirim süresini aşması (İş K. 25/IV).</strong>",
+                "<p></p>",
+                "Haklı fesih nedenlerinin neler olduğu İş K. 25'te sınırlı sayıda (tahdidi) olarak belirtilmemiş olup, özellikle ahlak ve iyiniyet kurallarına aykırılık hallerinin sonunda yer alan \"ve benzerleri\" ifadesiyle bu durumlar genişletilebilmektedir. Feshin haklı olup olmadığı, olayın taraflar arasındaki güven ilişkisini ne ölçüde zedelediği ve iş ilişkisinin devamının işverenden dürüstlük kuralları gereğince beklenip beklenemeyeceği dikkate alınarak tespit edilmelidir.",
+                "<p></p>",
+                "<h6>Yargıtay Kararları Işığında Ahlak ve İyiniyet Kurallarına Aykırılık Halleri (İş K. 25/II)</h6>",
+                "İş K. madde 25'in (II) numaralı bendi, işveren açısından tazminatsız fesih imkanı sağlaması nedeniyle en kritik ve uygulamada en çok karşılaşılan fesih sebebidir. İşte bu bentteki bazı alt başlıklar ve Yargıtay kararlarıyla desteklenen örnekler:",
+                "<p></p>",
+                "<strong>1. İşçinin İşvereni Yanıltması (İş K. 25/II-a)</strong>",
+                "İşçinin iş sözleşmesi yapılırken, sözleşmenin esaslı noktalarında kendisinde bulunmadığı halde bu vasıfların kendisinde bulunduğunu ileri sürerek veya gerçeğe uygun olmayan bilgilerle işvereni yanıltması haklı fesih nedenidir.",
+                "<p></p>",
+                "<strong>Örnekler ve Yargıtay İçtihatları:</strong>",
+                "✦ İşçinin, bankada çalışmaya başlamadan önce POS cihazını usulsüz olarak kullandığı iddiasıyla hakkında dava açıldığı olayını işverene bildirmemesi, işvereni yanıltma kapsamında değerlendirilmiştir.",
+                "✦ Yargıtay, işyerinde sigara içme yasağının bulunduğu ve işçinin iş sözleşmesi sırasında sigara kullanmadığını belirtmesine rağmen işyerinde sigara içmesinin, işvereni yanıltma ve talimatlara uymama nedeniyle haklı fesih nedeni doğurabileceğine karar vermiştir.",
+                "<p></p>",
+                "<strong>2. Şeref ve Namusa Dokunacak Sözler veya Asılsız İhbar (İş K. 25/II-b)</strong>",
+                "İşçinin, işveren veya aile üyelerinden birinin şeref ve namusuna dokunacak sözler sarf etmesi veya şeref ve haysiyet kırıcı asılsız ihbar ve isnatlarda bulunması haklı fesih nedenidir.",
+                "<p></p>",
+                "<strong>Örnekler ve Yargıtay İçtihatları:</strong>",
+                "<strong>✦ Hakaret ve Küfür: </strong> İşverenin gıyabında dahi olsa, diğer işçilerin duyacağı şekilde hakaret ve küfür içerikli sözler sarf edilmesi fesih nedenidir.",
+                "<strong>✦ Asılsız İhbarlar: </strong> İşçinin, işvereni yolsuzlukla veya usulsüzlükle suçlaması gibi şeref ve haysiyet kırıcı, dayanaksız asılsız ihbar ve isnatlarda bulunması haklı fesih nedenini oluşturur.",
+                "<strong>✦ Eleştiri Hakkı: </strong> Eleştiri sınırları içinde kalan ve iftira niteliği taşımayan söz ve davranışlar, fesih için haklı veya geçerli bir neden teşkil etmez. Yargıtay, işçinin amirine karşı \"ihaleleri geciktiriyorsunuz, bize dört yıl kaybettirdiniz\" şeklindeki beyanını hakaret veya saygısızlık niteliğinde olmayıp, eleştiri olarak değerlendirmiş ve bu nedenle yapılan feshi geçersiz bulmuştur.",
+                "<p></p>",
+                "<strong>3. Cinsel Taciz (İş K. 25/II-c)</strong> ",
+                "İşçinin, işverenin başka bir işçisine cinsel tacizde bulunması, işverene derhal fesih hakkı verir. Cinsel tacizin işyeri içinde veya dışında gerçekleşmiş olması önemli değildir.",
+                "<p></p>",
+                "<strong>Örnekler ve Yargıtay İçtihatları:</strong>",
+                "<strong>✦ Tacizin İspatı:</strong> Cinsel tacize uğradığı ileri sürülen mağdurun, adli makamlara şikâyet etmemiş olması, işverenin derhal fesih hakkını ortadan kaldırmaz. İşverenin fesih hakkını kullanabilmesi için ceza yargılaması sonucunda kesinleşmiş bir mahkumiyet hükmü şart değildir.",
+                "<strong>✦ Taciz Aşamasına Varmayan Davranışlar:</strong> Bayan çalışanların soyunma odalarının gözetlenmesi gibi eylemler haklı fesih nedenidir. Taciz aşamasına varmayan, ancak uygunsuz sayılabilecek davranışlar (örneğin ısrarlı telefon etme, yemeğe davet etme), haklı neden değil, geçerli neden oluşturabilir.",
+                "<p></p>",
+                "<strong>4. Sataşma veya Madde Kullanımı (İş K. 25/II-d)</strong> ",
+                "İşçinin, işverene, aile üyelerinden birine veya başka bir işçisine sataşması veya işyerine sarhoş yahut uyuşturucu madde almış olarak gelmesi ya da işyerinde bu maddeleri kullanması haklı fesih sebebidir. İşyerinde alkol tüketiminin sarhoşluk boyutuna varmamış olması dahi fesih nedenidir.",
+                "<p></p>",
+                "<strong>Örnekler ve Yargıtay İçtihatları:</strong>",
+                "<strong>✦ Sataşma:</strong> İşçinin işyerinde diğer işçilere hakaret ve küfürlü sözler sarf etmesi haklı fesih nedenidir. Tahrik altında kavga veya hakaret eylemine karışan işçinin sözleşmesi de, işverenin eşit işlem borcuna uygun davranması şartıyla feshedilebilir.",
+                "<strong>✦ İşyeri Dışında Sataşma: </strong> İşyerinde çalışan başka bir işçiyi gece vakti parka çağırarak kavga etmesi, işyeri dışında olsa bile derhal fesih hakkı verir.",
+                "<strong>✦ Sarhoşluk:</strong> LPG tanker şoförünün araç kullanırken cep telefonu ile konuşması gibi iş güvenliğini tehlikeye düşürme eylemleri.",
+                "<strong>✦ Tekrar Yaptırım Uygulanmaması İlkesi: </strong> İşçinin aynı eyleminden dolayı daha önce ihtar veya başka bir disiplin yaptırımı uygulanmışsa, aynı eylemden dolayı ikinci kez sözleşme feshedilemez (ikinci ceza verilemez). Feshin geçerli kabul edilmesi için, son olayla ilgili fesih dışında herhangi bir disiplin yaptırımının uygulanmamış olması gerekir.",
+                "<p></p>",
+                "<strong>5. Doğruluk ve Bağlılığa Uymayan Davranışlar (İş K. 25/II-e)</strong> ",
+                "İşçinin, işverenin güvenini kötüye kullanmak, hırsızlık yapmak, işverenin meslek sırlarını ortaya atmak gibi doğruluk ve bağlılığa (sadakat borcuna) uymayan davranışlarda bulunması haklı fesih nedenidir.",
+                "<p></p>",
+                "<strong>Örnekler ve Yargıtay İçtihatları:</strong>",
+                "<strong>✦ Raporluyken Çalışma: </strong> İşçinin raporlu olduğu sürede, rakip olabilecek başka bir işyerinde çalışması haklı fesih sebebidir.",
+                "<strong>✦ Güveni Kötüye Kullanma: </strong> Güvenlik görevlisinin, izinsiz olarak işyerine ait eşyayı (hırsızlık olmasa bile) işyeri dışına çıkarması, işverenin güvenini temelinden sarstığı için fesih nedenidir.",
+                "<strong>✦ İş Sırlarının İhlali: </strong> Meslek sırları, imalat sırlarını, ticaret sırlarını, işverene ait teknik hususları, mali ilişkileri ve müşteri portföyü gibi kavramları kapsar.",
+                "<p></p>",
+                "<strong>6. Görevi Yapmamakta Israr Etmesi (İş K. 25/II-h)</strong> ",
+                "İşçinin, yapmakla ödevli bulunduğu görevleri kendisine hatırlatıldığı halde yapmamakta ısrar etmesi. 1475 sayılı Kanun döneminden farklı olarak, 4857 sayılı Kanun ile fesih için \"ısrar etme\" şartı getirilmiştir.",
+                "<p></p>",
+                "<strong>Örnekler ve Yargıtay İçtihatları:</strong>",
+                "<strong>✦ Israrın Niteliği: </strong> Israr, hatırlatmanın ardından devamlılık arz etmelidir. Sadece bir kez görevi yapmama yeterli sayılmamalıdır.",
+                "<strong>✦ İş Kalitesinde Israr: </strong> İşçinin işini uyarılara rağmen eksik, kötü veya yetersiz olarak yerine getirmekte ısrar etmesi haklı neden iken; hiç yerine getirmemekte ısrar etmesi ise haklı fesih nedenidir. Yargıtay, ısrar şartının oluşmadığı durumlarda dahi, işin yürütümünü önemli ölçüde olumsuz etkilediği gerekçesiyle feshin geçerli nedene dayandığını kabul edebilmektedir.",
+                "<p></p>",
+                "<strong>7. İş Güvenliğini Tehlikeye Düşürme veya İşverenin Malına Zarar Verme (İş K. 25/II-ı)</strong> ",
+                "İşçinin kendi isteği (kasıt) veya savsaması (ihmal) yüzünden işin güvenliğini tehlikeye düşürmesi veya işverenin malına otuz günlük ücretinin tutarıyla ödeyemeyecek derecede hasara ve kayba uğratması.",
+                "<p></p>",
+                "<strong>Örnekler ve Yargıtay İçtihatları:</strong>",
+                "<strong>✦ Mala Zarar: </strong> Ortaya çıkan zararın, işçinin otuz günlük brüt ücreti üzerinden hesaplanması gerektiği kabul edilmektedir.",
+                "<strong>✦ Zararın Karşılanması: </strong> Zarar tutarının 30 günlük ücreti aşması durumunda, işçinin zararı ödemiş ya da ödeyecek olması dahi işverenin fesih hakkını ortadan kaldırmaz.",
+                "<strong>✦ Zararın Tespiti: </strong> Zararın otuz günlük ücretin tutarından az olduğu durumlarda, fesih haklı nedene dayanmaz; ancak bu davranış işyerinde olumsuzluklara yol açmışsa, geçerli fesih nedeni olarak kabul edilir.",
+                "<p></p>",
+                "<h6>Hak Düşürücü Süreler</h6>",
+                "İşveren, İş K. 25/II'de yer alan ahlak ve iyiniyet kurallarına aykırılık hallerine dayanarak fesih hakkını kullanırken iki hak düşürücü süreye uymak zorundadır (İş K. 26):",
+                "<p></p>",
+                "<strong>1.\tFesih yetkisi, diğer tarafın bu çeşit davranışlarda bulunduğunu öğrendiği günden başlayarak altı iş günü geçtikten sonra kullanılamaz.</strong>",
+                "<strong>2.\tVe her halde fiilin gerçekleşmesinden itibaren bir yıl sonra kullanılamaz.</strong>",
+                "<p></p>",
+                "<strong>İstisna:</strong> İşçinin olayda maddi çıkar sağlaması halinde ise bir yıllık süre uygulanmaz. Bu durumda sadece altı iş günlük süreye uyulması yeterlidir.",
+                "<p></p>",
+                "Kısa bir benzetme yapmak gerekirse, haklı nedenle derhal fesih yetkisi, iş ilişkisi hukukunda bir \"yangın alarmı\" gibidir. İşverenin bu alarmı çalabilmesi için yangının (haklı nedenin) gerçekten başlamış olması ve durumun itfaiye (mahkeme) gelene kadar beklenemeyecek kadar kritik (güven temelini çökerten) olması gerekir. Aksi takdirde, alarmı haksız yere çalan işveren, bunun sonuçlarına katlanmak zorunda kalır.",
+            ],
+
 
 
 
@@ -2766,25 +3060,65 @@ $(function() {
         // }
         // mailChimp();
 
-        var nav_offset_top = $('header').height() + 50;
+        var nav_offset_top = $('header').height() + 150;
         /*-------------------------------------------------------------------------------
           Navbar
         -------------------------------------------------------------------------------*/
 
         //* Navbar Fixed
+
         function navbarFixed() {
             if ($('.header_area').length) {
+                var headerArea = $(".header_area");
+                var lastScroll = 0;
+                var ticking = false;
+
                 $(window).scroll(function () {
-                    var scroll = $(window).scrollTop();
-                    if (scroll >= nav_offset_top) {
-                        $(".header_area").addClass("navbar_fixed");
-                    } else {
-                        $(".header_area").removeClass("navbar_fixed");
+                    if (!ticking) {
+                        window.requestAnimationFrame(function () {
+                            var scroll = $(window).scrollTop();
+
+                            // Yukarı/aşağı scroll yönünü kontrol et
+                            var scrollingDown = scroll > lastScroll;
+                            lastScroll = scroll;
+
+                            if (scroll >= nav_offset_top) {
+                                if (!headerArea.hasClass("navbar_fixed")) {
+                                    // Aşağı kaydırırken
+                                    if (scrollingDown) {
+                                        headerArea.addClass("navbar_fixed")
+                                            .css({
+                                                'transform': 'translateY(-100%)'
+                                            });
+
+                                        setTimeout(function() {
+                                            headerArea.css({
+                                                'transform': 'translateY(0)'
+                                            });
+                                        }, 10);
+                                    } else {
+                                        // Yukarı kaydırırken
+                                        headerArea.addClass("navbar_fixed")
+                                            .css({
+                                                'transform': 'translateY(0)'
+                                            });
+                                    }
+                                }
+                            } else {
+                                headerArea.removeClass("navbar_fixed")
+                                    .css({
+                                        'transform': 'translateY(0)'
+                                    });
+                            }
+
+                            ticking = false;
+                        });
+                        ticking = true;
                     }
                 });
             }
-            ;
-        };
+        }
+
         navbarFixed();
 
         if ($('.blog-slider').length) {
