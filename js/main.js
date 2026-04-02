@@ -1544,7 +1544,40 @@ $(function() {
                     "<strong>خلاصه </strong> در کار شبانه، قاعده این است که حتی اگر ۴۵ ساعت کار هفتگی تکمیل نشده باشد، هر ساعت کار بیش از ۷٫۵ ساعت، اضافه‌کاری محسوب شده و باید حداقل با افزایش پنجاه درصدی پرداخت گردد؛ با حفظ استثنائات و ممنوعیت‌های قانونی.",
                 ],
 
-
+            mahkeme_karari_belgeleri:"رأی دادگاه",
+            YOK_Denklik_Iptali_Davasinda_Emsal_Karar:"رأی وحدت رویه در دعوای ابطال معادل‌سازی YÖK: دادگاه 10 اداری آنکارا حکم به ابطال تصمیم YÖK داد",
+            YOK_Denklik_Iptali_Davasinda_Emsal_Karar_kısa:"دادگاه اداری دهم آنکارا، در خصوص گواهی معادل‌سازی که سال‌ها بعد توسط شورای آموزش عالی (YÖK) با استناد به «آموزش از راه دور» لغو شده بود، حکم به ابطال صادر کرده است. این رأی از حیث حفظ ثبات اداری و حمایت از حقوق مکتسبه اهمیت بسزایی دارد.",
+            YOK_Denklik_Iptali_Davasinda_Emsal_Karar_uzun:
+                [
+                    "در سال‌های اخیر، تصمیمات ابطال معادل‌سازی مدارک تحصیلی خارجی که پس از گذشت زمان صادر می‌شوند، موجب بروز اختلافات حقوقی مهمی برای بسیاری از دانشگاهیان و فارغ‌التحصیلان شده است. رأی اخیر صادره از سوی دادگاه اداری دهم آنکارا، به‌عنوان یک رویه قضایی مهم و قابل استناد در دعاوی مربوط به ابطال معادل‌سازی YÖK مطرح شده است.",
+                    "<p></p>",
+                    "در این نوشتار، رأی مذکور را از منظر حقوقی بررسی می‌کنیم.",
+                    "<p></p>",
+                    "دادگاه 10 اداری آنکارا، در خصوص گواهی معادل‌سازی که سال‌ها بعد توسط شورای آموزش عالی (YÖK) با استناد به «آموزش از راه دور (غیرحضوری)» لغو شده بود، حکم به ابطال صادر کرده است. این رأی از حیث حفظ ثبات اداری و حمایت از حقوق مکتسبه اهمیت بسزایی دارد.",
+                    "<p></p>",
+                    "<h6>موضوع دعوا: ابطال معادل‌سازی پس از گذشت سال‌ها</h6>",
+                    "در پرونده مورد اختلاف، خواهان برای مدرک کارشناسی رشته مدیریت دولتی خود از دانشگاه پیام نور ایران به شورای آموزش عالی (YÖK) درخواست داده و در سال ۲۰۲۲ موفق به اخذ گواهی رسمی معادل‌سازی شده است.",
+                    "<p></p>",
+                    "با این حال، YÖK در سال ۲۰۲۵ پس از بررسی مجدد، با این استدلال که نظام آموزشی دانشگاه ماهیت آموزش از راه دور دارد، گواهی معادل‌سازی صادرشده قبلی را لغو و درخواست را رد کرده است.",
+                    "<p></p>",
+                    "متعاقب این اقدام، دعوای ابطال مطرح گردیده است.",
+                    "<p></p>",
+                    "<h6>دلایل ابطال از سوی دادگاه</h6>",
+                    "دادگاه 10 اداری آنکارا در نتیجه بررسی‌های خود، اقدام YÖK را به دلایل اساسی زیر خلاف قانون تشخیص داده است:",
+                    "<p></p>",
+                    "<strong>اصل ثبات اداری:</strong> اداره نمی‌تواند همواره اشتباهات خود در تصمیمات را بازپس گیرد. اگر مدت زمان طولانی از صدور تصمیم گذشته باشد و تقصیر یا فریبی از سوی شخص وجود نداشته باشد، این تصمیم باید در چارچوب اصل «ثبات اداری» حفظ شود.",
+                    "<p></p>",
+                    "<strong>عدم وجود تقلب یا اظهار خلاف واقع:</strong> در رأی دادگاه تصریح شده است که در زمان صدور گواهی معادل‌سازی، هیچ‌گونه اظهار خلاف واقع یا تقلبی از سوی خواهان صورت نگرفته است.",
+                    "<p></p>",
+                    "<strong>عدم تحقق شرایط خطای آشکار:</strong> YÖK پیش از صدور گواهی، با سفارت ترکیه در تهران مکاتبه کرده و بر اساس اطلاعاتی مبنی بر «حضوری/ترکیبی» بودن آموزش، معادل‌سازی را صادر کرده است. دادگاه حکم داده است که اداره نمی‌تواند پس از انجام تمامی بررسی‌ها و صدور تصمیم، سال‌ها بعد صرفاً با تغییر نظر خود، به بهانه «وقوع خطای آشکار» از تصمیم قبلی بازگردد.",
+                    "<p></p>",
+                    "<strong>اصل امنیت حقوقی:</strong> اعتماد اشخاص به تصمیمات اداری و تنظیم زندگی خود بر اساس آن‌ها، از الزامات دولت حقوقی است. فعالیت‌های علمی و تدریس خواهان در ترکیه بر پایه این معادل‌سازی نیز بخشی از این اعتماد محسوب می‌شود.",
+                    "<p></p>",
+                    "<h6>نتیجه</h6>",
+                    "دادگاه با رأی مورخ ۳۰/۰۳/۲۰۲۶، به اتفاق آرا اعلام کرده است که: تصمیم ابطال مورد دعوا خلاف قانون است، گواهی معادل‌سازی معتبر می‌باشد.",
+                    "<p></p>",
+                    "<strong>یادداشت حقوقی:</strong> در فرآیند معادل‌سازی مدارک تحصیلی خارجی، تصمیمات یک‌جانبه اداری مبنی بر ابطال، در چارچوب اصول «ثبات اداری» و «حقوق مکتسبه» تحت نظارت قضایی قرار دارند. افرادی که با موارد مشابه مواجه هستند، باید در مهلت‌های قانونی نسبت به طرح دعوا اقدام نمایند؛ این امر از اهمیت اساسی برخوردار است.",
+                ],
 
         },
         tr: {
@@ -3251,6 +3284,39 @@ $(function() {
 
 
 
+
+            mahkeme_karari_belgeleri:"Mahkeme Kararı",
+            YOK_Denklik_Iptali_Davasinda_Emsal_Karar:"YÖK Denklik İptali Davasında Emsal Karar: Ankara 10. İdare Mahkemesi İptal Kararı Verdi",
+            YOK_Denklik_Iptali_Davasinda_Emsal_Karar_kısa:"Ankara 10. İdare Mahkemesi, YÖK tarafından yıllar sonra 'açık öğretim' gerekçesiyle iptal edilen denklik belgesine ilişkin iptal kararı vermiştir. Bu karar, idari istikrar ve kazanılmış hakların korunması açısından büyük önem taşımaktadır.",
+            YOK_Denklik_Iptali_Davasinda_Emsal_Karar_uzun:
+                [
+                    "Yurtdışı diploma denklik süreçlerinde sonradan verilen iptal kararları, son yıllarda birçok akademisyen ve mezun açısından önemli hukuki uyuşmazlıklara yol açmaktadır. Ankara 10. İdare Mahkemesi tarafından verilen güncel bir karar, YÖK denklik iptali davaları bakımından emsal niteliği taşıyan önemli bir içtihat ortaya koymuştur. Bu yazımızda, söz konusu mahkeme kararını hukuki boyutlarıyla değerlendiriyoruz.",
+                    "<p></p>",
+                    "Ankara 10. İdare Mahkemesi, Yükseköğretim Kurulu (YÖK) tarafından yıllar sonra \"açık öğretim\" gerekçesiyle iptal edilen denklik belgesine ilişkin iptal kararı vermiştir. Bu karar, idari istikrar ve kazanılmış hakların korunması açısından büyük önem taşımaktadır.",
+                    "<p></p>",
+                    "<h6>Davanın Konusu: Yıllar Sonra Gelen Denklik İptali</h6>",
+                    "Uyuşmazlık konusu olayda, davacı İran Peyam-ı Nur Üniversitesi Kamu Yönetimi lisans diploması için Yükseköğretim Kurulu'na (YÖK) başvurmuş ve 2022 yılında resmi denklik belgesi almıştır.",
+                    "<p></p>",
+                    "Ancak YÖK, 2025 yılında yaptığı yeniden inceleme sonucunda, üniversitenin eğitim modelinin açık öğretim niteliğinde olduğu gerekçesiyle daha önce verdiği denklik belgesini iptal etmiş ve başvuruyu reddetmiştir.",
+                    "<p></p>",
+                    "Bu işlem üzerine iptal davası açılmıştır.",
+                    "<p></p>",
+                    "<h6>Mahkemenin İptal Gerekçeleri</h6>",
+                    "Ankara 10. İdare Mahkemesi, yaptığı inceleme neticesinde YÖK'ün iptal işlemini şu temel gerekçelerle hukuka aykırı bulmuştur:",
+                    "<p></p>",
+                    "<strong>İdari İstikrar İlkesi:</strong> İdare, tesis ettiği işlemlerdeki hataları her zaman geri alamaz. Eğer işlem üzerinden uzun zaman geçmişse ve kişinin bir hilesi yoksa, \"idari istikrar\" gereği bu işlem korunmalıdır.",
+                    "<p></p>",
+                    "<strong>Hile veya Yanlış Beyan Yokluğu:</strong> Kararda, denklik belgesi verilirken müvekkilin herhangi bir gerçeğe aykırı beyanı veya hilesinin bulunmadığı tespit edilmiştir.",
+                    "<p></p>",
+                    "<strong>Açık Hata Koşullarının Oluşmaması:</strong> YÖK, belgeyi vermeden önce Tahran Büyükelçiliği ile yazışmış ve eğitimin \"karma/örgün\" olduğu bilgisi üzerine denklik vermiştir. Mahkeme, idarenin tüm araştırmaları yaparak verdiği bir karardan, yıllar sonra görüş değiştirerek \"açık hata yaptık\" diyerek dönemeyeceğine hükmetmiştir.",
+                    "<p></p>",
+                    "<strong>Hukuki Güvenlik:</strong> Kişilerin, idarenin aldığı kararlara güvenerek hayatlarını şekillendirmeleri hukuk devletinin bir gereğidir. Müvekkilin bu denklikle Türkiye'de akademik faaliyetler yürütmesi ve dersler vermesi de bu güvenin bir parçasıdır.",
+                    "<p></p>",
+                    "<h6>Sonuç</h6>",
+                    "Mahkeme, 30/03/2026 tarihli kararıyla; davaya konu iptal işleminin hukuka aykırı olduğuna, denklik belgesinin geçerli olduğuna oybirliğiyle karar vermiştir.",
+                    "<p></p>",
+                    "<strong>Hukuki Not:</strong> Yurtdışından alınan diplomaların denkliği süreçlerinde idarenin tek taraflı iptal işlemleri, \"idari istikrar\" ve \"kazanılmış hak\" ilkeleri çerçevesinde yargı denetimine tabidir. Benzer mağduriyetler yaşayan ilgililerin yasal süreler içerisinde dava yoluna başvurmaları kritik önem arz etmektedir.",
+                ],
 
             // Diğer diller buraya eklenebilir...
         },

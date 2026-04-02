@@ -2718,6 +2718,9 @@ h3, .h3 {
 }
 #team-img{
   max-width: 300px !important;
+  height: 300px !important;
+  object-fit: cover !important;
+  object-position: top !important;
   border-radius: 50% !important;
 }
 
