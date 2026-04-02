@@ -176,8 +176,36 @@
   </section>
 
   <!-- Karar Lightbox -->
+  <style>
+    @media (max-width: 768px) {
+      #kararPrev, #kararNext {
+        top: auto !important;
+        bottom: 20px !important;
+        transform: none !important;
+        width: 40px !important;
+        height: 40px !important;
+        font-size: 26px !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        line-height: 1 !important;
+        padding-bottom: 2px !important;
+      }
+      #kararPrev {
+        left: auto !important;
+        right: calc(50% + 30px) !important;
+      }
+      #kararNext {
+        right: auto !important;
+        left: calc(50% + 30px) !important;
+      }
+      #kararCounter {
+        bottom: 26px !important;
+      }
+    }
+  </style>
   <div id="kararLightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); z-index:99999; justify-content:center; align-items:center;">
-    <img id="kararLightboxImg" src="" alt="" style="max-width:90%; max-height:90%; object-fit:contain;">
+    <img id="kararLightboxImg" src="" alt="" style="max-width:90%; max-height:90%; object-fit:contain; touch-action:pinch-zoom;">
     <!-- Çarpı (kapat) butonu -->
     <div id="kararClose" style="position:fixed; top:20px; right:25px; width:45px; height:45px; background:rgba(255,255,255,0.2); border:2px solid #fff; border-radius:50%; color:#fff; font-size:28px; line-height:41px; text-align:center; cursor:pointer; z-index:100000;">&times;</div>
     <!-- Sol ok -->
@@ -313,6 +341,81 @@
           if (e.key === 'ArrowRight') { $('#kararNext').click(); }
         }
       });
+
+      // Mobil swipe + pinch zoom desteği
+      var touchStartX = 0;
+      var touchEndX = 0;
+      var initialDist = 0;
+      var currentScale = 1;
+      var img = document.getElementById('kararLightboxImg');
+
+      // Fotoğraf üzerinde pinch zoom
+      $('#kararLightboxImg').on('touchstart', function(e) {
+        var touches = e.originalEvent.touches;
+        if (touches.length === 2) {
+          initialDist = Math.hypot(
+            touches[0].pageX - touches[1].pageX,
+            touches[0].pageY - touches[1].pageY
+          );
+        }
+      });
+
+      $('#kararLightboxImg').on('touchmove', function(e) {
+        var touches = e.originalEvent.touches;
+        if (touches.length === 2 && initialDist > 0) {
+          e.preventDefault();
+          var newDist = Math.hypot(
+            touches[0].pageX - touches[1].pageX,
+            touches[0].pageY - touches[1].pageY
+          );
+          var scale = Math.min(Math.max(currentScale * (newDist / initialDist), 1), 4);
+          img.style.transform = 'scale(' + scale + ')';
+        }
+      });
+
+      $('#kararLightboxImg').on('touchend', function(e) {
+        if (initialDist > 0) {
+          var matrix = window.getComputedStyle(img).transform;
+          if (matrix && matrix !== 'none') {
+            var values = matrix.split('(')[1].split(')')[0].split(',');
+            currentScale = parseFloat(values[0]);
+          }
+          if (currentScale <= 1.05) {
+            currentScale = 1;
+            img.style.transform = 'scale(1)';
+          }
+          initialDist = 0;
+        }
+      });
+
+      // Swipe (lightbox arka planında tek parmak)
+      $('#kararLightbox').on('touchstart', function(e) {
+        if (e.originalEvent.touches.length === 1) {
+          touchStartX = e.originalEvent.touches[0].screenX;
+        }
+      });
+
+      $('#kararLightbox').on('touchend', function(e) {
+        if (currentScale <= 1.05 && e.originalEvent.changedTouches.length === 1 && initialDist === 0) {
+          touchEndX = e.originalEvent.changedTouches[0].screenX;
+          var diff = touchStartX - touchEndX;
+          if (Math.abs(diff) > 50) {
+            if (diff > 0) {
+              $('#kararNext').click();
+            } else {
+              $('#kararPrev').click();
+            }
+          }
+        }
+      });
+
+      // Sayfa değişince zoom'u sıfırla
+      var origShowKarar = showKarar;
+      showKarar = function(index) {
+        currentScale = 1;
+        img.style.transform = 'scale(1)';
+        origShowKarar(index);
+      };
     });
   </script>
 </body>
