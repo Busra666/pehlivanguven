@@ -4,7 +4,13 @@
       "Bash(ls \"C:/Users/busra/OneDrive/Masaüstü/Web Sitesi/Pehlivan&GüvenHukukBürosu/eren/19082024/lawride-master/\"blog2*.html)",
       "Bash(pip install:*)",
       "Bash(C:/Users/busra/AppData/Local/Microsoft/WindowsApps/python.exe -m pip install python-docx)",
-      "Bash(powershell:*)"
+      "Bash(powershell:*)",
+      "Bash(python3 update_seo.py)",
+      "Bash(ls *.html)",
+      "Bash(grep -l \"social-share\" blog[0-9]*.html)",
+      "Bash(python3 -c \"import docx; print\\('ok'\\)\")",
+      "Bash(python3 -m pip install python-docx)",
+      "Bash(npx mammoth *)"
     ]
   }
 }

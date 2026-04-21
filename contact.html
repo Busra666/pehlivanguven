@@ -1,6 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D6YEHVYLDV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-D6YEHVYLDV");
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -34,8 +42,8 @@
 
 <!-- Whatsapp butonu (ikon ile) -->
 <div class="whatsapp-icon">
-  <a id="whatsappButton" class="whatsappButton" href="https://wa.me/05543039854" target="_blank">
-    <img src="img/whatsapp.png" alt="WhatsApp" class="whatsapp-icon-img">
+  <a id="whatsappButton" class="whatsappButton" href="https://wa.me/905543039854?text=Merhaba%2C%20web%20sitenizden%20ula%C5%9F%C4%B1yorum.%20Hukuki%20dan%C4%B1%C5%9Fmanl%C4%B1k%20almak%20istiyorum." target="_blank">
+    <img loading="lazy" src="img/whatsapp.png" alt="WhatsApp" class="whatsapp-icon-img">
   </a>
 </div>
 
@@ -48,7 +56,7 @@
 <header class="header_area">
   <div class="main_menu">
     <!--================ Header Top Area Start =================-->
-    <section class="header-top d-none d-sm-block">
+    <section class="header-top">
       <div class="container">
         <div class="d-sm-flex justify-content-between align-items-center">
           <ul class="header-top__info mb-2 mb-sm-0">
@@ -64,13 +72,13 @@
               <!-- Farsça butonu (İran bayrağı) -->
               <li>
                 <a href="#" class="lang-select" data-lang="fa">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Farsça" style="width: 20px; height: 14px;">
+                  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Farsça" style="width: 20px; height: 14px;">
                 </a>
               </li>
               <!-- Türkçe butonu (Türkiye bayrağı) -->
               <li>
                 <a href="#" class="lang-select" data-lang="tr">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türkçe" style="width: 20px; height: 14px;">
+                  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türkçe" style="width: 20px; height: 14px;">
                 </a>
               </li>
             </ul>
@@ -82,7 +90,7 @@
     <!--================ Header Top Area end =================-->
     <nav class="navbar navbar-expand-lg navbar-light">
       <div class="container box_1620">
-        <a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+        <a class="navbar-brand logo_h" href="index.html"><img loading="lazy" src="img/logo.png" alt="Pehlivan ve Güven Hukuk Bürosu Logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
@@ -97,6 +105,7 @@
             <li class="nav-item"><a class="nav-link" href="services.html" data-translate="çalışmaalanlarımız"></a></li>
             <li class="nav-item"><a class="nav-link" href="team.html" data-translate="ekibimiz"></a></li>
             <li class="nav-item"><a class="nav-link" href="blog.html" data-translate="blog"></a></li>
+            <li class="nav-item"><a class="nav-link" href="sss.html" data-translate="sss"></a></li>
             <li class="nav-item active"><a class="nav-link" href="contact.html" data-translate="iletişim"></a></li>
           </ul>
         </div>
@@ -127,29 +136,38 @@
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3059.737140066232!2d32.851339100000004!3d39.924898299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34f5fa696b8dd%3A0xc9654c59260647e9!2sPehlivan%20%26%20G%C3%BCven%20Hukuk%20B%C3%BCrosu!5e0!3m2!1sen!2str!4v1727161681499!5m2!1sen!2str" width="600" height="450" style="border:0; width: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>      </div>
     </div>
 
-    <div class="row">
-      <div class="col-md-4 custom-col mb-4 mb-md-0">
-        <div class="media contact-info">
-          <span class="contact-info__icon"><i class="ti-home"></i></span>
-          <div class="media-body">
-            <h3>PEHLİVAN & GÜVEN Hukuk Bürosu</h3>
-            <p data-translate="adres_necatibeycaddesi_no_40_10">Necatibey Caddesi No:40/10 Sıhhıye/ANKARA</p>
-          </div>
+    <div class="row contact-cards">
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="contact-card">
+          <span class="contact-card__icon"><i class="ti-home"></i></span>
+          <h3>PEHLİVAN &amp; GÜVEN<br>Hukuk Bürosu</h3>
+          <p data-translate="adres_necatibeycaddesi_no_40_10">Necatibey Caddesi No:40/10 Sıhhıye/ANKARA</p>
+          <a class="contact-card__btn" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/?api=1&destination=Pehlivan+%26+G%C3%BCven+Hukuk+B%C3%BCrosu+Ankara">
+            <i class="ti-location-pin"></i> <span data-translate="yol_tarifi_al">Yol Tarifi Al</span>
+          </a>
         </div>
-        <div class="media contact-info">
-          <span class="contact-info__icon"><i class="ti-mobile"></i></span>
-          <div class="media-body">
-            <h3><a href="tel:0312 231 99 40" data-translate="ofis_tel">0312 231 99 40</a></h3>
-            <p data-translate="çalışma_günleri">Pazartesi - Cuma</p>
-            <p data-translate="çalışma_saatleri">09.00 - 18.00</p>
-          </div>
+      </div>
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="contact-card">
+          <span class="contact-card__icon"><i class="ti-mobile"></i></span>
+          <h3><a href="tel:03122319940" data-translate="ofis_tel">0312 231 99 40</a></h3>
+          <p>
+            <span data-translate="çalışma_günleri">Pazartesi - Cuma</span><br>
+            <span data-translate="çalışma_saatleri">09.00 - 18.00</span>
+          </p>
+          <a class="contact-card__btn" href="tel:03122319940">
+            <i class="ti-headphone-alt"></i> <span data-translate="hemen_ara">Hemen Ara</span>
+          </a>
         </div>
-        <div class="media contact-info">
-          <span class="contact-info__icon"><i class="ti-email"></i></span>
-          <div class="media-body">
-            <h3><a href="mailto:pehlivanguvenhukuk@gmail.com" data-translate="email">pehlivanguvenhukuk@gmail.com</a></h3>
-            <p data-translate="mail_yazı">Bize mesaj atabilirsiniz!</p>
-          </div>
+      </div>
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="contact-card">
+          <span class="contact-card__icon"><i class="ti-email"></i></span>
+          <h3><a href="mailto:pehlivanguvenhukuk@gmail.com" data-translate="email">pehlivanguvenhukuk@gmail.com</a></h3>
+          <p data-translate="mail_yazı">Bize mesaj atabilirsiniz!</p>
+          <a class="contact-card__btn" target="_blank" rel="noopener" href="https://mail.google.com/mail/?view=cm&fs=1&to=pehlivanguvenhukuk@gmail.com&su=Hukuki%20Dan%C4%B1%C5%9Fmanl%C4%B1k%20Talebi&body=Merhaba%2C%0A%0AWeb%20sitenizden%20ula%C5%9F%C4%B1yorum.%20Hukuki%20dan%C4%B1%C5%9Fmanl%C4%B1k%20almak%20istiyorum.%0A%0AAd%C4%B1m%20Soyad%C4%B1m%3A%20%0ATelefon%3A%20%0AKonu%3A%20%0A%0ATe%C5%9Fekk%C3%BCrler.">
+            <i class="ti-email"></i> <span data-translate="mail_gonder">Mail Gönder</span>
+          </a>
         </div>
       </div>
     </div>
@@ -182,6 +200,7 @@
                 <li class="nav-item"><a class="nav-link" href="services.html" data-translate="çalışmaalanlarımız"></a></li>
                 <li class="nav-item"><a class="nav-link" href="team.html" data-translate="ekibimiz"></a></li>
                 <li class="nav-item"><a class="nav-link" href="blog.html" data-translate="blog"></a></li>
+                <li class="nav-item"><a class="nav-link" href="sss.html" data-translate="sss"></a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.html" data-translate="iletişim"></a></li>
               </ul>
             </div>
@@ -237,5 +256,25 @@
 <script src="js/jquery.ajaxchimp.min.js"></script>
 <script src="js/mail-script.js"></script>
 <script src="js/main.js"></script>
+<!-- KVKK Cookie Banner -->
+<div class="cookie-banner" id="cookieBanner">
+  <div class="cookie-banner__inner">
+    <div class="cookie-banner__text" data-translate="kvkk_text">
+      Bu web sitesi, deneyiminizi geliştirmek için çerezler kullanmaktadır. Siteyi kullanmaya devam ederek çerez politikamızı kabul etmiş olursunuz.
+    </div>
+    <button class="cookie-banner__btn" id="cookieAccept" data-translate="kvkk_kabul">Kabul Et</button>
+  </div>
+</div>
+<script>
+(function(){
+  if(!localStorage.getItem('cookieAccepted')){
+    document.getElementById('cookieBanner').style.display='block';
+  }
+  document.getElementById('cookieAccept').addEventListener('click',function(){
+    localStorage.setItem('cookieAccepted','true');
+    document.getElementById('cookieBanner').style.display='none';
+  });
+})();
+</script>
 </body>
 </html>

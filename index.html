@@ -1,6 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D6YEHVYLDV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-D6YEHVYLDV');
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -17,6 +25,15 @@
   <link rel="stylesheet" href="vendors/Magnific-Popup/magnific-popup.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link rel="stylesheet" href="css/style.css">
+  <style>
+  @media (max-width: 767px) {
+    .hero-banner h1 { font-size: 26px !important; padding: 0 15px; text-align: center !important; }
+    .hero-banner .hero-subtitle { font-size: 13px !important; padding: 0 15px; }
+    .cta__content h2 { font-size: 20px !important; }
+    .cta__content p { font-size: 13px !important; padding: 0 10px; }
+    .section-intro__title { font-size: 22px !important; }
+  }
+  </style>
 
   <meta name="description" content="Ankara’da İranlı avukat desteğiyle Pehlivan & Güven Hukuk Bürosu, ceza, boşanma, ticaret, miras ve uluslararası davalarda profesyonel avukatlık hizmeti sunar. وکیل ایرانی فارسی زبان در ترکیه">
   <meta name="keywords" content="Ankara hukuk bürosu, Türkiye avukat, boşanma avukatı, ceza avukatı, miras hukuku, ticaret hukuku, uluslararası hukuk, İranlı avukat, danışmanlık, وکیل ایرانی فارسی زبان در ترکیه, Ankara en iyi boşanma avukatı">
@@ -28,13 +45,52 @@
   <meta property="og:image" content="https://pehlivanguvenhukuk.com/img/logo_1200_630.png" />
   <meta property="og:url" content="https://pehlivanguvenhukuk.com/" />
   <meta property="og:type" content="website" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LegalService",
+    "name": "Pehlivan & Güven Hukuk Bürosu",
+    "image": "https://pehlivanguvenhukuk.com/img/logo.png",
+    "url": "https://pehlivanguvenhukuk.com",
+    "telephone": ["+90-312-231-99-40", "+90-554-303-98-54"],
+    "email": "pehlivanguvenhukuk@gmail.com",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Necatibey Caddesi No:40/10",
+      "addressLocality": "Çankaya",
+      "addressRegion": "Ankara",
+      "postalCode": "06420",
+      "addressCountry": "TR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.9248983,
+      "longitude": 32.8513391
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "09:00",
+      "closes": "18:00"
+    },
+    "priceRange": "$$",
+    "areaServed": {
+      "@type": "City",
+      "name": "Ankara"
+    },
+    "knowsLanguage": ["tr", "fa", "en"],
+    "sameAs": [
+      "https://www.instagram.com/pehlivanguvenhukuk"
+    ]
+  }
+  </script>
 </head>
 <body>
 
 <!-- Whatsapp butonu (ikon ile) -->
 <div class="whatsapp-icon">
-  <a id="whatsappButton" class="whatsappButton" href="https://wa.me/05543039854" target="_blank">
-    <img src="img/whatsapp.png" alt="WhatsApp" class="whatsapp-icon-img">
+  <a id="whatsappButton" class="whatsappButton" href="https://wa.me/905543039854?text=Merhaba%2C%20web%20sitenizden%20ula%C5%9F%C4%B1yorum.%20Hukuki%20dan%C4%B1%C5%9Fmanl%C4%B1k%20almak%20istiyorum." target="_blank">
+    <img loading="lazy" src="img/whatsapp.png" alt="WhatsApp" class="whatsapp-icon-img">
   </a>
 </div>
 
@@ -48,7 +104,7 @@
   <!--================ Header Menu Area start =================-->
   <header class="header_area">
     <div class="main_menu">
-      <section class="header-top d-none d-sm-block">
+      <section class="header-top">
         <div class="container">
           <div class="d-sm-flex justify-content-between align-items-center">
             <ul class="header-top__info mb-2 mb-sm-0">
@@ -64,13 +120,13 @@
                 <!-- Farsça butonu (İran bayrağı) -->
                 <li>
                   <a href="#" class="lang-select" data-lang="fa">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Farsça" style="width: 20px; height: 14px;">
+                    <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Farsça" style="width: 20px; height: 14px;">
                   </a>
                 </li>
                 <!-- Türkçe butonu (Türkiye bayrağı) -->
                 <li>
                   <a href="#" class="lang-select" data-lang="tr">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türkçe" style="width: 20px; height: 14px;">
+                    <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türkçe" style="width: 20px; height: 14px;">
                   </a>
                 </li>
               </ul>
@@ -82,7 +138,7 @@
       <!--================ Header Top Area end =================-->
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container box_1620">
-          <a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+          <a class="navbar-brand logo_h" href="index.html"><img loading="lazy" src="img/logo.png" alt="Pehlivan ve Güven Hukuk Bürosu Logo"></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -97,6 +153,7 @@
               <li class="nav-item"><a class="nav-link" href="services.html" data-translate="çalışmaalanlarımız"></a></li>
               <li class="nav-item"><a class="nav-link" href="team.html" data-translate="ekibimiz"></a></li>
               <li class="nav-item"><a class="nav-link" href="blog.html" data-translate="blog"></a></li>
+              <li class="nav-item"><a class="nav-link" href="sss.html" data-translate="sss"></a></li>
               <li class="nav-item"><a class="nav-link" href="contact.html" data-translate="iletişim"></a></li>
             </ul>
           </div>
@@ -111,7 +168,11 @@
   <section class="hero-banner">
     <div class="hero-banner__content text-center">
       <h1 data-translate="hızlıveetkilihukukidanışmanlıkhizmeti">HIZLI VE ETKİLİ HUKUKİ DANIŞMANLIK HİZMETİ</h1>
-      <a class="button" href="contact.html" data-translate="iletişim">İLETİŞİM</a>
+      <p class="hero-subtitle" data-translate="hero_subtitle">Ankara merkezli, Türkçe ve Farsça hizmet veren uzman hukuk bürosu</p>
+      <div class="hero-buttons">
+        <a class="button" href="contact.html" data-translate="iletişim">İLETİŞİM</a>
+        <a id="heroWhatsapp" class="button button--whatsapp" href="https://wa.me/905543039854?text=Merhaba%2C%20web%20sitenizden%20ula%C5%9F%C4%B1yorum.%20Hukuki%20dan%C4%B1%C5%9Fmanl%C4%B1k%20almak%20istiyorum." target="_blank"><i class="fab fa-whatsapp"></i> <span data-translate="hero_whatsapp">WhatsApp ile Yazın</span></a>
+      </div>
     </div>
   </section>
   <!--================ Hero Banner end =================-->
@@ -121,7 +182,7 @@
     <div class="about__videoWrapper">
       <div class="about__video">
         <div class="about__video-image">
-          <img class="card-img" src="img/home/video-bg.png" alt="">
+          <img loading="lazy" class="card-img" src="img/home/video-bg.png" alt="Pehlivan ve Güven Hukuk Bürosu Ofis">
         </div>
       </div>
     </div>
@@ -147,15 +208,14 @@
     <div class="container">
       <div class="section-intro text-center pb-65px">
         <h2 class="section-intro__title" data-translate="çalışmaalanlarımız">ÇALIŞMA ALANLARIMIZ</h2>
-        <p></p>
       </div>
       <div class="row">
         <div class="col-sm-6 col-lg-4 col-xl-3 mb-4 mb-xl-0">
           <div class="card card-subject">
             <div class="card-subject__img">
-              <img class="card-img rounded-0" src="img/home/subject-1.png" alt="">
+              <img loading="lazy" class="card-img rounded-0" src="img/home/subject-1.png" alt="Yabancılar Hukuku">
               <div class="card-subject__imgOverlay">
-                <img src="img/home/hover-icon.png" alt="">
+                <img loading="lazy" src="img/home/hover-icon.png" alt="">
               </div>
             </div>
             <div class="card-subject__body">
@@ -170,16 +230,16 @@
         <div class="col-sm-6 col-lg-4 col-xl-3 mb-4 mb-xl-0">
           <div class="card card-subject">
             <div class="card-subject__img">
-              <img class="card-img rounded-0" src="img/home/subject-2.png" alt="">
+              <img loading="lazy" class="card-img rounded-0" src="img/home/subject-2.png" alt="İş Hukuku">
               <div class="card-subject__imgOverlay">
-                <img src="img/home/hover-icon.png" alt="">
+                <img loading="lazy" src="img/home/hover-icon.png" alt="">
               </div>
             </div>
             <div class="card-subject__body">
               <h3><a href="laborlaw.html" data-translate="işhukuku">İŞ HUKUKU</a></h3>
             </div>
             <div class="card-blog__footer">
-              <a href="foreignerslaw.html" data-translate="dahafazlası">Daha Fazlası<i class="ti-arrow-right"></i></a>
+              <a href="laborlaw.html" data-translate="dahafazlası">Daha Fazlası<i class="ti-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -187,16 +247,16 @@
         <div class="col-sm-6 col-lg-4 col-xl-3 mb-4 mb-xl-0">
           <div class="card card-subject">
             <div class="card-subject__img">
-              <img class="card-img rounded-0" src="img/home/subject-3.png" alt="">
+              <img loading="lazy" class="card-img rounded-0" src="img/home/subject-3.png" alt="Aile Hukuku ve Boşanma">
               <div class="card-subject__imgOverlay">
-                <img src="img/home/hover-icon.png" alt="">
+                <img loading="lazy" src="img/home/hover-icon.png" alt="">
               </div>
             </div>
             <div class="card-subject__body">
               <h3><a href="familylaw.html" data-translate="ailehukukuveboşanma">AİLE HUKUKU-BOŞANMA</a></h3>
             </div>
             <div class="card-blog__footer">
-              <a href="foreignerslaw.html" data-translate="dahafazlası">Daha Fazlası<i class="ti-arrow-right"></i></a>
+              <a href="familylaw.html" data-translate="dahafazlası">Daha Fazlası<i class="ti-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -204,17 +264,16 @@
         <div class="col-sm-6 col-lg-4 col-xl-3 mb-4 mb-xl-0">
           <div class="card card-subject">
             <div class="card-subject__img">
-              <img class="card-img rounded-0" src="img/home/subject-4.png" alt="">
+              <img loading="lazy" class="card-img rounded-0" src="img/home/subject-4.png" alt="Miras Hukuku">
               <div class="card-subject__imgOverlay">
-                <img src="img/home/hover-icon.png" alt="">
+                <img loading="lazy" src="img/home/hover-icon.png" alt="">
               </div>
             </div>
             <div class="card-subject__body">
               <h3><a href="inheritancelaw.html" data-translate="mirashukuku">MİRAS HUKUKU</a></h3>
-<!--              <p>Dominion there fifth fowl eving heaven in life you're over us moved creepeth morn make</p>-->
             </div>
             <div class="card-blog__footer">
-              <a href="foreignerslaw.html" data-translate="dahafazlası">Daha Fazlası<i class="ti-arrow-right"></i></a>
+              <a href="inheritancelaw.html" data-translate="dahafazlası">Daha Fazlası<i class="ti-arrow-right"></i></a>
             </div>
           </div>
         </div>
@@ -262,6 +321,7 @@
                   <li class="nav-item"><a class="nav-link" href="services.html" data-translate="çalışmaalanlarımız"></a></li>
                   <li class="nav-item"><a class="nav-link" href="team.html" data-translate="ekibimiz"></a></li>
                   <li class="nav-item"><a class="nav-link" href="blog.html" data-translate="blog"></a></li>
+                  <li class="nav-item"><a class="nav-link" href="sss.html" data-translate="sss"></a></li>
                   <li class="nav-item"><a class="nav-link" href="contact.html" data-translate="iletişim"></a></li>
                 </ul>
               </div>
@@ -314,5 +374,25 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
   <script src="js/jquery.ajaxchimp.min.js"></script>
   <script src="js/mail-script.js"></script>
   <script src="js/main.js"></script>
+<!-- KVKK Cookie Banner -->
+<div class="cookie-banner" id="cookieBanner">
+  <div class="cookie-banner__inner">
+    <div class="cookie-banner__text" data-translate="kvkk_text">
+      Bu web sitesi, deneyiminizi geliştirmek için çerezler kullanmaktadır. Siteyi kullanmaya devam ederek çerez politikamızı kabul etmiş olursunuz.
+    </div>
+    <button class="cookie-banner__btn" id="cookieAccept" data-translate="kvkk_kabul">Kabul Et</button>
+  </div>
+</div>
+<script>
+(function(){
+  if(!localStorage.getItem('cookieAccepted')){
+    document.getElementById('cookieBanner').style.display='block';
+  }
+  document.getElementById('cookieAccept').addEventListener('click',function(){
+    localStorage.setItem('cookieAccepted','true');
+    document.getElementById('cookieBanner').style.display='none';
+  });
+})();
+</script>
 </body>
 </html>

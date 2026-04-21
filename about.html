@@ -25,6 +25,22 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
   <link rel="stylesheet" href="css/style.css">
+  <style>
+  .about-stats-wrapper{position:relative;z-index:5;margin-top:-45px;margin-bottom:20px}
+  .about-stats-row{display:flex;justify-content:center;align-items:center;background:#fff;border-radius:40px;box-shadow:0 6px 20px rgba(20,20,20,.1);padding:14px 32px;max-width:600px;margin:0 auto;gap:0}
+  .about-stats__item{text-align:center;flex:1;padding:6px 16px}
+  .about-stats__number{font-size:28px;font-weight:900;color:#de6320;line-height:1}
+  .about-stats__label{font-size:11px;color:#555;font-weight:600;text-transform:uppercase;letter-spacing:.5px;display:block;margin-top:2px}
+  .about-stats__divider{width:1px;height:36px;background:rgba(20,20,20,.12)}
+  .about-section-up{margin-top:30px !important}
+  .about-stats__sub{display:block;font-size:9px;color:#999;margin-top:2px;letter-spacing:.3px}
+  @media(max-width:575px){
+    .about-stats-row{padding:12px 16px;max-width:100%;border-radius:14px}
+    .about-stats__number{font-size:22px}
+    .about-stats__label{font-size:10px}
+    .about-stats__item{padding:4px 10px}
+  }
+  </style>
 
   <meta name="description" content="Ankara merkezli Pehlivan & Güven Hukuk Bürosu, yabancılar hukuku, boşanma, iş hukuku, miras ve kira hukuku alanlarında uzman kadrosuyla hizmet vermektedir. Türkçe, Farsça ve İngilizce dil desteği.">
   <meta name="keywords" content="Ankara avukat, boşanma avukatı Ankara, yabancılar hukuku avukatı, iş hukuku avukatı, miras avukatı, kira hukuku, İranlı avukat Ankara, Farsça avukat, Pehlivan Güven Hukuk, Ankara hukuk bürosu">
@@ -126,9 +142,36 @@
   </section>
   <!--================ Hero sm Banner end =================-->
 
+  <!--================ Stats section start =================-->
+  <div class="about-stats-wrapper">
+    <div class="container">
+      <div class="about-stats-row">
+        <div class="about-stats__item">
+          <span class="about-stats__number" data-target="10" data-suffix="+">0</span>
+          <span class="about-stats__label" data-translate="yıl_deneyim">Yıl Deneyim</span>
+        </div>
+        <div class="about-stats__divider"></div>
+        <div class="about-stats__item">
+          <span class="about-stats__number" data-target="3" data-suffix="">0</span>
+          <span class="about-stats__label" data-translate="uzman_avukat">Uzman Avukat</span>
+        </div>
+        <div class="about-stats__divider"></div>
+        <div class="about-stats__item">
+          <span class="about-stats__number" data-target="7" data-suffix="+">0</span>
+          <span class="about-stats__label" data-translate="hukuk_dalı">Hukuk Dalı</span>
+        </div>
+        <div class="about-stats__divider"></div>
+        <div class="about-stats__item">
+          <span class="about-stats__number" data-target="3" data-suffix="">0</span>
+          <span class="about-stats__label" data-translate="dil_desteği">Dil Desteği</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--================ Stats section end =================-->
 
   <!--================ About section start =================-->
-  <section class="d-lg-flex align-items-center section-margin--large">
+  <section class="d-lg-flex align-items-center section-margin--large about-section-up">
     <div class="about__videoWrapper">
       <div class="about__video">
         <div class="about__video-image">
@@ -142,7 +185,7 @@
         <p data-translate="hakkımızda_paragraf_1"></p>
         <p data-translate="hakkımızda_paragraf0"></p>
         <p data-translate="hakkımızda_paragraf1">Pehlivan & Güven Hukuk Bürosu olarak, müvekkillerimize en yüksek kalitede hukuki danışmanlık ve temsil hizmetleri sunmaktan gurur duyuyoruz. Büromuz, farklı kültürleri ve hukuk sistemlerini bir araya getiren bir uzmanlıkla, özellikle yabancılar hukuku, ticaret hukuku, sigorta hukuku ve mülteci hakları alanlarında derin bilgi birikimine sahiptir.</p>
-        <p data-translate="hakkımızda_paragraf2">Av. Aydın Güven, İran'da başladığı hukuk kariyerini Türkiye'de geliştirmiş, İranlılar başta olmak üzere yabancılar hukukunda uzmanlaşmıştır. Farsça ve Türkçe bilmektedir.Ankara’da İranlı avukat müvekkillerine hukuki, cezai, idari, mülteci ve vatandaşlık hukuku alanlarında profesyonel destek sunmaktadır.</p>
+        <p data-translate="hakkımızda_paragraf2">Av. Aydın Güven, İran’da başladığı hukuk kariyerini Türkiye’de geliştirmiş, İranlılar başta olmak üzere yabancılar hukukunda uzmanlaşmıştır. Farsça ve Türkçe bilmektedir.Ankara’da İranlı avukat müvekkillerine hukuki, cezai, idari, mülteci ve vatandaşlık hukuku alanlarında profesyonel destek sunmaktadır.</p>
         <p data-translate="hakkımızda_paragraf3">Av. Abdurrahman Pehlivan, Ankara Barosu’na bağlı olarak mülteci hukuku, taşınmaz hukuku, miras hukuku ve tazminat hukuku gibi çeşitli alanlarda çalışmakta olup, aynı zamanda uzlaştırmacı ve uzman arabulucudur. İngilizce bilmektedir ve müvekkillerine kapsamlı hukuki hizmetler sunmaktadır.</p>
         <p data-translate="hakkımızda_paragraf4">Av. Canan Pehlivan, Fikri Mülkiyet ve Rekabet Hukuku, Marka Hukuku, taşınmaz hukuku gibi alanlarda uzmanlaşmış olup, aynı zamanda bilirkişilik ve arabuluculuk görevlerini de başarıyla yürütmektedir. Çeşitli özel hukuk alanlarında derinlemesine bilgiye sahiptir.</p>
         <p data-translate="hakkımızda_paragraf5">Pehlivan & Güven Hukuk Bürosu olarak, müvekkillerimizin her türlü hukuki ihtiyaçlarına etkin ve sonuç odaklı çözümler sunmayı ilke edinmiş durumdayız. Hukukun her alanında profesyonel desteğimizle yanınızdayız.</p>
@@ -227,6 +270,37 @@
   <script src="js/jquery.ajaxchimp.min.js"></script>
   <script src="js/mail-script.js"></script>
   <script src="js/main.js"></script>
+  <script>
+  (function(){
+    var counted = false;
+    var duration = 1000;
+    function animateCounters(){
+      if(counted) return;
+      var section = document.querySelector('.about-stats-wrapper');
+      if(!section) return;
+      var rect = section.getBoundingClientRect();
+      if(rect.top < window.innerHeight && rect.bottom > 0){
+        counted = true;
+        document.querySelectorAll('.about-stats__number').forEach(function(el){
+          var target = parseInt(el.getAttribute('data-target'));
+          var suffix = el.getAttribute('data-suffix') || '';
+          var interval = Math.floor(duration / target);
+          var current = 0;
+          var timer = setInterval(function(){
+            current++;
+            if(current >= target){
+              current = target;
+              clearInterval(timer);
+            }
+            el.textContent = current + suffix;
+          }, interval);
+        });
+      }
+    }
+    window.addEventListener('scroll', animateCounters);
+    window.addEventListener('load', animateCounters);
+  })();
+  </script>
 <!-- KVKK Cookie Banner -->
 <div class="cookie-banner" id="cookieBanner">
   <div class="cookie-banner__inner">

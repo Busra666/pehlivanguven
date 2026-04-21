@@ -1,6 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D6YEHVYLDV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-D6YEHVYLDV");
+  </script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -37,8 +45,8 @@
 
 <!-- Whatsapp butonu (ikon ile) -->
 <div class="whatsapp-icon">
-  <a id="whatsappButton" class="whatsappButton" href="https://wa.me/05543039854" target="_blank">
-    <img src="img/whatsapp.png" alt="WhatsApp" class="whatsapp-icon-img">
+  <a id="whatsappButton" class="whatsappButton" href="https://wa.me/905543039854?text=Merhaba%2C%20web%20sitenizden%20ula%C5%9F%C4%B1yorum.%20Hukuki%20dan%C4%B1%C5%9Fmanl%C4%B1k%20almak%20istiyorum." target="_blank">
+    <img loading="lazy" src="img/whatsapp.png" alt="WhatsApp" class="whatsapp-icon-img">
   </a>
 </div>
 
@@ -52,7 +60,7 @@
     <div class="main_menu">
 
       <!--================ Header Top Area Start =================-->
-      <section class="header-top d-none d-sm-block">
+      <section class="header-top">
         <div class="container">
           <div class="d-sm-flex justify-content-between align-items-center">
             <ul class="header-top__info mb-2 mb-sm-0">
@@ -68,13 +76,13 @@
                 <!-- Farsça butonu (İran bayrağı) -->
                 <li>
                   <a href="#" class="lang-select" data-lang="fa">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Farsça" style="width: 20px; height: 14px;">
+                    <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg" alt="Farsça" style="width: 20px; height: 14px;">
                   </a>
                 </li>
                 <!-- Türkçe butonu (Türkiye bayrağı) -->
                 <li>
                   <a href="#" class="lang-select" data-lang="tr">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türkçe" style="width: 20px; height: 14px;">
+                    <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Türkçe" style="width: 20px; height: 14px;">
                   </a>
                 </li>
               </ul>
@@ -86,7 +94,7 @@
       <!--================ Header Top Area end =================-->
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container box_1620">
-          <a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+          <a class="navbar-brand logo_h" href="index.html"><img loading="lazy" src="img/logo.png" alt="Pehlivan ve Güven Hukuk Bürosu Logo"></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -101,6 +109,7 @@
               <li class="nav-item"><a class="nav-link" href="services.html" data-translate="çalışmaalanlarımız"></a></li>
               <li class="nav-item"><a class="nav-link" href="team.html" data-translate="ekibimiz"></a></li>
               <li class="nav-item active"><a class="nav-link" href="blog.html" data-translate="blog"></a></li>
+              <li class="nav-item"><a class="nav-link" href="sss.html" data-translate="sss"></a></li>
               <li class="nav-item"><a class="nav-link" href="contact.html" data-translate="iletişim"></a></li>
             </ul>
           </div>
@@ -125,21 +134,55 @@
   <section class="blog_area pb-xl-4">
     <div class="container">
       <div class="blog-filters text-center mb-5">
-        <button class="filter-btn active" data-filter="all">Tümü</button>
-        <button class="filter-btn" data-filter="yabancilar">Yabancılar Hukuku</button>
-        <button class="filter-btn" data-filter="iş">İş Hukuku</button>
-        <button class="filter-btn" data-filter="kira">Kira Hukuku</button>
-        <button class="filter-btn" data-filter="miras">Miras Hukuku</button>
-        <button class="filter-btn" data-filter="tüketici">Tüketici Hukuku</button>
-        <button class="filter-btn" data-filter="boşanma">Boşanma Hukuku</button>
-        <button class="filter-btn" data-filter="saglik">Sağlık Hukuku</button>
+        <button class="filter-btn active" data-filter="all" data-translate="blog_filtre_tumu">Tümü</button>
+        <button class="filter-btn" data-filter="yabancilar" data-translate="blog_filtre_yabancilar">Yabancılar Hukuku</button>
+        <button class="filter-btn" data-filter="iş" data-translate="blog_filtre_is">İş Hukuku</button>
+        <button class="filter-btn" data-filter="kira" data-translate="blog_filtre_kira">Kira Hukuku</button>
+        <button class="filter-btn" data-filter="miras" data-translate="blog_filtre_miras">Miras Hukuku</button>
+        <button class="filter-btn" data-filter="tüketici" data-translate="blog_filtre_tuketici">Tüketici Hukuku</button>
+        <button class="filter-btn" data-filter="boşanma" data-translate="blog_filtre_bosanma">Boşanma Hukuku</button>
+        <button class="filter-btn" data-filter="saglik" data-translate="blog_filtre_saglik">Sağlık Hukuku</button>
+        <button class="filter-btn" data-filter="tazminat" data-translate="blog_filtre_tazminat">Tazminat Hukuku</button>
       </div>
 
       <div class="row blog_left_sidebar">
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
+            <a href="blog26.html">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/vatandaslik_krizi.png" alt="İstanbul Vatandaşlık Krizi ve Türk Vatandaşlığının İptali">
+            </a>
+            <div class="blog_details">
+              <a href="blog26.html">
+                <h2 data-translate="blog26_baslik"></h2>
+              </a>
+              <p data-translate="blog26_kisa">İstanbul'daki vatandaşlık krizi iddiaları ışığında Türk vatandaşlığının iptali: hukuki değerlendirme, iptal sebepleri ve hukuki yollar.</p>
+              <a class="button button-blog" href="blog26.html" data-translate="dahafazlası">Daha Fazlası</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 blog-item tazminat">
+          <div class="blog_post">
+            <span class="blog-badge badge-tazminat" data-translate="blog_badge_tazminat">Tazminat Hukuku</span>
+            <a href="blog25.html">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/Trafik_Kazası_Sonrası_Maddi_ve_Manevi_Tazminat_Rehberi.png" alt="Trafik Kazası Sonrası Maddi ve Manevi Tazminat Rehberi">
+            </a>
+            <div class="blog_details">
+              <a href="blog25.html">
+                <h2 data-translate="blog25_baslik"></h2>
+              </a>
+              <p data-translate="blog25_kisa">Trafik kazası sonrası maddi ve manevi tazminat hakları, hesaplama yöntemleri ve yasal süreç rehberi.</p>
+              <a class="button button-blog" href="blog25.html" data-translate="dahafazlası">Daha Fazlası</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6 blog-item yabancilar">
+          <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog24.html">
-              <img src="img/blog/blogyazılarıfoto/YÖK_Denklik_İptali_Davasında_Emsal_Karar.png" alt="YÖK Denklik İptali Davasında Emsal Karar">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/YÖK_Denklik_İptali_Davasında_Emsal_Karar.png" alt="YÖK Denklik İptali Davasında Emsal Karar">
             </a>
             <div class="blog_details">
               <a href="blog24.html">
@@ -153,8 +196,9 @@
 
         <div class="col-md-6 blog-item iş">
           <div class="blog_post">
+            <span class="blog-badge badge-is" data-translate="blog_badge_is">İş Hukuku</span>
             <a href="blog22.html">
-              <img src="img/blog/blogyazılarıfoto/Gece_Çalışmasında_Fazla_Mesai_(Fazla_Saatlerle_Çalışma).jpg" alt="Gece Çalışmasında Fazla Mesai (Fazla Saatlerle Çalışma)">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/Gece_Çalışmasında_Fazla_Mesai_(Fazla_Saatlerle_Çalışma).jpg" alt="Gece Çalışmasında Fazla Mesai (Fazla Saatlerle Çalışma)">
             </a>
             <div class="blog_details">
               <a href="blog22.html">
@@ -168,8 +212,9 @@
 
         <div class="col-md-6 blog-item iş">
           <div class="blog_post">
+            <span class="blog-badge badge-is" data-translate="blog_badge_is">İş Hukuku</span>
             <a href="blog22.html">
-              <img src="img/blog/blogyazılarıfoto/Fazla_Mesai_ve_Fazla_Sürelerle_Çalışma_Ücretinin_Hesaplanması.jpg" alt="Fazla Mesai ve Fazla Sürelerle Çalışma Ücretinin Hesaplanması">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/Fazla_Mesai_ve_Fazla_Sürelerle_Çalışma_Ücretinin_Hesaplanması.jpg" alt="Fazla Mesai ve Fazla Sürelerle Çalışma Ücretinin Hesaplanması">
             </a>
             <div class="blog_details">
               <a href="blog22.html">
@@ -183,8 +228,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog21.html">
-              <img src="img/blog/blogyazılarıfoto/Denklik_ve_Diploma_İptallerinde_Kazanılmış_Hak_ve_İdarenin_İşlemi_Geri_Alma_Yetkisi.jpg" alt="Denklik ve Diploma İptallerinde Kazanılmış Hak ve İdarenin İşlemi Geri Alma Yetkisi">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/Denklik_ve_Diploma_İptallerinde_Kazanılmış_Hak_ve_İdarenin_İşlemi_Geri_Alma_Yetkisi.jpg" alt="Denklik ve Diploma İptallerinde Kazanılmış Hak ve İdarenin İşlemi Geri Alma Yetkisi">
             </a>
             <div class="blog_details">
               <a href="blog21.html">
@@ -198,8 +244,9 @@
 
         <div class="col-md-6 blog-item iş">
           <div class="blog_post">
+            <span class="blog-badge badge-is" data-translate="blog_badge_is">İş Hukuku</span>
             <a href="blog20.html">
-              <img src="img/blog/blogyazılarıfoto/İŞ_SÖZLEŞMESİNİN_İŞVEREN_TARAFINDAN_HAKLI_NEDENLE_DERHAL_FESHİ.jpg" alt="İŞ SÖZLEŞMESİNİN İŞVEREN TARAFINDAN HAKLI NEDENLE DERHAL FESHİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/İŞ_SÖZLEŞMESİNİN_İŞVEREN_TARAFINDAN_HAKLI_NEDENLE_DERHAL_FESHİ.jpg" alt="İŞ SÖZLEŞMESİNİN İŞVEREN TARAFINDAN HAKLI NEDENLE DERHAL FESHİ">
             </a>
             <div class="blog_details">
               <a href="blog20.html">
@@ -213,8 +260,9 @@
 
         <div class="col-md-6 blog-item iş">
           <div class="blog_post">
+            <span class="blog-badge badge-is" data-translate="blog_badge_is">İş Hukuku</span>
             <a href="blog19.html">
-              <img src="img/blog/blogyazılarıfoto/İŞ_SÖZLEŞMESİNİN_İŞÇİ_TARAFINDAN_FESHİ.jpg" alt="İŞ SÖZLEŞMESİNİN İŞÇİ TARAFINDAN FESHİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/İŞ_SÖZLEŞMESİNİN_İŞÇİ_TARAFINDAN_FESHİ.jpg" alt="İŞ SÖZLEŞMESİNİN İŞÇİ TARAFINDAN FESHİ">
             </a>
             <div class="blog_details">
               <a href="blog19.html">
@@ -228,8 +276,9 @@
 
         <div class="col-md-6 blog-item saglik">
           <div class="blog_post">
+            <span class="blog-badge badge-saglik" data-translate="blog_badge_saglik">Sağlık Hukuku</span>
             <a href="blog18.html">
-              <img src="img/blog/blogyazılarıfoto/SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ.jpg" alt="SAĞLIK MESLEK MENSUPLARININ SORUŞTURMA İZNİ SÜRECİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/SAĞLIK_MESLEK_MENSUPLARININ_SORUŞTURMA_İZNİ_SÜRECİ.jpg" alt="SAĞLIK MESLEK MENSUPLARININ SORUŞTURMA İZNİ SÜRECİ">
             </a>
             <div class="blog_details">
               <a href="blog18.html">
@@ -243,8 +292,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog17.html">
-              <img src="img/blog/blogyazılarıfoto/Yabancıların_Türkiyede_Taşınmaz_Ediniminde_Hukuki_Süreç.png" alt="Yabancıların Türkiye’de Taşınmaz Ediniminde Hukuki Süreç">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/Yabancıların_Türkiyede_Taşınmaz_Ediniminde_Hukuki_Süreç.png" alt="Yabancıların Türkiye’de Taşınmaz Ediniminde Hukuki Süreç">
             </a>
             <div class="blog_details">
               <a href="blog17.html">
@@ -258,8 +308,9 @@
 
         <div class="col-md-6 blog-item tüketici">
           <div class="blog_post">
+            <span class="blog-badge badge-tuketici" data-translate="blog_badge_tuketici">Tüketici Hukuku</span>
             <a href="blog16.html">
-              <img src="img/blog/blogyazılarıfoto/TESLA_EMSAL_KARAR.jpg" alt="TESLA EMSAL KARAR">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/TESLA_EMSAL_KARAR.jpg" alt="TESLA EMSAL KARAR">
             </a>
             <div class="blog_details">
               <a href="blog16.html">
@@ -273,8 +324,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog15.html">
-              <img src="img/blog/blogyazılarıfoto/YATIRIM_YOLUYLA_TÜRK_VATANDAŞLIĞI_KAZANIMI.jpg" alt="YATIRIM YOLUYLA TÜRK VATANDAŞLIĞI KAZANIMI">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/YATIRIM_YOLUYLA_TÜRK_VATANDAŞLIĞI_KAZANIMI.jpg" alt="YATIRIM YOLUYLA TÜRK VATANDAŞLIĞI KAZANIMI">
             </a>
             <div class="blog_details">
               <a href="blog15.html">
@@ -288,8 +340,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog14.html">
-              <img src="img/blog/blogyazılarıfoto/TÜRKİYEDE_YABANCILARIN_ÇALIŞMA_İZNİ.png" alt="TÜRKİYEDE YABANCILARIN ÇALIŞMA İZNİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/TÜRKİYEDE_YABANCILARIN_ÇALIŞMA_İZNİ.png" alt="TÜRKİYEDE YABANCILARIN ÇALIŞMA İZNİ">
             </a>
             <div class="blog_details">
               <a href="blog14.html">
@@ -303,8 +356,9 @@
 
         <div class="col-md-6 blog-item miras">
           <div class="blog_post">
+            <span class="blog-badge badge-miras" data-translate="blog_badge_miras">Miras Hukuku</span>
             <a href="blog13.html">
-              <img src="img/blog/blogyazılarıfoto/MURİS_MUVAZAASI.png" alt="MURİS MUVAZAASI">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/MURİS_MUVAZAASI.png" alt="MURİS MUVAZAASI">
             </a>
             <div class="blog_details">
               <a href="blog13.html">
@@ -318,8 +372,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog12.html">
-              <img src="img/blog/blogyazılarıfoto/YABANCILARIN_TÜRKİYEDE_EVLENMESİ.jpg" alt="YABANCILARIN TÜRKİYE’DE EVLENMESİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/YABANCILARIN_TÜRKİYEDE_EVLENMESİ.jpg" alt="YABANCILARIN TÜRKİYE’DE EVLENMESİ">
             </a>
             <div class="blog_details">
               <a href="blog12.html">
@@ -333,8 +388,9 @@
 
         <div class="col-md-6 blog-item kira">
           <div class="blog_post">
+            <span class="blog-badge badge-kira" data-translate="blog_badge_kira">Kira Hukuku</span>
             <a href="blog11.html">
-              <img src="img/blog/blogyazılarıfoto/KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ.jpg" alt="KİRA TAHLİYE DAVALARINDA TAHLİYE TAAHÜTNAMESİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/KİRA_TAHLİYE_DAVALARINDA_TAHLİYE_TAAHÜTNAMESİ.jpg" alt="KİRA TAHLİYE DAVALARINDA TAHLİYE TAAHÜTNAMESİ">
             </a>
             <div class="blog_details">
               <a href="blog11.html">
@@ -348,8 +404,9 @@
 
         <div class="col-md-6 blog-item boşanma">
           <div class="blog_post">
+            <span class="blog-badge badge-bosanma" data-translate="blog_badge_bosanma">Boşanma Hukuku</span>
             <a href="blog10.html">
-              <img src="img/blog/blogyazılarıfoto/BOŞANMADA_MAL_PAYLAŞIMI.jpg" alt="BOŞANMADA MAL PAYLAŞIMI">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/BOŞANMADA_MAL_PAYLAŞIMI.jpg" alt="BOŞANMADA MAL PAYLAŞIMI">
             </a>
             <div class="blog_details">
               <a href="blog10.html">
@@ -363,8 +420,9 @@
 
         <div class="col-md-6 blog-item boşanma">
           <div class="blog_post">
+            <span class="blog-badge badge-bosanma" data-translate="blog_badge_bosanma">Boşanma Hukuku</span>
             <a href="blog9.html">
-              <img src="img/blog/blogyazılarıfoto/BOŞANMA_SÜRECİ.jpg" alt="BOŞANMA SÜRECİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/BOŞANMA_SÜRECİ.jpg" alt="BOŞANMA SÜRECİ">
             </a>
             <div class="blog_details">
               <a href="blog9.html">
@@ -378,8 +436,9 @@
 
         <div class="col-md-6 blog-item tüketici">
           <div class="blog_post">
+            <span class="blog-badge badge-tuketici" data-translate="blog_badge_tuketici">Tüketici Hukuku</span>
             <a href="blog8.html">
-              <img src="img/blog/blogyazılarıfoto/ARAÇ_DEĞER_KAYBI.jpg" alt="ARAÇ DEĞER KAYBI">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/ARAÇ_DEĞER_KAYBI.jpg" alt="ARAÇ DEĞER KAYBI">
             </a>
             <div class="blog_details">
               <a href="blog8.html">
@@ -393,8 +452,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog7.html">
-              <img src="img/blog/blogyazılarıfoto/İDARİ_GÖZETİM_KARARI_VE_İTİRAZ_SÜRECİ.jpg" alt="İDARİ GÖZETİM KARARI VE İTİRAZ SÜRECİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/İDARİ_GÖZETİM_KARARI_VE_İTİRAZ_SÜRECİ.jpg" alt="İDARİ GÖZETİM KARARI VE İTİRAZ SÜRECİ">
             </a>
             <div class="blog_details">
               <a href="blog7.html">
@@ -408,8 +468,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog6.html">
-              <img src="img/blog/blogyazılarıfoto/TAHDİT_KODLARI_VE_İPTAL_DAVALARI.jpg" alt="TAHDİT KODLARI VE İPTAL DAVALARI">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/TAHDİT_KODLARI_VE_İPTAL_DAVALARI.jpg" alt="TAHDİT KODLARI VE İPTAL DAVALARI">
             </a>
             <div class="blog_details">
               <a href="blog6.html">
@@ -423,8 +484,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog5.html">
-              <img src="img/blog/blogyazılarıfoto/SINIR_DIŞI_KARARLARIVEİPTAL_DAVA.jpg" alt="SINIR DIŞI KARARLARI VE İPTAL DAVALARI SÜRECİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/SINIR_DIŞI_KARARLARIVEİPTAL_DAVA.jpg" alt="SINIR DIŞI KARARLARI VE İPTAL DAVALARI SÜRECİ">
             </a>
             <div class="blog_details">
               <a href="blog5.html">
@@ -438,8 +500,9 @@
 
         <div class="col-md-6 blog-item miras">
           <div class="blog_post">
+            <span class="blog-badge badge-miras" data-translate="blog_badge_miras">Miras Hukuku</span>
             <a href="blog4.html">
-              <img src="img/blog/blogyazılarıfoto/MİRAS_KALAN_TAŞINMAZLARDA_TAPU_İNTİKAL_İŞLEMLERİ.jpg" alt="MİRAS KALAN TAŞINMAZLARDA TAPU İNTİKAL İŞLEMLERİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/MİRAS_KALAN_TAŞINMAZLARDA_TAPU_İNTİKAL_İŞLEMLERİ.jpg" alt="MİRAS KALAN TAŞINMAZLARDA TAPU İNTİKAL İŞLEMLERİ">
             </a>
             <div class="blog_details">
               <a href="blog4.html">
@@ -453,8 +516,9 @@
 
         <div class="col-md-6 blog-item kira">
           <div class="blog_post">
+            <span class="blog-badge badge-kira" data-translate="blog_badge_kira">Kira Hukuku</span>
             <a href="blog3.html">
-              <img src="img/blog/blogyazılarıfoto/kira_ödemelerinde_elden_ödeme_dönemi_bitti.jpg" alt="KİRA ÖDEMELERİNDE ELDEN ÖDEME DÖNEMİ BİTTİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/kira_ödemelerinde_elden_ödeme_dönemi_bitti.jpg" alt="KİRA ÖDEMELERİNDE ELDEN ÖDEME DÖNEMİ BİTTİ">
             </a>
             <div class="blog_details">
               <a href="blog3.html">
@@ -468,8 +532,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog2.html">
-              <img src="img/blog/blogyazılarıfoto/yabancıların_çalışma_izni_muafiyeti.jpg" alt="YABANCILARIN ÇALIŞMA İZNİ MUAFİYETİ">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/yabancıların_çalışma_izni_muafiyeti.jpg" alt="YABANCILARIN ÇALIŞMA İZNİ MUAFİYETİ">
             </a>
             <div class="blog_details">
               <a href="blog2.html">
@@ -483,8 +548,9 @@
 
         <div class="col-md-6 blog-item yabancilar">
           <div class="blog_post">
+            <span class="blog-badge badge-yabancilar" data-translate="blog_badge_yabancilar">Yabancılar Hukuku</span>
             <a href="blog1.html">
-              <img src="img/blog/blogyazılarıfoto/yabancılarınboşanmadavasıBlog.png" alt="TÜRKİYE’DE YABANCILARIN BOŞANMA DAVALARI">
+              <img loading="lazy" src="img/blog/blogyazılarıfoto/yabancılarınboşanmadavasıBlog.png" alt="TÜRKİYE’DE YABANCILARIN BOŞANMA DAVALARI">
             </a>
             <div class="blog_details">
               <a href="blog1.html">
@@ -528,6 +594,7 @@
                   <li class="nav-item"><a class="nav-link" href="services.html" data-translate="çalışmaalanlarımız"></a></li>
                   <li class="nav-item"><a class="nav-link" href="team.html" data-translate="ekibimiz"></a></li>
                   <li class="nav-item"><a class="nav-link" href="blog.html" data-translate="blog"></a></li>
+                  <li class="nav-item"><a class="nav-link" href="sss.html" data-translate="sss"></a></li>
                   <li class="nav-item"><a class="nav-link" href="contact.html" data-translate="iletişim"></a></li>
                 </ul>
               </div>
@@ -602,5 +669,25 @@
   });
 </script>
 
+<!-- KVKK Cookie Banner -->
+<div class="cookie-banner" id="cookieBanner">
+  <div class="cookie-banner__inner">
+    <div class="cookie-banner__text" data-translate="kvkk_text">
+      Bu web sitesi, deneyiminizi geliştirmek için çerezler kullanmaktadır. Siteyi kullanmaya devam ederek çerez politikamızı kabul etmiş olursunuz.
+    </div>
+    <button class="cookie-banner__btn" id="cookieAccept" data-translate="kvkk_kabul">Kabul Et</button>
+  </div>
+</div>
+<script>
+(function(){
+  if(!localStorage.getItem('cookieAccepted')){
+    document.getElementById('cookieBanner').style.display='block';
+  }
+  document.getElementById('cookieAccept').addEventListener('click',function(){
+    localStorage.setItem('cookieAccepted','true');
+    document.getElementById('cookieBanner').style.display='none';
+  });
+})();
+</script>
 </body>
 </html>

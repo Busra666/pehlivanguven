@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /vendors/
+Disallow: /scss/
+
+Sitemap: https://pehlivanguvenhukuk.com/sitemap.xml
